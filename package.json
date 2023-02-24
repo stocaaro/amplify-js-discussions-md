@@ -1,0 +1,23 @@
+{
+  "name": "amplify-js-discussions-md",
+  "version": "1.0.0",
+  "description": "Quick repo to translate and share the github discussion json export.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stocaaro/amplify-js-discussions-md.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stocaaro/amplify-js-discussions-md/issues"
+  },
+  "homepage": "https://github.com/stocaaro/amplify-js-discussions-md#readme",
+  "dependencies": {
+    "graphql-request": "^5.1.0"
+  }
+}
