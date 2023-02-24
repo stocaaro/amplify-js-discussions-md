@@ -17,10 +17,10 @@ json['data'].each do |disc|
     puts
     puts '---------------'
     puts
-    puts 'Author: @' + node.dig('author', 'login').to_s
-    puts 'Upvotes: ' + node['upvoteCount'].to_s
+    puts '**Author**: @' + node.dig('author', 'login').to_s
+    puts '**Upvotes**: ' + node['upvoteCount'].to_s
     comments = node.dig('comments', 'edges')
-    puts 'Comments: ' + comments&.count&.to_s
+    puts '**Comments**: ' + comments&.count&.to_s
     puts
     puts closeCode(node['body'])
 

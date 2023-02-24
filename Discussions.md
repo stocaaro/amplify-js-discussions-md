@@ -2,9 +2,9 @@
 
 ---------------
 
-Author: @duranmla
-Upvotes: 1
-Comments: 0
+**Author**: @duranmla
+**Upvotes**: 1
+**Comments**: 0
 
 Having two models like:
 
@@ -79,9 +79,9 @@ const projects = await DataStore.query(Project, (p) => p.tags.tag.name.eq('deser
 
 ---------------
 
-Author: @knuspertante
-Upvotes: 3
-Comments: 1
+**Author**: @knuspertante
+**Upvotes**: 3
+**Comments**: 1
 
 Hey guys, 
 
@@ -227,9 +227,9 @@ export const taskByOutCompany = /* GraphQL */ `
 
 ---------------
 
-Author: @kyosukedev
-Upvotes: 1
-Comments: 0
+**Author**: @kyosukedev
+**Upvotes**: 1
+**Comments**: 0
 
 I have a question about creating a registration web page using 'react'.
 I want to change the input fields in formFields to dropdown list selection. Can you tell me how to implement this?
@@ -279,9 +279,9 @@ export default function App() {
 
 ---------------
 
-Author: @kyosukedev
-Upvotes: 1
-Comments: 0
+**Author**: @kyosukedev
+**Upvotes**: 1
+**Comments**: 0
 
 What kind of code should we write to introduce 'recapcha' for the implementation of the member registration page using 'Amplify'?
 
@@ -346,9 +346,9 @@ export default function App() {
 
 ---------------
 
-Author: @cmason9
-Upvotes: 2
-Comments: 2
+**Author**: @cmason9
+**Upvotes**: 2
+**Comments**: 2
 
 Im not sure if this is a bug or not or whether i have just not done the steps correctly. I have followed this guide (https://docs.amplify.aws/lib/restapi/existing-resources/q/platform/ios/) on Amplify docs to configure an existing API Gateway into my iOS Swift app manually. I have successfully added the api JSON block to the amplifyconfiguration.json file and configured it with my iOS app and it is working as expected. 
 
@@ -382,9 +382,9 @@ Author: @haverchuck
 
 ---------------
 
-Author: @belfortf
-Upvotes: 1
-Comments: 0
+**Author**: @belfortf
+**Upvotes**: 1
+**Comments**: 0
 
 I have modelled a many-to-many relationship in Amplify between Product and Order. However, I cannot pass a productID when creating an Order. I get the error :
 
@@ -459,9 +459,9 @@ So, basically what is the correct way of creating a new Order and passing a prod
 
 ---------------
 
-Author: @tsteelematc
-Upvotes: 2
-Comments: 2
+**Author**: @tsteelematc
+**Upvotes**: 2
+**Comments**: 2
 
 Anybody else having this problem?
 
@@ -501,9 +501,9 @@ Same, I just did an upgrade of amplify on an existing project and ran into this 
 
 ---------------
 
-Author: @ecc7220
-Upvotes: 1
-Comments: 1
+**Author**: @ecc7220
+**Upvotes**: 1
+**Comments**: 1
 
 Hi all,
 
@@ -529,9 +529,9 @@ Hello, @ecc7220 👋.  The legacy ui-react/legacy was deprecated with v5+ of Amp
 
 ---------------
 
-Author: @XinyueZ
-Upvotes: 1
-Comments: 1
+**Author**: @XinyueZ
+**Upvotes**: 1
+**Comments**: 1
 
 I've tried to call `forgotPassword` flow directly without any Cognito login behavior. I did not get any exception after calling `forgotPassword` and got **nothing** returned and **NO SMS** to my device.
 
@@ -556,9 +556,9 @@ Hi @XinyueZ, you are using the Amplify auth method `forgotPassword` like [shown 
 
 ---------------
 
-Author: @tomaszkiewicz
-Upvotes: 1
-Comments: 0
+**Author**: @tomaszkiewicz
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, 
 
@@ -586,9 +586,9 @@ Best regards
 
 ---------------
 
-Author: @amirmishani
-Upvotes: 1
-Comments: 0
+**Author**: @amirmishani
+**Upvotes**: 1
+**Comments**: 0
 
 With the new updates to Amplify and Appsync I have a few questions:
 
@@ -616,9 +616,9 @@ type Customer@model {
 
 ---------------
 
-Author: @Rajan-Gupta1
-Upvotes: 1
-Comments: 0
+**Author**: @Rajan-Gupta1
+**Upvotes**: 1
+**Comments**: 0
 
 When a user is registered with Cognito and its one time password has expired, user is unable to come to Amplify and Reset Password when Account Status is FORCE_CHANGE_PASSWORD
 
@@ -632,9 +632,9 @@ How is a user expected to reset a password if the original temporary password ex
 
 ---------------
 
-Author: @rosayos
-Upvotes: 1
-Comments: 1
+**Author**: @rosayos
+**Upvotes**: 1
+**Comments**: 1
 
 Hello 👋
 I'm new to AWS Amplify. Today I have been reading about best practices for DynamoDB design.
@@ -663,9 +663,9 @@ Now with this non-DataStore GraphQL API you can change the name of the primary k
 
 ---------------
 
-Author: @qxy180009
-Upvotes: 1
-Comments: 2
+**Author**: @qxy180009
+**Upvotes**: 1
+**Comments**: 2
 
 I has installed the latest version of amplify-cli in my WIN10. I run `amplify configure`, everything is good until I was asked to type in my new created IAM access key id and my secret access key. I copied them from the csv I downloaded but it shows me the error that `You did NOT enter valid keys. New user setup failed.` The error message is quite simple and I don't know how to solve it.
 ![image](https://user-images.githubusercontent.com/50066931/80870813-7676a680-8c6e-11ea-83b1-0f501d632fb0.png)
@@ -694,9 +694,9 @@ This appears to be an issue with the Amplify CLI. I'd suggest opening an issue o
 
 ---------------
 
-Author: @Kfirhuja
-Upvotes: 1
-Comments: 0
+**Author**: @Kfirhuja
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 I have an App written in react-native in FE that uses amplify library to connect/authenticate against an existing BE, that was generated using aws-cdk and not amplify. 
@@ -721,9 +721,9 @@ Kfir
 
 ---------------
 
-Author: @saraank
-Upvotes: 1
-Comments: 0
+**Author**: @saraank
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 I use amplify to log into my react app.
@@ -739,9 +739,9 @@ When I use await Auth.currentSession() it refreshes the token automatically and 
 
 ---------------
 
-Author: @ranjeev75
-Upvotes: 3
-Comments: 2
+**Author**: @ranjeev75
+**Upvotes**: 3
+**Comments**: 2
 
 I have created a DynamoDB table with amplify:
 
@@ -858,9 +858,9 @@ exports.handler = async (event, context) => {
 
 ---------------
 
-Author: @YawarOsman
-Upvotes: 2
-Comments: 1
+**Author**: @YawarOsman
+**Upvotes**: 2
+**Comments**: 1
 
 I'm trying to login to AWS Amplify in flutter it works perfectly on IOS simulator and my real phone but when i want to login in `android emulator` it shows this error below:
 
@@ -905,9 +905,9 @@ Were you able to fix this error because I am also running into the same issue
 
 ---------------
 
-Author: @mdwt
-Upvotes: 1
-Comments: 0
+**Author**: @mdwt
+**Upvotes**: 1
+**Comments**: 0
 
 I have a multi tenant application in AWS Amplify, I'm using the Custom-attribute-based multi-tenancy described [here](https://docs.aws.amazon.com/cognito/latest/developerguide/custom-attribute-based-multi-tenancy.html)
 
@@ -948,9 +948,9 @@ Another example - anyone with a matching `custom:company` attribute has read acc
 
 ---------------
 
-Author: @bls-lehoai
-Upvotes: 1
-Comments: 0
+**Author**: @bls-lehoai
+**Upvotes**: 1
+**Comments**: 0
 
 we are developing an amplify app, using js client library, client is written in VueJS and hosted on S3. Now we wanna secure our site by adding cors, which allow only our site can request graphql api. There is no configuration to do it.
 Please help, thanks.
@@ -963,9 +963,9 @@ Please help, thanks.
 
 ---------------
 
-Author: @filipmicanek98
-Upvotes: 1
-Comments: 0
+**Author**: @filipmicanek98
+**Upvotes**: 1
+**Comments**: 0
 
 I am using the following models below and I need to perform some custom logic in one of the generated resolvers using this [approach](https://docs.amplify.aws/cli/graphql/custom-business-logic/#override-amplify-generated-resolvers) The user model is not being tied to user in cognito, but its ID is saved in a custom attribute.  Is there a way to somehow access the ID through context in `getEvent` resolver template without passing any arguments, besides eventId?
 ```
@@ -990,9 +990,9 @@ type Event @model {
 
 ---------------
 
-Author: @duranmla
-Upvotes: 1
-Comments: 0
+**Author**: @duranmla
+**Upvotes**: 1
+**Comments**: 0
 
 I made an update to my cli and on the next push all my models have a `Lazy` version of the models. This of course is not something bad as it is auto generated code, but where I can find information about it? I have done a quick search on amplify docs and release notes at Github and I can't see anything. 
 
@@ -1006,9 +1006,9 @@ Thanks for the work! 🙌
 
 ---------------
 
-Author: @YoussefAlmardini
-Upvotes: 4
-Comments: 3
+**Author**: @YoussefAlmardini
+**Upvotes**: 4
+**Comments**: 3
 
 Please help, i spent 2 days trying simply to use Datastore of amplify. Am building NPM package to wrap an Amplify project backend. Auth works good but datastore not.
 Am testing code with ts-node and Jest. It is package so i do not have a framework.
@@ -1222,9 +1222,9 @@ After that everything works again
 
 ---------------
 
-Author: @codermpl
-Upvotes: 2
-Comments: 0
+**Author**: @codermpl
+**Upvotes**: 2
+**Comments**: 0
 
 Hello, what's the difference between currentUserCredentials and currentCredentials and when should I use each one? I haven't found anything in the documentation that goes over when to use each. Looking through the code currentCredentials seems to get new credentials if the credentials are expired. While currentUserCredentials has different logic and gets new credentials every time for me.
 
@@ -1236,9 +1236,9 @@ Hello, what's the difference between currentUserCredentials and currentCredentia
 
 ---------------
 
-Author: @wahidzzz
-Upvotes: 0
-Comments: 0
+**Author**: @wahidzzz
+**Upvotes**: 0
+**Comments**: 0
 
 I am working on Web App that has multi-relational data, I want understand is there a way to disable cascading delete? 
 
@@ -1258,9 +1258,9 @@ I want to keep the Child once parent is been deleted.
 
 ---------------
 
-Author: @akterstack
-Upvotes: 1
-Comments: 0
+**Author**: @akterstack
+**Upvotes**: 1
+**Comments**: 0
 
 We are using `CookieStorage` to store auth tokens of logged in users. But later we found that this library store token as client side cookie without `HttpOnly` flag. So we are very scared about XSS at this moment. 
 
@@ -1274,9 +1274,9 @@ Should we stop using this library or is there any approach to safe the users tok
 
 ---------------
 
-Author: @fredcool
-Upvotes: 1
-Comments: 0
+**Author**: @fredcool
+**Upvotes**: 1
+**Comments**: 0
 
 Trying to resolve this issue for few weeks but still no luck. Really appreciated for any hints or solutions.
 I have built a web application utilized Cognito and amazon-cognito-identity-js SDK for user registrations and user sign-in.
@@ -1295,9 +1295,9 @@ Is there a way to sync the session to the authorize endpoint? Really appreciated
 
 ---------------
 
-Author: @shopizer-ecommerce
-Upvotes: 1
-Comments: 3
+**Author**: @shopizer-ecommerce
+**Upvotes**: 1
+**Comments**: 3
 
 When i an creating a new user with verification email the UI displays a text that seems to be hard to find and can not figure out a way to translate it
 
@@ -1358,9 +1358,9 @@ Looks like the actual strings (for React UI) are defined here: https://github.co
 
 ---------------
 
-Author: @BroMattMiller
-Upvotes: 1
-Comments: 1
+**Author**: @BroMattMiller
+**Upvotes**: 1
+**Comments**: 1
 
 In the browser I want to serve all Cognito auth tokens from a service worker, both for security and for ease of automatically adding tokens into Authorization request headers. However, I see that localStorage is used to hold all this stuff, and localStorage is disallowed in a service worker. Should I just change the cache storage functions to use a service worker cache, or am I missing some easier way?
 ## Comment
@@ -1379,9 +1379,9 @@ I see now that the api doesn't rely on localStorage, but just uses memory if loc
 
 ---------------
 
-Author: @pptavozl
-Upvotes: 1
-Comments: 0
+**Author**: @pptavozl
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, i was reading documentation about GraphQL [subscription filtering ](https://docs.amplify.aws/lib/graphqlapi/subscribe-data/q/platform/js/#using-amplify-graphql-client)
 
@@ -1450,9 +1450,9 @@ Thanks for reading
 
 ---------------
 
-Author: @stefanomiccoli
-Upvotes: 1
-Comments: 2
+**Author**: @stefanomiccoli
+**Upvotes**: 1
+**Comments**: 2
 
 The scenario: we want to store user info (cognito groups, token etc) as soon as this is available after loading the angular application. We have therefore two cases:
 1. previously unauthenticated user loads the page, is shown the login form, authenticates, authenticated section of the application is loaded
@@ -1486,9 +1486,9 @@ any feedback?
 
 ---------------
 
-Author: @SFaraji
-Upvotes: 1
-Comments: 0
+**Author**: @SFaraji
+**Upvotes**: 1
+**Comments**: 0
 
 Hi team, 
 
@@ -1506,9 +1506,9 @@ Thanks,
 
 ---------------
 
-Author: @Arnav7501
-Upvotes: 1
-Comments: 0
+**Author**: @Arnav7501
+**Upvotes**: 1
+**Comments**: 0
 
 if i try to use Auth.signup or Auth.signin, it gives me this error
 
@@ -1520,9 +1520,9 @@ if i try to use Auth.signup or Auth.signin, it gives me this error
 
 ---------------
 
-Author: @Nivethan-Ar
-Upvotes: 1
-Comments: 0
+**Author**: @Nivethan-Ar
+**Upvotes**: 1
+**Comments**: 0
 
 after signing in the user using hosted ui i get the code then i send the post request like  following to get the access token
 ![image](https://user-images.githubusercontent.com/63112138/196002838-ad8c3ef0-a15f-41fd-8199-815deeb240c6.png)
@@ -1542,9 +1542,9 @@ what mistake i'm making? why i'm not getting the access token?
 
 ---------------
 
-Author: @joaovitorzv
-Upvotes: 1
-Comments: 0
+**Author**: @joaovitorzv
+**Upvotes**: 1
+**Comments**: 0
 
 I have a remix app setup with amplify auth and headless Authentication from `@aws-amplify/ui-react`, I can sign in and out successfully and make SSR requests with the `withSSRContext` with no problems.
 
@@ -1558,9 +1558,9 @@ problem is when the user closes the browser and re-opens it again i would like t
 
 ---------------
 
-Author: @BohdanShuliaka
-Upvotes: 1
-Comments: 0
+**Author**: @BohdanShuliaka
+**Upvotes**: 1
+**Comments**: 0
 
 Hello everyone! Ive faced an issue with "forgot password" functionality. Im reusing Auth API in order to create custom auth flow, and I want to recreate my own forgot pass screen but I cannot find any API call or method for "resend code" which is present in the hosted UI.
 How can I cower that? I googled everything and I see that there is no solution yet. I hope Im wrong 🙂
@@ -1574,9 +1574,9 @@ How can I cower that? I googled everything and I see that there is no solution y
 
 ---------------
 
-Author: @nolde
-Upvotes: 5
-Comments: 1
+**Author**: @nolde
+**Upvotes**: 5
+**Comments**: 1
 
 Hello!
 
@@ -1632,9 +1632,9 @@ Hopefully one these options works for you. I might publish a repo with a test ap
 
 ---------------
 
-Author: @vadimmelnicuk
-Upvotes: 1
-Comments: 3
+**Author**: @vadimmelnicuk
+**Upvotes**: 1
+**Comments**: 3
 
 Hey, I cannot get my head around the proper way of calling GraphQL API mutations from AWS Lambdas. I am using the method decribed in the official documentation [https://docs.amplify.aws/cli/function#signing-a-request-from-lambda](https://docs.amplify.aws/cli/function#signing-a-request-from-lambda), please see below:
 
@@ -1788,9 +1788,9 @@ Rob
 
 ---------------
 
-Author: @solomolo1
-Upvotes: 1
-Comments: 2
+**Author**: @solomolo1
+**Upvotes**: 1
+**Comments**: 2
 
 Hi all, 
 
@@ -1824,9 +1824,9 @@ So, I just discovered it today, they are using a variable to cache the result in
 
 ---------------
 
-Author: @Datascientistzxcv
-Upvotes: 1
-Comments: 0
+**Author**: @Datascientistzxcv
+**Upvotes**: 1
+**Comments**: 0
 
 I am trying to deploy SSG nextjs application on Amplify all stages passing successfully when i tried to open the URL getting 404 error 
 do i need to include any rewrite rules
@@ -1845,9 +1845,9 @@ getting this error after deployment
 
 ---------------
 
-Author: @anni1236012
-Upvotes: 1
-Comments: 0
+**Author**: @anni1236012
+**Upvotes**: 1
+**Comments**: 0
 
 NextJs Application is working perfectly fine locally but after pushing the fronted to AWS I'm getting the run time error  **No Credentials** in _**callback.js**_ api 
 
@@ -1966,9 +1966,9 @@ frontend:
 
 ---------------
 
-Author: @mlag
-Upvotes: 2
-Comments: 0
+**Author**: @mlag
+**Upvotes**: 2
+**Comments**: 0
 
 I'm using NextJS. My understanding is that all requests to /api/* go to Lambda@Edge functions. Is it possible to disable Lambda@Edge and host all lambda functions in a single region?
 Our database is hosted in us-east-1. When a Lambda@Edge function is invoked in Japan there are a lot of lengthy roundtrips to the database.
@@ -1981,9 +1981,9 @@ Our database is hosted in us-east-1. When a Lambda@Edge function is invoked in J
 
 ---------------
 
-Author: @RoyalBis
-Upvotes: 2
-Comments: 0
+**Author**: @RoyalBis
+**Upvotes**: 2
+**Comments**: 0
 
 I have an amplify project with a graphql API. When using the cli command, `amplify push`, changes are always detected for the API and force a build and redeploy to the console.
 
@@ -2004,9 +2004,9 @@ In these events, no change is detected as expected. It seems during the amplify 
 
 ---------------
 
-Author: @ZRunner
-Upvotes: 2
-Comments: 1
+**Author**: @ZRunner
+**Upvotes**: 2
+**Comments**: 1
 
 Hello there!
 
@@ -2054,9 +2054,9 @@ global.navigator = {
 
 ---------------
 
-Author: @aalok05
-Upvotes: 6
-Comments: 1
+**Author**: @aalok05
+**Upvotes**: 6
+**Comments**: 1
 
 Upon doing _Auth.signIn_ , I am getting a challenge in response with challengeName 'PASSWORD_VERIFIER'. I was wondering what's the correct way to respond to this challenge. 
 I've looked at the amplify-js docs but couldn't find the answer.
@@ -2080,9 +2080,9 @@ I am facing the same issue, poorly written documentation.
 
 ---------------
 
-Author: @jdanielsyeah
-Upvotes: 2
-Comments: 1
+**Author**: @jdanielsyeah
+**Upvotes**: 2
+**Comments**: 1
 
 I've recently updated my AWS Amplify front end (NextJS) to remove any subscriptions to a "Card" object that I've created in my schema.graphql file. For some reason I'm still getting warnings in my dev tools console telling me that there's a subscription problem concerning authorisation when performing "update" on the "Card" model. My best guess is that Datastore is still performing some kind of subscription function in the background, but I can't find any information to explain what's going on or how to act on the warning. Could anyone please help explain this one?
 
@@ -2151,9 +2151,9 @@ Also be aware of things like this https://github.com/aws-amplify/amplify-cli/iss
 
 ---------------
 
-Author: @enrico-calzavara
-Upvotes: 1
-Comments: 0
+**Author**: @enrico-calzavara
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, 
 
@@ -2178,9 +2178,9 @@ Thanks to everyone!
 
 ---------------
 
-Author: @Nut41tank
-Upvotes: 1
-Comments: 0
+**Author**: @Nut41tank
+**Upvotes**: 1
+**Comments**: 0
 
 docs -> https://www.npmjs.com/package/amazon-cognito-identity-js
 i'm try to implement cognito with react typescript but getSession will update my idToken when it expire but I think is should not because **in docs it said you should update local storage token with refreshSession** 
@@ -2193,9 +2193,9 @@ i'm try to implement cognito with react typescript but getSession will update my
 
 ---------------
 
-Author: @anthony-dupont
-Upvotes: 1
-Comments: 0
+**Author**: @anthony-dupont
+**Upvotes**: 1
+**Comments**: 0
 
 When I add a new environment variable, we have fill in a value. 
 However, it is not saved as a default value in cloudFormation which make fail the build on a different environment.
@@ -2209,9 +2209,9 @@ Is there a way to also put a default value from the CLI. At the moment the only 
 
 ---------------
 
-Author: @progenaut
-Upvotes: 1
-Comments: 0
+**Author**: @progenaut
+**Upvotes**: 1
+**Comments**: 0
 
 How to join tables in amplify?
 I mean if i have
@@ -2244,9 +2244,9 @@ Is this somehow possible?
 
 ---------------
 
-Author: @ErykAttoua
-Upvotes: 1
-Comments: 0
+**Author**: @ErykAttoua
+**Upvotes**: 1
+**Comments**: 0
 
 Is it possible to push a single function?
 
@@ -2263,9 +2263,9 @@ This would be really useful!
 
 ---------------
 
-Author: @vincent911001
-Upvotes: 6
-Comments: 0
+**Author**: @vincent911001
+**Upvotes**: 6
+**Comments**: 0
 
 Hi,
 
@@ -2298,9 +2298,9 @@ Vincent
 
 ---------------
 
-Author: @aliwaqar981
-Upvotes: 1
-Comments: 0
+**Author**: @aliwaqar981
+**Upvotes**: 1
+**Comments**: 0
 
 Is it possible to pass customState to withAuthenticator? 
 I wants to get some information after authentication and getting redirected back to my application. I'm using withAuthenticator HOC to do google social login which is working fine but I'm not sure how can I pass any information which I can retrieve later after redirection.
@@ -2328,9 +2328,9 @@ What I want to achieve:
 
 ---------------
 
-Author: @
-Upvotes: 1
-Comments: 0
+**Author**: @
+**Upvotes**: 1
+**Comments**: 0
 
 -
 
@@ -2342,9 +2342,9 @@ Comments: 0
 
 ---------------
 
-Author: @duranmla
-Upvotes: 2
-Comments: 0
+**Author**: @duranmla
+**Upvotes**: 2
+**Comments**: 0
 
 I have a model like:
 
@@ -2408,9 +2408,9 @@ It is no way for me to do this?
 
 ---------------
 
-Author: @duranmla
-Upvotes: 4
-Comments: 0
+**Author**: @duranmla
+**Upvotes**: 4
+**Comments**: 0
 
 I am trying to get public access to my records and update/create/delete only for authenticated users using DataStore and Multi auth configured, nonetheless, DataStore always seems to use **only the default auth mode**.
 
@@ -2453,9 +2453,9 @@ I can read the projects as guest and authenticated user but I cannot create them
 
 ---------------
 
-Author: @dreamfalcon
-Upvotes: 2
-Comments: 1
+**Author**: @dreamfalcon
+**Upvotes**: 2
+**Comments**: 1
 
 Hi,
 In  part of my application I just want to know if some user is logged or not. Without asking to login if not.
@@ -2493,9 +2493,9 @@ I am also seeing this same issue in my application. @dreamfalcon were you able t
 
 ---------------
 
-Author: @amirmishani
-Upvotes: 1
-Comments: 0
+**Author**: @amirmishani
+**Upvotes**: 1
+**Comments**: 0
 
 I have a general usage question about Datastore in React Native. Is Datastore supposed to replace Local DB or State Management or both or neither? The reason I ask this is because in the "React Native" fullstack todo tutorial within the Amplify docs, Datastore is used without a local DB or any global state management. 
 
@@ -2509,9 +2509,9 @@ It makes me wonder if there's legit use for say LiteSQL or Redux in combination 
 
 ---------------
 
-Author: @HerrNerdstromDRK
-Upvotes: 1
-Comments: 1
+**Author**: @HerrNerdstromDRK
+**Upvotes**: 1
+**Comments**: 1
 
 Hi,
 
@@ -2637,9 +2637,9 @@ https://aws-amplify.github.io/amplify-js/api/classes/apiclass.html#del
 
 ---------------
 
-Author: @funes79
-Upvotes: 1
-Comments: 1
+**Author**: @funes79
+**Upvotes**: 1
+**Comments**: 1
 
 AWS Amplify deployed Auth Lambda with Nodejs12, I ugpraded the amplify to version 10 but the Lambda is using still a deprecated runtime env. How should I proceeed to upgrade the Lambda runtime?
 Thanks
@@ -2659,9 +2659,9 @@ Hi @funes79 - Here is a workaround for you until we can get this baked into our 
 
 ---------------
 
-Author: @phstc
-Upvotes: 1
-Comments: 1
+**Author**: @phstc
+**Upvotes**: 1
+**Comments**: 1
 
 Most of my pages require authentication, but one page can be accessed by authenticated and non-authenticated users.
 
@@ -2705,9 +2705,9 @@ The access to the data is any way protected I assume by your GraphQL schema wher
 
 ---------------
 
-Author: @funes79
-Upvotes: 4
-Comments: 0
+**Author**: @funes79
+**Upvotes**: 4
+**Comments**: 0
 
 Amplify created an authTrigger Lambda function with NodeJs 12.x runtime, but AWS deprecated this:
 
@@ -2725,9 +2725,9 @@ How to upgrade?
 
 ---------------
 
-Author: @Joshig99
-Upvotes: 2
-Comments: 2
+**Author**: @Joshig99
+**Upvotes**: 2
+**Comments**: 2
 
 Hi,
 How to take user to **OAuth consent screen** directly instead of **Cognito Hosted UI** when call the **Auth.federatedSignIn()**
@@ -2815,9 +2815,9 @@ As specified [here](https://docs.aws.amazon.com/cognito/latest/developerguide/au
 
 ---------------
 
-Author: @mahejbinm
-Upvotes: 1
-Comments: 0
+**Author**: @mahejbinm
+**Upvotes**: 1
+**Comments**: 0
 
 I made angular application. all is happened good but if I try open new window at that time it is not displaying but I get "404 not found".
 how to solve it
@@ -2830,9 +2830,9 @@ how to solve it
 
 ---------------
 
-Author: @anastasialanz
-Upvotes: 3
-Comments: 3
+**Author**: @anastasialanz
+**Upvotes**: 3
+**Comments**: 3
 
 I've been working on a Cypress test to login to my app that requires a TOTP code. I have a test user and password in Cognito and I'm following similar steps to what is in this guide: [Running end-to-end Cypress tests for your fullstack CI/CD deployment with Amplify Console](https://aws.amazon.com/blogs/mobile/running-end-to-end-cypress-tests-for-your-fullstack-ci-cd-deployment-with-amplify-console/). This guide doesn't include a user that has Multi-Factor Authentication turned on. 
 
@@ -2965,9 +2965,9 @@ retry logic improvements
 
 ---------------
 
-Author: @nick-0101
-Upvotes: 7
-Comments: 1
+**Author**: @nick-0101
+**Upvotes**: 7
+**Comments**: 1
 
 I'm opening a disscusion as this issue as a continuation of issue #6913 that, like many other issues in this repo, were closed for no reason. There still doesn't seem to be a way to pass custom attributes to federated sign in.
 
@@ -3001,9 +3001,9 @@ Would be great to get this
 
 ---------------
 
-Author: @balramxyadav
-Upvotes: 1
-Comments: 1
+**Author**: @balramxyadav
+**Upvotes**: 1
+**Comments**: 1
 
 Hi, I am new amplify and i am sending a post request to the endpoint and it is giving a status of 200 but nothing happens. I have tried to run this locally ( by cd into src folder then running "node app.js" ) and it works and don't know why this isn't working in server  please help
 ## Comment
@@ -3022,9 +3022,9 @@ Hi @balramxyadav - Can you please submit a Github issue using this [link](https:
 
 ---------------
 
-Author: @giulioambrogi
-Upvotes: 2
-Comments: 1
+**Author**: @giulioambrogi
+**Upvotes**: 2
+**Comments**: 1
 
 # What
 
@@ -3094,9 +3094,9 @@ input.setAttribute("value", "billybobthornton");
 
 ---------------
 
-Author: @calderwoodra
-Upvotes: 1
-Comments: 1
+**Author**: @calderwoodra
+**Upvotes**: 1
+**Comments**: 1
 
 Since we started using amplify (9 months ago) auth and core have maintained the same semver versions, but a few weeks ago core 4.7.0 was released while auth is still on 4.6.5.
 
@@ -3117,9 +3117,9 @@ Hi @calderwoodra  - is there a reason you do not just use the @aws-amplify packa
 
 ---------------
 
-Author: @sdandois
-Upvotes: 1
-Comments: 0
+**Author**: @sdandois
+**Upvotes**: 1
+**Comments**: 0
 
 I have a collection that must have at most only one element. 
 
@@ -3137,9 +3137,9 @@ Currently I'm wiping out the collection with Predicates.ALL and then creating th
 
 ---------------
 
-Author: @blairtaylor
-Upvotes: 1
-Comments: 0
+**Author**: @blairtaylor
+**Upvotes**: 1
+**Comments**: 0
 
 My DataStore is not syncing with DynamoDB for some reason.
 
@@ -3191,9 +3191,9 @@ What am I missing?
 
 ---------------
 
-Author: @raulgonzalezdev
-Upvotes: 1
-Comments: 0
+**Author**: @raulgonzalezdev
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, Good Amplify community, it's a pleasure to be on this channel, I am new in the management of Amplify services I am testing the service with Predictions speechGenerator, but when I test the App generated in React-Native in the console I get an Error {"err": "region not configured for transcription"}, I have checked the microphone buffer and certainly generates data, I am testing only with the phrase "Hello Word", I have used the Basic configuration automatically generated by AWS Amplify. 
 
@@ -3457,9 +3457,9 @@ export default NewVoice;
 
 ---------------
 
-Author: @jeffinhk
-Upvotes: 1
-Comments: 1
+**Author**: @jeffinhk
+**Upvotes**: 1
+**Comments**: 1
 
 I am currently building an Instagram-like mobile app, where users upload a feed, press likes, comment, and reply. I am facing such questions regarding Push Notification:
 
@@ -3486,9 +3486,9 @@ Hi @jeffinhk - I am curious to hear why you are using SNS rather than using the 
 
 ---------------
 
-Author: @aliraza944
-Upvotes: 2
-Comments: 0
+**Author**: @aliraza944
+**Upvotes**: 2
+**Comments**: 0
 
 I am using AWS Cognito to log in with Facebook in react. The problem is that after successful login my web app redirects to the callback URL defined in the ***App Client Setting***.  <br/>
 For example, if I am at the `http://localhost:3000/tools/` and the redirect callback URL is `http://localhost:3000/` the user will be redirected to the callback URL. I want the user to stay at my `https://localhost:3000/tools/` page.<br/>
@@ -3502,9 +3502,9 @@ I have a login modal that can be accessed from any page so after login the user 
 
 ---------------
 
-Author: @petar-prog91
-Upvotes: 1
-Comments: 1
+**Author**: @petar-prog91
+**Upvotes**: 1
+**Comments**: 1
 
 Hi everyone, 
 
@@ -3542,9 +3542,9 @@ Hi @petar-prog91 - this appears to be an issue. Can you please submit an issue u
 
 ---------------
 
-Author: @pcanas
-Upvotes: 1
-Comments: 0
+**Author**: @pcanas
+**Upvotes**: 1
+**Comments**: 0
 
 I have followed the [Connect API and database to the app](https://docs.amplify.aws/start/getting-started/data-model/q/integration/react/) section.
 While the autogenerated files that appear in the tutorial are `graphql/queries` and `graphql/mutations` I have others (the ones appearing in the [Datastore JS page](https://docs.amplify.aws/lib/datastore/getting-started/q/platform/js/):
@@ -3565,9 +3565,9 @@ I was wondering if I am doing anything wrong or if this page is not up-to-date.
 
 ---------------
 
-Author: @jay3dec
-Upvotes: 1
-Comments: 0
+**Author**: @jay3dec
+**Upvotes**: 1
+**Comments**: 0
 
 I have a use case during Google Sign. I want to check if the user is signing from same ip address, hence during `federatedSignIn` I need to pass ip address as `clientMetaData`. Is it possible ?
 
@@ -3583,9 +3583,9 @@ I found a similar question [here](https://github.com/aws-amplify/amplify-js/issu
 
 ---------------
 
-Author: @AbdulmueezEmiola
-Upvotes: 1
-Comments: 0
+**Author**: @AbdulmueezEmiola
+**Upvotes**: 1
+**Comments**: 0
 
 In the AWS S3 documentation, It says It's possible to compute and store the checksum using `'x-amz-sdk-checksum-algorithm': 'SHA-256' ` . I have searched the amplify documentation on how this can be implemented, but I couldn't figure this out. Can someone point me in the right direction?
 
@@ -3597,9 +3597,9 @@ In the AWS S3 documentation, It says It's possible to compute and store the chec
 
 ---------------
 
-Author: @thiagonsiq
-Upvotes: 1
-Comments: 1
+**Author**: @thiagonsiq
+**Upvotes**: 1
+**Comments**: 1
 
 Hi, 
 
@@ -3637,9 +3637,9 @@ You could just store the password they entered if the code came back as incorrec
 
 ---------------
 
-Author: @cbirkenstock
-Upvotes: 1
-Comments: 0
+**Author**: @cbirkenstock
+**Upvotes**: 1
+**Comments**: 0
 
 I couldn't find a clear answer to this in the documentation, but I don't understand the exact way that AWS's datastore.query and real-time subscription service work in terms of a suspended app. Specifically, how do I trigger datastore to update the content when opening a suspended app (one that wasn't killed)?
 
@@ -3653,9 +3653,9 @@ I assume that if I open the app and it download three objects, and then kill it.
 
 ---------------
 
-Author: @proevilz
-Upvotes: 1
-Comments: 0
+**Author**: @proevilz
+**Upvotes**: 1
+**Comments**: 0
 
 If you consider the following code
 
@@ -3719,9 +3719,9 @@ Added the question here too... https://stackoverflow.com/questions/73409446/how-
 
 ---------------
 
-Author: @AlexChaseJones
-Upvotes: 1
-Comments: 1
+**Author**: @AlexChaseJones
+**Upvotes**: 1
+**Comments**: 1
 
 I'm looking at this guide: https://docs.amplify.aws/guides/api-graphql/query-with-sorting/q/platform/js/#implementation. it's pretty straight forward, but I don't follow understand the implementation. Here's a snippet of the example:
 ```js
@@ -3766,9 +3766,9 @@ When i added the new index to the model, it created a new global secondary with 
 
 ---------------
 
-Author: @sefatanam
-Upvotes: 1
-Comments: 1
+**Author**: @sefatanam
+**Upvotes**: 1
+**Comments**: 1
 
 Actually I don't want to use any library like apollo-client or apollo-angular. So I generated a angular project with aws amplify. Then I got 3 files under src/graphql file those are mutations.graphql, queries.graphql & subscriptions.graphql. When I want to use those graphql file in my components it showing me this error constantly,
 
@@ -3860,9 +3860,9 @@ in the documentation their mutation/query/subscript `./graphql/` files are most 
 
 ---------------
 
-Author: @wrsulliv
-Upvotes: 1
-Comments: 0
+**Author**: @wrsulliv
+**Upvotes**: 1
+**Comments**: 0
 
 Hi all, when I use "Sign in with Apple" it works about 10% of the time, and the other times I get:
 
@@ -3880,9 +3880,9 @@ Any help is much appreciated.  Thank you!
 
 ---------------
 
-Author: @lucassilvagc
-Upvotes: 1
-Comments: 0
+**Author**: @lucassilvagc
+**Upvotes**: 1
+**Comments**: 0
 
 I'm trying to setup TOTP on my Angular application. I do have authentication and password reset flows working. My user pool has mandatory TOTP.
 
@@ -3927,9 +3927,9 @@ Thanks.
 
 ---------------
 
-Author: @exbracer
-Upvotes: 1
-Comments: 0
+**Author**: @exbracer
+**Upvotes**: 1
+**Comments**: 0
 
 I am writing a web-based app that uses AWS Cognito as the authentication service. I use 'aws-amplify' to implement the client-app.
 
@@ -3985,9 +3985,9 @@ Thanks a lot!
 
 ---------------
 
-Author: @hirasaki1985
-Upvotes: 1
-Comments: 2
+**Author**: @hirasaki1985
+**Upvotes**: 1
+**Comments**: 2
 
 I tried to update user password with Auth.changePassword() method.
 but I had catch error.
@@ -4079,9 +4079,9 @@ The above code should work. For future readers, if you try to change the passwor
 
 ---------------
 
-Author: @kimfucious
-Upvotes: 1
-Comments: 0
+**Author**: @kimfucious
+**Upvotes**: 1
+**Comments**: 0
 
 Hi there,
 
@@ -4115,9 +4115,9 @@ Any helpful advice toward understanding the best way to handle this would be mos
 
 ---------------
 
-Author: @wrsulliv
-Upvotes: 1
-Comments: 0
+**Author**: @wrsulliv
+**Upvotes**: 1
+**Comments**: 0
 
 I need to support Oauth with Reddit, but that doesn't appear to be provided by Amplify / Cognito.  
 
@@ -4133,9 +4133,9 @@ Thank you!
 
 ---------------
 
-Author: @rafaelfaria
-Upvotes: 1
-Comments: 1
+**Author**: @rafaelfaria
+**Upvotes**: 1
+**Comments**: 1
 
 I have 2 models for saving data, one linkined to the other one through indexes.
 
@@ -4221,9 +4221,9 @@ Ok. I think i just figure it out. I am using the primaryKey as monthYear and the
 
 ---------------
 
-Author: @wordisthebird
-Upvotes: 1
-Comments: 14
+**Author**: @wordisthebird
+**Upvotes**: 1
+**Comments**: 14
 
 Hey guys,
 
@@ -4619,9 +4619,9 @@ Getting this error when sign up and sign in
 
 ---------------
 
-Author: @natrajevertz
-Upvotes: 2
-Comments: 0
+**Author**: @natrajevertz
+**Upvotes**: 2
+**Comments**: 0
 
 Hi everyone, 
 
@@ -4645,9 +4645,9 @@ BTW I'm using Angular.
 
 ---------------
 
-Author: @chess-octane
-Upvotes: 1
-Comments: 2
+**Author**: @chess-octane
+**Upvotes**: 1
+**Comments**: 2
 
 Hello everyone! I am trying to debug a tricky bug in our application that is happening only in production (yes, excellent).
 
@@ -4702,9 +4702,9 @@ Hi @chess-octane  - can you please submit a Github issue so that our team can tr
 
 ---------------
 
-Author: @shoaib30
-Upvotes: 1
-Comments: 0
+**Author**: @shoaib30
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 
@@ -4720,9 +4720,9 @@ I may be missing something since amplify is able to open the hosted UI when used
 
 ---------------
 
-Author: @Josephenoch
-Upvotes: 1
-Comments: 0
+**Author**: @Josephenoch
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, I'm in need of urgent help
 
@@ -4736,9 +4736,9 @@ I am working on a project and the relationship between two models I have, let's 
 
 ---------------
 
-Author: @killrazor
-Upvotes: 2
-Comments: 7
+**Author**: @killrazor
+**Upvotes**: 2
+**Comments**: 7
 
 Looking for a way to specify multiple domains in cookiestorage. Right now we can accomplish this by using a static list and checking that against the window location for the client side code. This should be handled in package. 
 ## Comment
@@ -4829,9 +4829,9 @@ I have not personally tried this out. I will work on creating a sample or if any
 
 ---------------
 
-Author: @clintfoster
-Upvotes: 1
-Comments: 1
+**Author**: @clintfoster
+**Upvotes**: 1
+**Comments**: 1
 
 I'm aware that the `GraphQLResult` returned when performing a query via `API.graphql()` can contain both `data` and `errors`. But is it normal for it to literally be thrown in the case of a partial failure rather than returned as the function call result?
 
@@ -4930,9 +4930,9 @@ More broadly, from an API architecture standpoint it doesn't make sense to use `
 
 ---------------
 
-Author: @hardikmehta88999
-Upvotes: 1
-Comments: 1
+**Author**: @hardikmehta88999
+**Upvotes**: 1
+**Comments**: 1
 
 When I tried to send the push notification along with the JSON body (pinpoint.jsonBody) through pinpoint but when I console the notification data the JSON body is missing for the frontend (react-native). Need Help
 Version : 4.3.17 (push notification)
@@ -4952,9 +4952,9 @@ Hi @hardikmehta88999  - can you please elaborate on what JSON Body means here?
 
 ---------------
 
-Author: @zzBrunoBrito
-Upvotes: 1
-Comments: 1
+**Author**: @zzBrunoBrito
+**Upvotes**: 1
+**Comments**: 1
 
 I'm using cognito user pools for user management and using the flow of forgotPassword a confirmation code is sent to the user. For UI purposes I need to validate the code that is sent when I call the API ForgotPassword without sending the new password yet. I need like a middle step between ForgotPassword and ConfirmForgotPassword.
 
@@ -4981,9 +4981,9 @@ Unfortunately, this is not currently possible. You can only confirm the code wit
 
 ---------------
 
-Author: @aaronmg241
-Upvotes: 1
-Comments: 0
+**Author**: @aaronmg241
+**Upvotes**: 1
+**Comments**: 0
 
 I am trying to allow users in a cognito group to delete a User from my DynamoDB database. I am using graphql for queries, mutations, etc. I try the following graphql request:
 
@@ -5008,9 +5008,9 @@ I have been trying to find an answer for hours with no luck. Any help is GREATLY
 
 ---------------
 
-Author: @achinthaprem
-Upvotes: 2
-Comments: 0
+**Author**: @achinthaprem
+**Upvotes**: 2
+**Comments**: 0
 
 I just came across a scenario where I had to restore the session for CognitoUser in the `amazon-cognito-identity-js` package. I know that the intended use for the package is using it on the client side. I'm currently working on a bit old project that uses the package in a NodeJS server.
 
@@ -5026,9 +5026,9 @@ What I want to know is, is there any better approach to restore the session from
 
 ---------------
 
-Author: @cdellinger
-Upvotes: 1
-Comments: 1
+**Author**: @cdellinger
+**Upvotes**: 1
+**Comments**: 1
 
 I have a React application that currently uses Amplify GraphQL APIs. I have set those APIs up so that they require using Cognito user pools for authorization. For example the following code is successfully retrieving a list of values from my Projects collection in DynamoDB
 
@@ -5072,9 +5072,9 @@ I was able to resolve this by adding the a variable to specify the owner to my s
 
 ---------------
 
-Author: @sdandois
-Upvotes: 1
-Comments: 0
+**Author**: @sdandois
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, what kind of transaction support does this library have? 
 
@@ -5090,9 +5090,9 @@ How do you deal with absence of transactions?
 
 ---------------
 
-Author: @guaaak
-Upvotes: 1
-Comments: 1
+**Author**: @guaaak
+**Upvotes**: 1
+**Comments**: 1
 
 Hi I setup everything followed the steps for android https://docs.amplify.aws/lib/push-notifications/getting-started/q/platform/js/
 When I test the push notification through ping point I can trigger the onNotification function and get notification message. However, the notification doesn't popup on the Android device. Any ideas of this issue? Thanks!
@@ -5112,9 +5112,9 @@ Hi, is your app in the foreground at the time you send it from Pinpoint? If so, 
 
 ---------------
 
-Author: @abdullahmujahidali
-Upvotes: 1
-Comments: 1
+**Author**: @abdullahmujahidali
+**Upvotes**: 1
+**Comments**: 1
 
 I am working on an SSR app and I have deployed it on my amplify, whenever I try to redirect to a page it gives me a 503 ERROR. 
 
@@ -5160,9 +5160,9 @@ Also, it doesn’t hurt to test an api/ file with bare min code to ensure there 
 
 ---------------
 
-Author: @rayshi67
-Upvotes: 1
-Comments: 0
+**Author**: @rayshi67
+**Upvotes**: 1
+**Comments**: 0
 
 I am looking to implement a query named **driversByActiveStatus** that returns only the active, inactive, or all drivers respectively for the following Driver type,
 
@@ -5208,9 +5208,9 @@ Has anyone implemented something similar? If so can you please shed some lights 
 
 ---------------
 
-Author: @pratikdhody
-Upvotes: 1
-Comments: 1
+**Author**: @pratikdhody
+**Upvotes**: 1
+**Comments**: 1
 
 Hi,
 
@@ -5277,9 +5277,9 @@ And can you make sure you added the right actions and ARN when following [this](
 
 ---------------
 
-Author: @crolly
-Upvotes: 2
-Comments: 2
+**Author**: @crolly
+**Upvotes**: 2
+**Comments**: 2
 
 According to the amplify-cli docs, it is possible to set the primary key field `id` from the client through the graphql mutation.
 
@@ -5323,9 +5323,9 @@ It should be possible to define ID for newly created items. Otherwise, too many 
 
 ---------------
 
-Author: @swiftzor
-Upvotes: 1
-Comments: 0
+**Author**: @swiftzor
+**Upvotes**: 1
+**Comments**: 0
 
 Hi All,
 
@@ -5375,9 +5375,9 @@ I've tried looking and looking but so far to no avail on it.  Maybe I need to do
 
 ---------------
 
-Author: @sdandois
-Upvotes: 1
-Comments: 2
+**Author**: @sdandois
+**Upvotes**: 1
+**Comments**: 2
 
 Is this library actively maintained? 
 
@@ -5405,9 +5405,9 @@ Yes, this library is maintained. We will be resuming the use of releases in Gith
 
 ---------------
 
-Author: @mariela-plaza
-Upvotes: 1
-Comments: 0
+**Author**: @mariela-plaza
+**Upvotes**: 1
+**Comments**: 0
 
 To give some context as to why I need this, **here is our problem:**
 We are using Cognito to manage the users of our web app, built with react. When a user signs in, we retrieve the idToken, store it in AuthContext and we set a state called isAuthenticated to true (also part of the AuthContext).
@@ -5438,9 +5438,9 @@ All inputs and ideas will be greatly appreciated, thank you in advance!
 
 ---------------
 
-Author: @jnomeisky
-Upvotes: 3
-Comments: 2
+**Author**: @jnomeisky
+**Upvotes**: 3
+**Comments**: 2
 
 I receive the following error when trying to authenticate with email and password.
 
@@ -5478,9 +5478,9 @@ I looked at this reference table: https://github.com/react-native-community/cli 
 
 ---------------
 
-Author: @IggyBlob
-Upvotes: 5
-Comments: 3
+**Author**: @IggyBlob
+**Upvotes**: 5
+**Comments**: 3
 
 I'm trying to set the height of Amplify Authenticator's `auth-container`. According to [the docs](https://github.com/aws-amplify/amplify-js/tree/main/packages/amplify-ui-components/src/components/amplify-authenticator#css-custom-properties), this should be trivial as `amplify-authenticator` exposes a custom CSS property `--container-height` that lets you do exactly that.
 
@@ -5574,9 +5574,9 @@ amplify-authenticator {
 
 ---------------
 
-Author: @drummerwolli
-Upvotes: 1
-Comments: 0
+**Author**: @drummerwolli
+**Upvotes**: 1
+**Comments**: 0
 
 Hi everyone. I'm using `aws-amplify = 4.3.27`. I have an auth (cognito with social login) + api (graphql + dynamoDB) + storage setup currently. All entities are marked in the `schema.graphql` file with `allow: groups` and one string field in the entity indicating the group. The app works actually fine, I can add entities, update them and everything. Also, each user can only get the entities they are assigned to.
 
@@ -5597,9 +5597,9 @@ How can I get rid of these warnings and make the websockets work again properly?
 
 ---------------
 
-Author: @hyprstack
-Upvotes: 3
-Comments: 21
+**Author**: @hyprstack
+**Upvotes**: 3
+**Comments**: 21
 
 **Describe the bug**
 Have tried to manually integrate amplify in an existing react-app. I have succeeded in similar projects before, but have now migrated to the @aws-amplify/auth module and keep getting an annoying, and very un-helpful, error in the console:
@@ -6385,9 +6385,9 @@ I'm getting this error now and I'm not even using auth
 
 ---------------
 
-Author: @ggalantucc
-Upvotes: 1
-Comments: 0
+**Author**: @ggalantucc
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 I'm testing Cognito as IdP and checking all available options.
@@ -6406,9 +6406,9 @@ Thanks
 
 ---------------
 
-Author: @Zanndorin
-Upvotes: 1
-Comments: 1
+**Author**: @Zanndorin
+**Upvotes**: 1
+**Comments**: 1
 
 Hi, Copying from https://stackoverflow.com/questions/62739796/amplify-get-owner-user-attributes-from-cognito
 
@@ -6476,9 +6476,9 @@ type Item
 
 ---------------
 
-Author: @beevor
-Upvotes: 1
-Comments: 0
+**Author**: @beevor
+**Upvotes**: 1
+**Comments**: 0
 
 I would like to develop a React app using Amplify and two dev teams. Can one team work on the frontend exclusively, without giving them access to the backend code (the amplify folder)? The backend team can have access to both the backend and frontend code. If possible, how would I set it up?
 
@@ -6490,9 +6490,9 @@ I would like to develop a React app using Amplify and two dev teams. Can one tea
 
 ---------------
 
-Author: @dsws
-Upvotes: 2
-Comments: 1
+**Author**: @dsws
+**Upvotes**: 2
+**Comments**: 1
 
 I'm using Amplify for push notifications
 https://docs.amplify.aws/lib/push-notifications/getting-started/q/platform/js/
@@ -6693,9 +6693,9 @@ PushNotificationIOS.getInitialNoticiation()
 
 ---------------
 
-Author: @simonboland
-Upvotes: 1
-Comments: 1
+**Author**: @simonboland
+**Upvotes**: 1
+**Comments**: 1
 
 I am building a proof of concept to allow users to sign in through a federated login with OIDC to Azure. I'm having trouble getting the React frontend with Amplify to show my OIDC login option.
 
@@ -6744,9 +6744,9 @@ I found that the [example](https://github.com/aws-samples/aws-amplify-oidc-feder
 
 ---------------
 
-Author: @yuriyseriy
-Upvotes: 10
-Comments: 8
+**Author**: @yuriyseriy
+**Upvotes**: 10
+**Comments**: 8
 
 Hello
 
@@ -6919,9 +6919,9 @@ A mi me funciono quitando del gitignore el archivo aws-export.js para que se sub
 
 ---------------
 
-Author: @lucaswong98
-Upvotes: 1
-Comments: 0
+**Author**: @lucaswong98
+**Upvotes**: 1
+**Comments**: 0
 
 Hi there,
 
@@ -6944,9 +6944,9 @@ Question:
 
 ---------------
 
-Author: @TuTomasz
-Upvotes: 1
-Comments: 0
+**Author**: @TuTomasz
+**Upvotes**: 1
+**Comments**: 0
 
 I'm using amplify UI in a project and various component states work correctly, except for the setupTOTP state which documentation defines in the formFields prop. How does one trigger that state? Or what are the conditions for that state to render on login or signup?
 
@@ -6958,9 +6958,9 @@ I'm using amplify UI in a project and various component states work correctly, e
 
 ---------------
 
-Author: @mattiLeBlanc
-Upvotes: 3
-Comments: 0
+**Author**: @mattiLeBlanc
+**Upvotes**: 3
+**Comments**: 0
 
 We are using Cognito via Amplify/Auth to handle our signup. After the signup is done (on signup.foo.com) we redirect the user to the dashboard (on app.foo.com).
 Using localstorage, the session is locked to the domainname of signup.foo.com and not accessible at signup.foo.com.
@@ -6986,9 +6986,9 @@ Mattijs
 
 ---------------
 
-Author: @tammha
-Upvotes: 1
-Comments: 0
+**Author**: @tammha
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 I have 2 AppSync GraphQL APIs, where one is Auth using IAM, and the other using Cognito Pools.
@@ -7014,9 +7014,9 @@ Am I missing some setting such that the identity info is not passed into the Req
 
 ---------------
 
-Author: @rahulje9
-Upvotes: 1
-Comments: 2
+**Author**: @rahulje9
+**Upvotes**: 1
+**Comments**: 2
 
 Hi,
 I have set up Social auth in my React Native application. I have added Facebook, Google Signup with Identity pool. What my issue is if a person with same email id in Facebook and Google tries to login, it is taken as two different accounts than one. is it some error on my end or is it is done like that by the package?
@@ -7044,9 +7044,9 @@ https://github.com/aws-amplify/amplify-js/discussions/10023
 
 ---------------
 
-Author: @YajanaRao
-Upvotes: 1
-Comments: 0
+**Author**: @YajanaRao
+**Upvotes**: 1
+**Comments**: 0
 
 I am using Amplify Authorization for Google Login in React Native. I am getting the following error:
 ![image](https://user-images.githubusercontent.com/38914337/175779208-b0281240-b653-4bf2-8296-310b4d8ec730.png)
@@ -7105,9 +7105,9 @@ Please do help.
 
 ---------------
 
-Author: @IhorHudkov
-Upvotes: 1
-Comments: 0
+**Author**: @IhorHudkov
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, I'm including the amazon-cognito-identity.js file in the server worker background file in the browser extension. The problem is that according to the version 3 manifest, I can't use XMLHttpRequest in the code. I have to use fetch. But the amazon-cognito-identity.js file uses XMLHttpRequest. How to fix it? Thank you.
 
@@ -7119,9 +7119,9 @@ Hello, I'm including the amazon-cognito-identity.js file in the server worker ba
 
 ---------------
 
-Author: @LaurentEscalier
-Upvotes: 4
-Comments: 2
+**Author**: @LaurentEscalier
+**Upvotes**: 4
+**Comments**: 2
 
 Hey there 👋 
 
@@ -7162,9 +7162,9 @@ GraphQL models and mutations should stay consistent with the schema so generatin
 
 ---------------
 
-Author: @mtcha8l
-Upvotes: 1
-Comments: 3
+**Author**: @mtcha8l
+**Upvotes**: 1
+**Comments**: 3
 
 I'm trying to make a Datastore App that only privileged users can access to cloud, and yet provide local datastore for other users. Is there a way to make Datastore offline/online programmatically?
 ## Comment
@@ -7201,9 +7201,9 @@ If you are interested in participating, please email me at [emilyhsu@amazon.com]
 
 ---------------
 
-Author: @wrsulliv
-Upvotes: 1
-Comments: 1
+**Author**: @wrsulliv
+**Upvotes**: 1
+**Comments**: 1
 
 When I call `Auth.federatedSignIn()` I'm forwarded to `https://undefined/oauth2/authorize?...`
 
@@ -7232,9 +7232,9 @@ Do you have the cognito URI correctly configured @ apple? I haven't used apple a
 
 ---------------
 
-Author: @mariela-plaza
-Upvotes: 1
-Comments: 1
+**Author**: @mariela-plaza
+**Upvotes**: 1
+**Comments**: 1
 
 We are using aws-amplify to utilize Cognito to handle our user's sessions.
 
@@ -7268,9 +7268,9 @@ https://docs.aws.amazon.com/cognito/latest/developerguide/user-pool-lambda-pre-a
 
 ---------------
 
-Author: @lowecg
-Upvotes: 13
-Comments: 3
+**Author**: @lowecg
+**Upvotes**: 13
+**Comments**: 3
 
 Please can Brotli compression be enabled by default for the CloudFront hosting capability of Amplify?
 
@@ -7331,9 +7331,9 @@ I have this problem too.  If I try to set the content-type to br in the custom h
 
 ---------------
 
-Author: @cdwheatley
-Upvotes: 3
-Comments: 0
+**Author**: @cdwheatley
+**Upvotes**: 3
+**Comments**: 0
 
 QuotaExceededError - "Failed to PutOrAdd in database because not enough space for domain"
 
@@ -7355,9 +7355,9 @@ Thanks for any help.
 
 ---------------
 
-Author: @artidataio
-Upvotes: 1
-Comments: 1
+**Author**: @artidataio
+**Upvotes**: 1
+**Comments**: 1
 
 Hi, I have one s3 storage to be used by 2 application. I want it to be accessible under authentication. There is one solution that make the bucket public instead: https://github.com/aws-amplify/amplify-js/issues/960#issuecomment-605456268. However, in my case is not ideal, as anyone with the link will be able to access and download every items in the bucket. 
 
@@ -7387,9 +7387,9 @@ I added admin queries api, and it breaks. I revert it back and remove the admin 
 
 ---------------
 
-Author: @RocketRonz
-Upvotes: 2
-Comments: 0
+**Author**: @RocketRonz
+**Upvotes**: 2
+**Comments**: 0
 
 Hi there. Is anyone using Auth.federatedSignIn (Google) with Expo?
 
@@ -7405,9 +7405,9 @@ Any help would be appreciated, thanks.
 
 ---------------
 
-Author: @sefatanam
-Upvotes: 1
-Comments: 1
+**Author**: @sefatanam
+**Upvotes**: 1
+**Comments**: 1
 
 I used aws-amplify for a very short time for my project. Recently, I'm facing a serious issue about data updating in DataStore in aws-amplify. After reading the docs from their official site I findout that, If I want to update data in DataStore it worked in Immutable way like this,
 
@@ -7521,9 +7521,9 @@ Hope this helps, and let me know if you have further questions!
 
 ---------------
 
-Author: @emilyahsu
-Upvotes: 1
-Comments: 0
+**Author**: @emilyahsu
+**Upvotes**: 1
+**Comments**: 0
 
 Hi everyone! I’m Emily, a UX Designer at AWS Amplify, and I’m conducting user interviews to improve the data modeling experience on Amplify. The interview will take at most 1 hour, and as a “thank you”, we’d love to provide you with $100 in AWS credits for your time. If you are interested in participating, please email me at [emilyhsu@amazon.com](mailto:emilyhsu@amazon.com) or DM me on Discord (emilyhsu#6135) and we can schedule a time. Thanks!
 
@@ -7535,9 +7535,9 @@ Hi everyone! I’m Emily, a UX Designer at AWS Amplify, and I’m conducting use
 
 ---------------
 
-Author: @rkushkuley
-Upvotes: 1
-Comments: 0
+**Author**: @rkushkuley
+**Upvotes**: 1
+**Comments**: 0
 
 I am updating an item in dynamodb through python. Is there a way for datastore to observe this change? 
 
@@ -7551,9 +7551,9 @@ It looks like the _version and _lastUpdatedAt does not change when i update item
 
 ---------------
 
-Author: @sefatanam
-Upvotes: 1
-Comments: 2
+**Author**: @sefatanam
+**Upvotes**: 1
+**Comments**: 2
 
 Hi,
 
@@ -7656,9 +7656,9 @@ Hub.listen('auth', (data) => {
 
 ---------------
 
-Author: @whunter
-Upvotes: 1
-Comments: 0
+**Author**: @whunter
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, we have several Amplify apps based on the same codebase. Yesterday I wanted to add a new backend env to one of them for testing. I pulled our repo from Github and then from the root of the project I ran `amplify pull <desired app ID>` where the "desired app ID" was found at the end of the ARN on the Amplify App Settings > General tab. The CLI then asks several questions and among them was "Which app are you working on?" So I chose the app that I wanted to update. I made my changes to the backend and ran `amplify push`. When the push completed I looked for my new backend on the app web page in the AWS console. It wasn't there but I did find it in a different app. 
 
@@ -7674,9 +7674,9 @@ Thanks!
 
 ---------------
 
-Author: @T-DiegoF
-Upvotes: 3
-Comments: 0
+**Author**: @T-DiegoF
+**Upvotes**: 3
+**Comments**: 0
 
 I need to delete the users that remain unconfirmed in the user pools. What dou you recommend?
 
@@ -7688,9 +7688,9 @@ I need to delete the users that remain unconfirmed in the user pools. What dou y
 
 ---------------
 
-Author: @prli
-Upvotes: 5
-Comments: 0
+**Author**: @prli
+**Upvotes**: 5
+**Comments**: 0
 
 I have a chrome extension which uses AWS Amplify for authentication. I currently have it within background.html for authentication using chrome manifest v2. Chrome will remove support for manifest v2 by 2023 and I am trying to upgrade my extension from v2 to v3. 
 
@@ -7713,9 +7713,9 @@ How can I make Amplify work with service worker for chrome extension?
 
 ---------------
 
-Author: @rkushkuley
-Upvotes: 1
-Comments: 0
+**Author**: @rkushkuley
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 
@@ -7759,9 +7759,9 @@ amplify: 4.3**
 
 ---------------
 
-Author: @MedNabilEssefaihi
-Upvotes: 1
-Comments: 1
+**Author**: @MedNabilEssefaihi
+**Upvotes**: 1
+**Comments**: 1
 
 Dear Network,
 
@@ -7789,9 +7789,9 @@ Yes, it is the `Server Key` from the Firebase console.
 
 ---------------
 
-Author: @Joshig99
-Upvotes: 1
-Comments: 1
+**Author**: @Joshig99
+**Upvotes**: 1
+**Comments**: 1
 
 Hi, I did social logins for Apple and Google.
 I Followed Aws Authentication document and configured correctly for providers side and cognito side. also i configured front end correctly, added url scheme in info.plist. 
@@ -7829,9 +7829,9 @@ I am Currently experiencing same issues.
 
 ---------------
 
-Author: @oarthursilva
-Upvotes: 1
-Comments: 2
+**Author**: @oarthursilva
+**Upvotes**: 1
+**Comments**: 2
 
 I'm trying to use the federated sign in with Facebook. I've set up everything correctly, but I can't get it to work when passing the facebook token to `Auth.federatedSignIn`, The idea is to re-use the authenticated token from facebook to Cognito.
 
@@ -7959,9 +7959,9 @@ Good Luck.!
 
 ---------------
 
-Author: @rpmansion
-Upvotes: 1
-Comments: 0
+**Author**: @rpmansion
+**Upvotes**: 1
+**Comments**: 0
 
 Upon initiating an authorization code grant from a client app, it goes to the authorize endpoint, then redirect you to login with a queryparams from an example below.
 
@@ -7992,9 +7992,9 @@ Of course, once you sign in it will redirect you to the dashboard. The question 
 
 ---------------
 
-Author: @apoorvmote
-Upvotes: 3
-Comments: 1
+**Author**: @apoorvmote
+**Upvotes**: 3
+**Comments**: 1
 
 I have simple schema
 ```graphql
@@ -8041,9 +8041,9 @@ In the past, I've introduced a top-level, or aggregate root type called `Custome
 
 ---------------
 
-Author: @sagar14791
-Upvotes: 1
-Comments: 0
+**Author**: @sagar14791
+**Upvotes**: 1
+**Comments**: 0
 
 **I am using 2 Configurations for amplify**
 
@@ -8082,9 +8082,9 @@ i want to sync data from **ProductData** only and not to from **SALES_LIST** but
 
 ---------------
 
-Author: @jamessouth
-Upvotes: 2
-Comments: 1
+**Author**: @jamessouth
+**Upvotes**: 2
+**Comments**: 1
 
 Hello, I got this warning in Chrome (Iridium) re my use of `amazon-cognito-identity-js@5.2.3` and did not find it mentioned in another issue or discussion:
 
@@ -8142,9 +8142,9 @@ to one of the suggested alternatives, in order to remove the Audit notice?  [edi
 
 ---------------
 
-Author: @dalekatwork
-Upvotes: 0
-Comments: 1
+**Author**: @dalekatwork
+**Upvotes**: 0
+**Comments**: 1
 
 Hi, I am getting 413 status code on a POST call when I take an image from my camera as part of my payload. I want to save it as part of the request.
 
@@ -8165,9 +8165,9 @@ I was able to fix the issue by increasing my server client body size. Closing th
 
 ---------------
 
-Author: @aak001
-Upvotes: 0
-Comments: 0
+**Author**: @aak001
+**Upvotes**: 0
+**Comments**: 0
 
 Hi, I successfully uploaded an image to my amplify s3 bucket using the prescribed method in the amplify storage docs. Is there a way to upload multiple images to the same bucket maybe using "promise.all()"? if so can I have an example?
 
@@ -8179,9 +8179,9 @@ Hi, I successfully uploaded an image to my amplify s3 bucket using the prescribe
 
 ---------------
 
-Author: @DevTGhosh
-Upvotes: 7
-Comments: 1
+**Author**: @DevTGhosh
+**Upvotes**: 7
+**Comments**: 1
 
 I have a One to Many relationship model. For e.g 1 Post can have many Comments.  So for my usecase a Post can have 1000's of Comments. This is running into the default Datastore limit of 10k records. If I create new post with another 1000 comment they show up in the datastore. However if I clear, stop and restart the datastore the selective sync causes only partial comments to load for each Post.
 
@@ -8212,9 +8212,9 @@ Author: @nvnk3
 
 ---------------
 
-Author: @andre347
-Upvotes: 1
-Comments: 0
+**Author**: @andre347
+**Upvotes**: 1
+**Comments**: 0
 
 I have the following use case. I am building an internal portal and we often share links to protected pages. If a user clicks on a link and they are not authenticated they are send to the '/login' page and then send to the '/dashboard' page. However, we want the user to go the link they initially clicked on. Say someone clicks on a link to go to '/dashboard/product/product1', we want to first go to '/login' and after auth to '/dashboard/product/product1' and not to '/dashboard'. 
 
@@ -8230,9 +8230,9 @@ In Auth0 there is a prop on the login method to set a dynamic redirect, which yo
 
 ---------------
 
-Author: @chris-maclean
-Upvotes: 2
-Comments: 1
+**Author**: @chris-maclean
+**Upvotes**: 2
+**Comments**: 1
 
 I am trying to support the `FORCE_CHANGE_PASSWORD` workflow in my web app, following Use Case 23 in the `amazon-cognito-identity-js` [README](https://github.com/aws-amplify/amplify-js/tree/main/packages/amazon-cognito-identity-js). I have a `newPasswordRequired` callback for the `CognitoUser.authenticateUser` method, and I have verified that the callback is called. However, like the OP in issue [#3043](https://github.com/aws-amplify/amplify-js/issues/3043), I want to redirect my user to a new page to fill in their new password. Use Case 23 says to save the user attributes (the first parameter to the `newPasswordRequired` callback) to a global variable, then provide it as an argument to `CognitoUser.completeNewPasswordChallenge`, like this:
 
@@ -8344,9 +8344,9 @@ I think this will work, but it seems strange that it should be necessary. I don'
 
 ---------------
 
-Author: @madlerpar
-Upvotes: 1
-Comments: 0
+**Author**: @madlerpar
+**Upvotes**: 1
+**Comments**: 0
 
 Does anyone know of a way to verify a users password when they are already logged in? My application has some sensitive actions that we have the user confirm by entering their password. Originally we were using Auth.SignIn(). This worked fine when the only MFA option was TOTP, but after adding in SMS SignIn will trigger a text message being sent to the user which we do not want. 
 
@@ -8366,9 +8366,9 @@ If anyone has any insight in how to confirm the users password without triggerin
 
 ---------------
 
-Author: @brown2021
-Upvotes: 1
-Comments: 0
+**Author**: @brown2021
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, I would like to use my own storage. My storage APIs are in Python. How do I use the Amplify Framework to call them. For example, 
 
@@ -8424,9 +8424,9 @@ https://docs.amplify.aws/lib/storage/getting-started/q/platform/js/#using-a-cust
 
 ---------------
 
-Author: @flexelem
-Upvotes: 2
-Comments: 0
+**Author**: @flexelem
+**Upvotes**: 2
+**Comments**: 0
 
 Hi there, I am trying to learn authentication code grant flow with Cognito Hosted UI. Everything seems working until I get redirected back to my protected page. All the /authorize, /login and /token calls are getting completed successfully. I can also confirm that I see the URL with /code parameter generated which is then redirected again. As the final step when I use `await Auth.currentAuthenticatedUser();` I get an error with "no current user". So, if I am not mistaken Amplify handles all the required OAUTH calls internally which I would then expect to get an authorized user at the end. Here are the two main files from my react app;
 
@@ -8557,9 +8557,9 @@ Thanks for the help!
 
 ---------------
 
-Author: @duranmla
-Upvotes: 4
-Comments: 3
+**Author**: @duranmla
+**Upvotes**: 4
+**Comments**: 3
 
 👋 Hi!
 
@@ -8663,9 +8663,9 @@ In my case I'm using DataStore and trying to selectively sync a subset of data a
 
 ---------------
 
-Author: @monscamus
-Upvotes: 1
-Comments: 2
+**Author**: @monscamus
+**Upvotes**: 1
+**Comments**: 2
 
 We recently reviewed a prototype React application for security and noticed that a session token is passed by the Amplify offline datastore code into the graphql endpoint _in the url_. I know that jwt tokens are passed in the headers normally but I'm thinking that target urls of users are much easier to capture than encrypted headers. it looks like the following:
 
@@ -8709,9 +8709,9 @@ If you have any follow up questions, please do not hesitate to contact us at [aw
 
 ---------------
 
-Author: @bikashgupta-zinrelo
-Upvotes: 1
-Comments: 0
+**Author**: @bikashgupta-zinrelo
+**Upvotes**: 1
+**Comments**: 0
 
 Does aws.cognito.signin.user.admin scope allows the logged-in user to change other users' data or delete other users in the pool?
 
@@ -8723,9 +8723,9 @@ Does aws.cognito.signin.user.admin scope allows the logged-in user to change oth
 
 ---------------
 
-Author: @Ramnirmal0
-Upvotes: 1
-Comments: 1
+**Author**: @Ramnirmal0
+**Upvotes**: 1
+**Comments**: 1
 
 I am trying to enable TOTP based MFA . but most of the time i am getting following as API Response
 
@@ -8756,9 +8756,9 @@ Author: @david-mcafee
 
 ---------------
 
-Author: @LudoLab92
-Upvotes: 1
-Comments: 0
+**Author**: @LudoLab92
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 
@@ -8776,9 +8776,9 @@ Thanks,
 
 ---------------
 
-Author: @samuelcastro
-Upvotes: 2
-Comments: 0
+**Author**: @samuelcastro
+**Upvotes**: 2
+**Comments**: 0
 
 The `Auth.fetchDevices` fn only returns `id` and `name`, however I know that Cognito supports several other informations like `IP`, `Last Seen` etc. How can we return more information?
 
@@ -8790,9 +8790,9 @@ The `Auth.fetchDevices` fn only returns `id` and `name`, however I know that Cog
 
 ---------------
 
-Author: @ranopriyo-neogy
-Upvotes: 0
-Comments: 0
+**Author**: @ranopriyo-neogy
+**Upvotes**: 0
+**Comments**: 0
 
 I am setting up an existing react project in a new AWS account and trying to figure out how to get `aws_cloud_logic_custom` in `aws-exports.js`? As I didn't find a way to put that in, I manually edited the `aws-export.js` file (as shown in the code below), however with Amplify push the configuration was auto deleted.
 
@@ -8833,9 +8833,9 @@ export default awsmobile;
 
 ---------------
 
-Author: @LudoLab92
-Upvotes: 1
-Comments: 0
+**Author**: @LudoLab92
+**Upvotes**: 1
+**Comments**: 0
 
 Why do we need this? Here is a common use case:
 
@@ -8863,9 +8863,9 @@ As far is i know, nothing of this is still possible, and i don't see any other r
 
 ---------------
 
-Author: @ZYinMD
-Upvotes: 1
-Comments: 0
+**Author**: @ZYinMD
+**Upvotes**: 1
+**Comments**: 0
 
 https://docs.amplify.aws/cli/graphql/overview/ this entire page seems to show wrong signatures of `API.graphql(...)`, and I don't think the code would work. The correct signature should be either `API.graphql(graphqlOperation(query, { input }))` or `API.graphql({ query, variables })`, I think.
 
@@ -8880,9 +8880,9 @@ https://docs.amplify.aws/cli/graphql/overview/ this entire page seems to show wr
 
 ---------------
 
-Author: @ZYinMD
-Upvotes: 1
-Comments: 0
+**Author**: @ZYinMD
+**Upvotes**: 1
+**Comments**: 0
 
 I'm migrating a web app from firebase to Amplify. In firebase, you can silently sign-up / sign-in a user without any user interaction or password, as long as you somehow already have a unique identifier of the user. I wonder if Amplify has a equivalent flow. The process is something like this:
 
@@ -8913,9 +8913,9 @@ Is something similar available in Amplify?
 
 ---------------
 
-Author: @LokeshBhatt79
-Upvotes: 2
-Comments: 0
+**Author**: @LokeshBhatt79
+**Upvotes**: 2
+**Comments**: 0
 
 We have setup an amplify CI/CD pipeline with Auto-Build Enabled, but most of the times build fails while building the backend, but sometime it works. So, not sure why does it fail most if the times. There is no error provided in the failures. We tried removing --simple but it behaves same way. We are having around than 64 python lambda functions which we deploy using amplify.
 
@@ -8991,9 +8991,9 @@ Any solution to this issue?
 
 ---------------
 
-Author: @steve-ng
-Upvotes: 7
-Comments: 3
+**Author**: @steve-ng
+**Upvotes**: 7
+**Comments**: 3
 
 Currently I am using `import { Auth } from '@aws-amplify/auth'`
 
@@ -9030,9 +9030,9 @@ I am hoping to accomplish this in react native, has anyone made that happen? In 
 
 ---------------
 
-Author: @sayu-agiliad
-Upvotes: 1
-Comments: 0
+**Author**: @sayu-agiliad
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 I am developing a NextJS app where I need to invoke the Cognito listUsers AdminQuery inside my nextJS API route . However, when I run the application in dev mode, I get a 403 for the API.get. 
@@ -9051,9 +9051,9 @@ Can anyone please help. I am a bit new to AWS / Amplify.
 
 ---------------
 
-Author: @BobToninho
-Upvotes: 1
-Comments: 0
+**Author**: @BobToninho
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, I am trying to implement DataStore in an existing AppSync GraphQL backend, but I have the same problem as https://github.com/aws-amplify/amplify-js/issues/6912
 
@@ -9088,9 +9088,9 @@ Thank you!
 
 ---------------
 
-Author: @CodalReef
-Upvotes: 3
-Comments: 0
+**Author**: @CodalReef
+**Upvotes**: 3
+**Comments**: 0
 
 I'm attempting to integrate Cognito with federated sign-on in my expo app, but I'm finding Amplify to be very heavy.
 
@@ -9110,9 +9110,9 @@ I have my own backend API deployed and working.  The *only* service I currently 
 
 ---------------
 
-Author: @Anthony-Gaudino
-Upvotes: 2
-Comments: 0
+**Author**: @Anthony-Gaudino
+**Upvotes**: 2
+**Comments**: 0
 
 When a user creates an account he receives an email with a temporary password.
 
@@ -9129,9 +9129,9 @@ The logic is that since the user received the temporary password by email and us
 
 ---------------
 
-Author: @funes79
-Upvotes: 1
-Comments: 0
+**Author**: @funes79
+**Upvotes**: 1
+**Comments**: 0
 
 Given the below schema when a userA (admin) logs in - he receives subscriptions data. But when another userB logs in (non admin) - he can create a Notification, but cannot subscribe to it.
 
@@ -9160,9 +9160,9 @@ Is this a bug or intended feature? If it is not a bug, how can I achieve a setup
 
 ---------------
 
-Author: @sansavision
-Upvotes: 1
-Comments: 0
+**Author**: @sansavision
+**Upvotes**: 1
+**Comments**: 0
 
 I was trying to implement a chat feature that has three models; message, user and conversation.
 A user can have many conversations, a conversation can have many users and a conversation can have many messages.
@@ -9206,9 +9206,9 @@ Amplify CLI Version : 8.0.2
 
 ---------------
 
-Author: @jbprat
-Upvotes: 1
-Comments: 2
+**Author**: @jbprat
+**Upvotes**: 1
+**Comments**: 2
 
 Hi,
 
@@ -9291,9 +9291,9 @@ this makes if the user is really logged out or was disabled it will give you the
 
 ---------------
 
-Author: @sampleaccount2
-Upvotes: 1
-Comments: 0
+**Author**: @sampleaccount2
+**Upvotes**: 1
+**Comments**: 0
 
 ```
 type Post @model {
@@ -9324,9 +9324,9 @@ A follow up question is how do we also define other directives for a `manyToMany
 
 ---------------
 
-Author: @entest-hai
-Upvotes: 1
-Comments: 0
+**Author**: @entest-hai
+**Upvotes**: 1
+**Comments**: 0
 
 I am using [Amplify PubSub to subscribe to an IoT topic](https://docs.amplify.aws/lib/pubsub/subunsub/q/platform/js/#subscribe-to-a-topic). I want to unsubscribe before sign out. However, sign out happens before unsubscribe. Please help. 
 
@@ -9338,9 +9338,9 @@ I am using [Amplify PubSub to subscribe to an IoT topic](https://docs.amplify.aw
 
 ---------------
 
-Author: @entest-hai
-Upvotes: 1
-Comments: 0
+**Author**: @entest-hai
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, 
 
@@ -9356,9 +9356,9 @@ Thank you
 
 ---------------
 
-Author: @mohitsuccessive
-Upvotes: 0
-Comments: 1
+**Author**: @mohitsuccessive
+**Upvotes**: 0
+**Comments**: 1
 
 I am able to connect Amplify Datastore with Dynomodb and synchronization is also working fine but I don't want to use Dynomodb tables in my process. I want my Datastore to directly call my HTTP API.
 
@@ -9381,9 +9381,9 @@ Author: @david-mcafee
 
 ---------------
 
-Author: @kheriox-technologies
-Upvotes: 1
-Comments: 1
+**Author**: @kheriox-technologies
+**Upvotes**: 1
+**Comments**: 1
 
 Hello Team,
 
@@ -9408,9 +9408,9 @@ Author: @david-mcafee
 
 ---------------
 
-Author: @mir1198yusuf
-Upvotes: 1
-Comments: 1
+**Author**: @mir1198yusuf
+**Upvotes**: 1
+**Comments**: 1
 
 There is a config called `fullSyncInterval` . When this time finishes and app is closed for a long time (not inactive , not in background, but closed completely), does syncing with backend happens?  or it  starts to happen when app is opened again? 
 ## Comment
@@ -9429,9 +9429,9 @@ Hi @mir1198yusuf - thanks for starting this discussion! A sync will not occur un
 
 ---------------
 
-Author: @mdegrees
-Upvotes: 1
-Comments: 1
+**Author**: @mdegrees
+**Upvotes**: 1
+**Comments**: 1
 
 When using 
 ```javascript
@@ -9458,9 +9458,9 @@ Author: @david-mcafee
 
 ---------------
 
-Author: @leonardocfor
-Upvotes: 1
-Comments: 1
+**Author**: @leonardocfor
+**Upvotes**: 1
+**Comments**: 1
 
 Hi everybody, 
 
@@ -9483,9 +9483,9 @@ Author: @david-mcafee
 
 ---------------
 
-Author: @tshad
-Upvotes: 1
-Comments: 2
+**Author**: @tshad
+**Upvotes**: 1
+**Comments**: 2
 
 Is there a time limit when the datastore data which resides in IndexedDB will be deleted?
 
@@ -9519,9 +9519,9 @@ Author: @david-mcafee
 
 ---------------
 
-Author: @ramakrishnan
-Upvotes: 1
-Comments: 1
+**Author**: @ramakrishnan
+**Upvotes**: 1
+**Comments**: 1
 
 Starting from amplify-js 3.4.0 DataStore save (update) on a existing model sends only the updated attributes. Is there any option to send all the attributes.
 ## Comment
@@ -9540,9 +9540,9 @@ Author: @david-mcafee
 
 ---------------
 
-Author: @mdegrees
-Upvotes: 1
-Comments: 1
+**Author**: @mdegrees
+**Upvotes**: 1
+**Comments**: 1
 
 Hi everyone, anyone has an idea how I can query a model with a predicate on a nested object. I'm working with the following schema:
 
@@ -9582,9 +9582,9 @@ Author: @david-mcafee
 
 ---------------
 
-Author: @trungphotobank
-Upvotes: 1
-Comments: 1
+**Author**: @trungphotobank
+**Upvotes**: 1
+**Comments**: 1
 
 I have implement "Login with facebook" successfully,
 But I got some problem to implement with "Login with Line"
@@ -9607,9 +9607,9 @@ closed!
 
 ---------------
 
-Author: @ARChatco
-Upvotes: 1
-Comments: 1
+**Author**: @ARChatco
+**Upvotes**: 1
+**Comments**: 1
 
 So I have done my own listUsers. returning less fields and when I do amplify push and I choose update, it is not adding the new stuff from schema, is also removing my custom queries,
 
@@ -9635,9 +9635,9 @@ Where are you saving your 'listUsers'? At the top of the queries.ts and queries.
 
 ---------------
 
-Author: @karrettgelley
-Upvotes: 2
-Comments: 2
+**Author**: @karrettgelley
+**Upvotes**: 2
+**Comments**: 2
 
 I have been working on a react web app for a while and I have been using the api module (`@aws-amplify/api`). Love that package. It has done everything I need it to do. However, I am trying to pivot into a mobile. I now would like to create a react native mobile app that is offline enabled. I still want to keep my react app. There are two recommendations in the docs regarding [amplify and offline support](https://docs.amplify.aws/lib/graphqlapi/offline/q/platform/js): 1. Use DataStore  and 2. Use the AppSync SDK. 
 I'm averse to using DataStore given that it's so new and does not have first class support for multi-tenant apps. But like I said, I have been using the api module for the longest and I have never heard of the AppSync sdk. It's documentation is fairly sparse and I'm wondering how it differs from `@aws-amplify/api`. Does anybody use it? Would you say that you either use `@aws-amplify/api` _or_ the AppSync SDK, or are they not mutually exclusive? Is the AppSync SDK part of the amplify framework or is it a one-off package for general use? And if `@aws-amplify/api` doesn't support offline cases, will it in the future? And what is the long term support of the AppSync SDK?
@@ -9696,9 +9696,9 @@ Hope this answers any questions you may have!
 
 ---------------
 
-Author: @laclance
-Upvotes: 2
-Comments: 33
+**Author**: @laclance
+**Upvotes**: 2
+**Comments**: 33
 
 ### Before opening, please confirm:
 
@@ -10304,9 +10304,9 @@ Also having this issue, would love a solution
 
 ---------------
 
-Author: @Zilvinaskli
-Upvotes: 1
-Comments: 0
+**Author**: @Zilvinaskli
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, 
 
@@ -10324,9 +10324,9 @@ I removed auth and dependent resources and tried to do it again, I definitely se
 
 ---------------
 
-Author: @eliecer2000
-Upvotes: 1
-Comments: 0
+**Author**: @eliecer2000
+**Upvotes**: 1
+**Comments**: 0
 
 Hello community, I tell you about a problem I have with a project created with AWS Amplify, I have with several resolvers in the preLoadData stage, unfortunately I did not find an elegant solution to place them dataSourceName until I used the strategy of overwrite in the API, when I deploy with the CLI works great, the problem becomes when I try to export my project to CDK the overrider does not work, in the build stage when it is exported does not make this call, you can even try running the command `amplify build` and you will see that if the overrider file runs, it does not work when I run `amplify export`, I do not know whether to report this bug.
 
@@ -10339,9 +10339,9 @@ Hello community, I tell you about a problem I have with a project created with A
 
 ---------------
 
-Author: @DVGY
-Upvotes: 4
-Comments: 0
+**Author**: @DVGY
+**Upvotes**: 4
+**Comments**: 0
 
 The selected Cognito User Pool does not have at least 1 Web app client configured. Web app clients are app clients without a client secret. at headlessImport.
 
@@ -10355,9 +10355,9 @@ The selected Cognito User Pool does not have at least 1 Web app client configure
 
 ---------------
 
-Author: @proraheelaslam
-Upvotes: 4
-Comments: 0
+**Author**: @proraheelaslam
+**Upvotes**: 4
+**Comments**: 0
 
 Hi,
 
@@ -10401,9 +10401,9 @@ Thanks
 
 ---------------
 
-Author: @micoPhD
-Upvotes: 2
-Comments: 0
+**Author**: @micoPhD
+**Upvotes**: 2
+**Comments**: 0
 
 Hi,
 
@@ -10425,9 +10425,9 @@ Thank you
 
 ---------------
 
-Author: @agrant-intix
-Upvotes: 2
-Comments: 1
+**Author**: @agrant-intix
+**Upvotes**: 2
+**Comments**: 1
 
 General question on caching API results in a next.js application.
 
@@ -10479,9 +10479,9 @@ How can we get amplify to deploy within our VPC?
 
 ---------------
 
-Author: @
-Upvotes: 17
-Comments: 12
+**Author**: @
+**Upvotes**: 17
+**Comments**: 12
 
 This happened on the latest Safari 15.0 on both Mac system and IOS system.
 
@@ -10684,9 +10684,9 @@ Amplify.configure({
 
 ---------------
 
-Author: @simon-zhangmuye
-Upvotes: 2
-Comments: 3
+**Author**: @simon-zhangmuye
+**Upvotes**: 2
+**Comments**: 3
 
 Hi,
 
@@ -10732,9 +10732,9 @@ Any luck on ideas about this? I am having the same thoughts and problems.
 
 ---------------
 
-Author: @kim00425
-Upvotes: 1
-Comments: 0
+**Author**: @kim00425
+**Upvotes**: 1
+**Comments**: 0
 
 currently i m deploying a web front with SEO at amplify.
 
@@ -10750,9 +10750,9 @@ is there a way?
 
 ---------------
 
-Author: @EdGonzalez-
-Upvotes: 1
-Comments: 1
+**Author**: @EdGonzalez-
+**Upvotes**: 1
+**Comments**: 1
 
 Is there a changelog for each Amplify release?
 ## Comment
@@ -10771,9 +10771,9 @@ Hi @EdGonzalez, thanks for starting this conversation! As of now, we have a sepa
 
 ---------------
 
-Author: @wataruoguchi
-Upvotes: 2
-Comments: 1
+**Author**: @wataruoguchi
+**Upvotes**: 2
+**Comments**: 1
 
 Hello! Correct me if I am posting in wrong place.
 
@@ -10818,9 +10818,9 @@ https://datatracker.ietf.org/doc/html/rfc6749#section-5.2
 
 ---------------
 
-Author: @thedraketaylor
-Upvotes: 1
-Comments: 1
+**Author**: @thedraketaylor
+**Upvotes**: 1
+**Comments**: 1
 
 I've got the following code where I'm adding a custom attribute to my sign up form:
 
@@ -10864,9 +10864,9 @@ I found the issue. I needed type: "custom:stage-name1", instead of type: "text",
 
 ---------------
 
-Author: @demilp
-Upvotes: 1
-Comments: 0
+**Author**: @demilp
+**Upvotes**: 1
+**Comments**: 0
 
 I need to receive a custom header in a lambda function but the API Gateway was blocking the request.
 I followed this steps [here](https://docs.amplify.aws/lib/restapi/authz/q/platform/js/#customizing-http-request-headers) and it is working now, but is not scalable if I want to create multiple environments or do this on multiple endpoints.
@@ -10880,9 +10880,9 @@ Is there a way to do it from the amplify console or at least manually modifying 
 
 ---------------
 
-Author: @CSHaze
-Upvotes: 2
-Comments: 0
+**Author**: @CSHaze
+**Upvotes**: 2
+**Comments**: 0
 
 Is there any easy way to reconnect the  AWSAppSyncRealTimeProvider web socket after an error ("Connection closed", "Timeout disconnect", etc)? These errors appear when the connection has been idle or disconnected for longer than the keepAliveTimeout (5 minutes).
 
@@ -10896,9 +10896,9 @@ I can't figure out a way to get any of my subscriptions to work again without re
 
 ---------------
 
-Author: @ClaudioVR
-Upvotes: 1
-Comments: 1
+**Author**: @ClaudioVR
+**Upvotes**: 1
+**Comments**: 1
 
 The "Calling DynamoDB from Lambda in Node.js" page of the [online docs](https://docs.amplify.aws/guides/functions/dynamodb-from-js-lambda/q/platform/js/#querying-a-table) has no mention of how to delete a DynamoDB item.
 
@@ -10968,9 +10968,9 @@ await docClient.delete(params).promise()
 
 ---------------
 
-Author: @fistofzen
-Upvotes: 1
-Comments: 2
+**Author**: @fistofzen
+**Upvotes**: 1
+**Comments**: 2
 
 Hello,
 
@@ -11010,9 +11010,9 @@ Thanks
 
 ---------------
 
-Author: @alxAgu
-Upvotes: 1
-Comments: 0
+**Author**: @alxAgu
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, I'm using the following code to monitor the auth process:
 
@@ -11068,9 +11068,9 @@ Thanks.
 
 ---------------
 
-Author: @rhinozD
-Upvotes: 4
-Comments: 0
+**Author**: @rhinozD
+**Upvotes**: 4
+**Comments**: 0
 
 Hi everyone,
 
@@ -11098,9 +11098,9 @@ Thank you very much!
 
 ---------------
 
-Author: @kainn9
-Upvotes: 1
-Comments: 0
+**Author**: @kainn9
+**Upvotes**: 1
+**Comments**: 0
 
 My apologies if this is a silly question, but I am struggling to understand this concept. When calling methods such as`Auth.signIn()` what type of Authorization grant is being used?
 
@@ -11112,9 +11112,9 @@ My apologies if this is a silly question, but I am struggling to understand this
 
 ---------------
 
-Author: @katerlouis
-Upvotes: 2
-Comments: 1
+**Author**: @katerlouis
+**Upvotes**: 2
+**Comments**: 1
 
 I use `aws-cognito-identity-js` in my nuxt 2 application and login like this:
 
@@ -11205,9 +11205,9 @@ export default {
 
 ---------------
 
-Author: @marcioalexbarbosa
-Upvotes: 1
-Comments: 0
+**Author**: @marcioalexbarbosa
+**Upvotes**: 1
+**Comments**: 0
 
 I have the following model in amplify datastore:
 
@@ -11248,9 +11248,9 @@ Any ideas?
 
 ---------------
 
-Author: @lack-of-gravitas
-Upvotes: 2
-Comments: 1
+**Author**: @lack-of-gravitas
+**Upvotes**: 2
+**Comments**: 1
 
 How can I remove **only** the Sign in with AWS button - using Amplify UI components
 
@@ -11278,9 +11278,9 @@ how did you find which slot you can override? is it on the documentation somewhe
 
 ---------------
 
-Author: @MikeLungu77
-Upvotes: 1
-Comments: 2
+**Author**: @MikeLungu77
+**Upvotes**: 1
+**Comments**: 2
 
 Hey all,
 has anybody been able to style the AWS Amplify component?
@@ -11361,9 +11361,9 @@ On Sat, 26 Feb 2022 at 08:25, David McAfee ***@***.***> wrote:
 
 ---------------
 
-Author: @diontrepate
-Upvotes: 1
-Comments: 2
+**Author**: @diontrepate
+**Upvotes**: 1
+**Comments**: 2
 
 Hi! I recently deployed my application and noticed that the IndexedDB was exposed from the dev tools. This was concerning because all of my tables and the data from within them are present. Is there something I can do to fix this? 
 ## Comment
@@ -11389,9 +11389,9 @@ Hey @diontrepate - DataStore does not offer encoding of the data, however, you a
 
 ---------------
 
-Author: @KevinLam0308
-Upvotes: 1
-Comments: 2
+**Author**: @KevinLam0308
+**Upvotes**: 1
+**Comments**: 2
 
 Hello,
 
@@ -11548,9 +11548,9 @@ anyone can help? thanks!
 
 ---------------
 
-Author: @theguy1985
-Upvotes: 1
-Comments: 0
+**Author**: @theguy1985
+**Upvotes**: 1
+**Comments**: 0
 
 I am using `aws-amplify 4.3.15(latest)` in my react native application with enabled MFA. Now when I try to fetch the list of authorized devices, I do not get a proper result for Android devices. `cognitoUser.listDevices()` gives me array of devices, but the DeviceAttribute ` device_name` doesn't say Android or something like that. Instead, I get `"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"`. Also Sometime device_name is not at all there. This is most probably an issue with device tracking and detection. Please help if anyone went through a similar situation.
 
@@ -11562,9 +11562,9 @@ I am using `aws-amplify 4.3.15(latest)` in my react native application with enab
 
 ---------------
 
-Author: @cietho
-Upvotes: 2
-Comments: 1
+**Author**: @cietho
+**Upvotes**: 2
+**Comments**: 1
 
 Hey guys, I have seen that an important pull request for me has been successfully reviewed and merged. Unfortunately it is not clear to me what happens after the merge into the main branch. I would like to install the latest version that contains the pull request.
 
@@ -11594,9 +11594,9 @@ We just released a major version today, so your PR would be included with that r
 
 ---------------
 
-Author: @clintfoster
-Upvotes: 1
-Comments: 0
+**Author**: @clintfoster
+**Upvotes**: 1
+**Comments**: 0
 
 Suppose I update my GraphQL schema to add a new field that is required (or change an existing field to be required), e.g.:
 
@@ -11630,9 +11630,9 @@ Am I missing anything obvious, or should I make all fields optional, and handle 
 
 ---------------
 
-Author: @BartoszKlonowski
-Upvotes: 1
-Comments: 1
+**Author**: @BartoszKlonowski
+**Upvotes**: 1
+**Comments**: 1
 
 In general: How to correctly use the `Analytics.updateEndpoint` method
 from `AnalyticsClass`: `{ Analytics }` imported from `'@aws-amplify/analytics'`?
@@ -11707,9 +11707,9 @@ Closing this as a duplicate of [this docs ticket](https://github.com/aws-amplify
 
 ---------------
 
-Author: @bojidaryovchev
-Upvotes: 0
-Comments: 1
+**Author**: @bojidaryovchev
+**Upvotes**: 0
+**Comments**: 1
 
 Hey guys, this is driving me nuts.. I decided to clear out everything from my account and start clean, so I also deleted my IAM users and so on. Then, I used npx amplify init to initialize amplify in an application and I saw that I still have some users saved. I started googling for 15 or 20 mins without ever being able to find where are these users stored or how could I delete them. This is something that's supposed to be super simple and intuitive yet it seems impossible..
 
@@ -11730,9 +11730,9 @@ ok I found out that I have to delete my AWS profile and in order to do that I ha
 
 ---------------
 
-Author: @lvillacin
-Upvotes: 2
-Comments: 1
+**Author**: @lvillacin
+**Upvotes**: 2
+**Comments**: 1
 
 **I'm trying to use Microsoft as my authorization and authentication provider using OpenID Connect** and found that User Pools has an OIDC option so I could set things up through there. My question is, how do I now call this within my amplify webapp? I don't want to use the Hosted UI and `Auth.federatedSignIn({provider: 'xyz'})` only works for Google, Facebook, Apple and Amazon. 
 ## Comment
@@ -11751,9 +11751,9 @@ Found out this can actually be done but I now don't know how to have access to t
 
 ---------------
 
-Author: @raffibag
-Upvotes: 1
-Comments: 1
+**Author**: @raffibag
+**Upvotes**: 1
+**Comments**: 1
 
 When calling `amplify pull` from the Amplify CLI, I'm taken through the process of selecting a profile and a project (something I've been doing on this project for nearly two years), however, recently when answering `No` to `Do you plan on modifying this backend?`, Amplify is creating an `amplify` folder containing `cli.json` and `team-provider-info.json` files. This never used to happen.
 
@@ -11776,9 +11776,9 @@ Hi @raffibag - thanks for starting this discussion! Check out [this page in our 
 
 ---------------
 
-Author: @gasspau
-Upvotes: 1
-Comments: 0
+**Author**: @gasspau
+**Upvotes**: 1
+**Comments**: 0
 
 Hi there!
 I have an issue concerning the video of notJust.dev pt.2 at time mark 02:00:00 (https://www.youtube.com/watch?v=Wt8jo1znYWA&t=7215s) 
@@ -11923,9 +11923,9 @@ export default ProfileScreen`
 
 ---------------
 
-Author: @fr-an-k
-Upvotes: 1
-Comments: 4
+**Author**: @fr-an-k
+**Upvotes**: 1
+**Comments**: 4
 
 DataStore.observe(MyModel).subscribe(data => ...) is supposed to enable live notifications of remote database mutations through the websocket, correct?
 
@@ -11984,9 +11984,9 @@ Marking as resolved as there hasn't been a response on this. If you are still ru
 
 ---------------
 
-Author: @krikork
-Upvotes: 3
-Comments: 2
+**Author**: @krikork
+**Upvotes**: 3
+**Comments**: 2
 
 Today my builds have started failing with "FATAL ERROR: Ineffective mark-compacts near heap limit Allocation failed - JavaScript heap out of memory".
 
@@ -12017,9 +12017,9 @@ Marking this as closed, as a solution is documented on [this issue](https://gith
 
 ---------------
 
-Author: @patweb99
-Upvotes: 1
-Comments: 1
+**Author**: @patweb99
+**Upvotes**: 1
+**Comments**: 1
 
 I have an application that requires knowing WHO's logged in via the front end through Cognito. I'd like to be able to see this information whenever the validation Lambda is called through Lex.
 
@@ -12045,9 +12045,9 @@ Do you mean you want to have information from the signed in user on your lambda 
 
 ---------------
 
-Author: @muthu32
-Upvotes: 1
-Comments: 1
+**Author**: @muthu32
+**Upvotes**: 1
+**Comments**: 1
 
 ** Which Category is your question related to? **
 gql queries and subscriptions
@@ -12131,9 +12131,9 @@ is it bug on subscription?? If it is bug, then I will post this on amplify issue
 
 ---------------
 
-Author: @AngelHadzhiev
-Upvotes: 1
-Comments: 0
+**Author**: @AngelHadzhiev
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, 
 
@@ -12151,9 +12151,9 @@ Thank you in advance
 
 ---------------
 
-Author: @baruishigold
-Upvotes: 0
-Comments: 0
+**Author**: @baruishigold
+**Upvotes**: 0
+**Comments**: 0
 
 My app uses `"aws-amplify"` for `Auth, Storage` and  `Datastore` functionalities.
 `Geo` is not explicitly used, but it is listed as a sub-dependcy of the `"aws-amplify"`. 
@@ -12173,9 +12173,9 @@ Any advise on how to remove the Geo from React Native project would be appreciat
 
 ---------------
 
-Author: @rajeshbhatks
-Upvotes: 1
-Comments: 0
+**Author**: @rajeshbhatks
+**Upvotes**: 1
+**Comments**: 0
 
 Getting the following Amplify error when code is deployed. Works fine on the local machine
 
@@ -12224,9 +12224,9 @@ Really appreciate if some can help me
 
 ---------------
 
-Author: @Hideman85
-Upvotes: 1
-Comments: 1
+**Author**: @Hideman85
+**Upvotes**: 1
+**Comments**: 1
 
 Hi community,
 
@@ -12250,9 +12250,9 @@ Thanks for starting this discussion, @Hideman85! Could you please share a code s
 
 ---------------
 
-Author: @MiladNazeri
-Upvotes: 1
-Comments: 1
+**Author**: @MiladNazeri
+**Upvotes**: 1
+**Comments**: 1
 
 Yesterday we were doing some tests for our app and one thing that worries me is if there is some bad data that gets written to the DB, graphql kind of craps out on all the queries that might be involved.  I know I'm not the only person that has run into this.  Is there anyway to mitigate this so one bad entry doesn't possibly shutdown the whole system?
 ## Comment
@@ -12271,9 +12271,9 @@ Author: @david-mcafee
 
 ---------------
 
-Author: @ambuu
-Upvotes: 1
-Comments: 1
+**Author**: @ambuu
+**Upvotes**: 1
+**Comments**: 1
 
 
 ## Comment
@@ -12292,9 +12292,9 @@ Author: @david-mcafee
 
 ---------------
 
-Author: @cthomaschase
-Upvotes: 1
-Comments: 1
+**Author**: @cthomaschase
+**Upvotes**: 1
+**Comments**: 1
 
 Getting this back from AppSync:
 
@@ -12315,9 +12315,9 @@ Author: @david-mcafee
 
 ---------------
 
-Author: @jjviton
-Upvotes: 1
-Comments: 1
+**Author**: @jjviton
+**Upvotes**: 1
+**Comments**: 1
 
 Hi all
 I´m working in a POC using Amplify authentication using the simplest HTML & JS application (without using advanced tools such as React, only plain HTML and simple JS).
@@ -12346,9 +12346,9 @@ Yo need to add more context. Are you trying to run the code from node without ba
 
 ---------------
 
-Author: @ricardoribas
-Upvotes: 1
-Comments: 1
+**Author**: @ricardoribas
+**Upvotes**: 1
+**Comments**: 1
 
 Hey there,
 
@@ -12373,9 +12373,9 @@ Hey @ricardoribas, thanks for starting this discussion! All of the AWS services 
 
 ---------------
 
-Author: @simonthesurgery
-Upvotes: 1
-Comments: 2
+**Author**: @simonthesurgery
+**Upvotes**: 1
+**Comments**: 2
 
 I'm in the process of trying to update a project I built in 2020 that no longer works but I keep running into this issue.
 
@@ -12589,9 +12589,9 @@ Thank you for taking the time to look at my issue, but it turns out it was an is
 
 ---------------
 
-Author: @vytautas-softeta
-Upvotes: 1
-Comments: 0
+**Author**: @vytautas-softeta
+**Upvotes**: 1
+**Comments**: 0
 
 I have setup the sign up and login using 'amazon-cognito-identity-js' library, but there is a lack of information regarding how to use it for social logins. Is that even possible? Any feedback would be greatly appreciated.
 
@@ -12603,9 +12603,9 @@ I have setup the sign up and login using 'amazon-cognito-identity-js' library, b
 
 ---------------
 
-Author: @
-Upvotes: 1
-Comments: 0
+**Author**: @
+**Upvotes**: 1
+**Comments**: 0
 
 What I want to implement is to have `acounts.domain.com` as the main subdomain for register, sign in and forget password operations.
 And we have also separate web applications on different sub-domains like : 
@@ -12624,9 +12624,9 @@ So the question is: Is it possible to use **JWT Authentication** method with Amp
 
 ---------------
 
-Author: @giulioambrogi
-Upvotes: 1
-Comments: 0
+**Author**: @giulioambrogi
+**Upvotes**: 1
+**Comments**: 0
 
 Hello,
 
@@ -12659,9 +12659,9 @@ backend:
 
 ---------------
 
-Author: @codinronan
-Upvotes: 2
-Comments: 2
+**Author**: @codinronan
+**Upvotes**: 2
+**Comments**: 2
 
 So let's say I have gone through and created an app, done `amplify init`, added services and pushed my app and it's published.
 
@@ -12708,9 +12708,9 @@ Author: @david-mcafee
 
 ---------------
 
-Author: @fintechee
-Upvotes: 1
-Comments: 1
+**Author**: @fintechee
+**Upvotes**: 1
+**Comments**: 1
 
 Is it safe to expose aws_exports.js to the public repo, such as Github repo here?
 Because I saw there is an API key in the information.
@@ -12742,9 +12742,9 @@ To generate the `aws-exports.js` file in an existing project (or checkout a back
 
 ---------------
 
-Author: @allandallopez
-Upvotes: 2
-Comments: 0
+**Author**: @allandallopez
+**Upvotes**: 2
+**Comments**: 0
 
 Hi guys, need help to find out what is going wrong with the error undefined is not function on Auth.sendCustomChallengeAnswer.
 
@@ -12853,9 +12853,9 @@ export default {
 
 ---------------
 
-Author: @gambithunt
-Upvotes: 2
-Comments: 1
+**Author**: @gambithunt
+**Upvotes**: 2
+**Comments**: 1
 
 Hi all
 
@@ -12941,9 +12941,9 @@ I managed to solve it
 
 ---------------
 
-Author: @mrichman
-Upvotes: 1
-Comments: 1
+**Author**: @mrichman
+**Upvotes**: 1
+**Comments**: 1
 
 There used to be a standalone JS implementation which is now buried in Amplify and is now deprecated.
 
@@ -13013,9 +13013,9 @@ Looks like the last bit is unclear in docs. I ll open up an issue for that.
 
 ---------------
 
-Author: @matart15
-Upvotes: 0
-Comments: 1
+**Author**: @matart15
+**Upvotes**: 0
+**Comments**: 1
 
 about next cache I found [this article](https://flaviocopes.com/nextjs-cache-data-globally/). which uses a file for the cache.  [this article](https://blog.dennisokeeffe.com/blog/2021-09-30-introduction-to-caching-with-nextjs#caching-on-the-client-side) uses redis.
 
@@ -13039,9 +13039,9 @@ I found static pages in `S3`
 
 ---------------
 
-Author: @Hevton
-Upvotes: 1
-Comments: 0
+**Author**: @Hevton
+**Upvotes**: 1
+**Comments**: 0
 
 I am confused about pricing criteria in aws amplify
 
@@ -13064,9 +13064,9 @@ Is this command 1000 requests or 1 request?
 
 ---------------
 
-Author: @ritika2291
-Upvotes: 5
-Comments: 0
+**Author**: @ritika2291
+**Upvotes**: 5
+**Comments**: 0
 
 The key that is being generated for my files in S3 is around 600 characters too long. The file name and path are both under 15 characters. When I try to access the object via a presigned url, generated via Storage.get, I get the error that KeyTooLongError. Any ideas on what to do?
 
@@ -13078,9 +13078,9 @@ The key that is being generated for my files in S3 is around 600 characters too 
 
 ---------------
 
-Author: @anastasiyamazheika
-Upvotes: 1
-Comments: 1
+**Author**: @anastasiyamazheika
+**Upvotes**: 1
+**Comments**: 1
 
 Hello! 
 I want to launch my tests in docker in Amplify pipeline. 
@@ -13143,9 +13143,9 @@ Moved question to https://github.com/aws-amplify/amplify-console/issues/2550
 
 ---------------
 
-Author: @benjamindoe
-Upvotes: 2
-Comments: 1
+**Author**: @benjamindoe
+**Upvotes**: 2
+**Comments**: 1
 
 I am trying to authenticate users via a custom cognito challenge. Due to some constraints we have to do this from a `/api` route, which causes the code to run server-side. I am using something similar to below:
 
@@ -13182,9 +13182,9 @@ Feel free to check it out: https://github.com/nitrictech/amplify-secure-js
 
 ---------------
 
-Author: @poyashad
-Upvotes: 2
-Comments: 1
+**Author**: @poyashad
+**Upvotes**: 2
+**Comments**: 1
 
 Hi guys!
 
@@ -13278,9 +13278,9 @@ In AppSync when looking at createUser mutation there is no workspaces field. And
 
 ---------------
 
-Author: @thevangelist
-Upvotes: 1
-Comments: 0
+**Author**: @thevangelist
+**Upvotes**: 1
+**Comments**: 0
 
 How can I customize other content in ConfirmSignUp than Header and Footer?
 
@@ -13292,9 +13292,9 @@ How can I customize other content in ConfirmSignUp than Header and Footer?
 
 ---------------
 
-Author: @thegoliathgeek
-Upvotes: 1
-Comments: 0
+**Author**: @thegoliathgeek
+**Upvotes**: 1
+**Comments**: 0
 
 Hey! 
 i have setup the custom authentication with amplify on a model
@@ -13337,9 +13337,9 @@ So whats wrong here ?
 
 ---------------
 
-Author: @Abuitime
-Upvotes: 1
-Comments: 2
+**Author**: @Abuitime
+**Upvotes**: 1
+**Comments**: 2
 
 I am currently building a react application with Amplify. I am building out the schema but having trouble adding sorting.
 
@@ -13520,9 +13520,9 @@ type Product @model {
 
 ---------------
 
-Author: @matart15
-Upvotes: 1
-Comments: 0
+**Author**: @matart15
+**Upvotes**: 1
+**Comments**: 0
 
 trying to do [this](https://docs.amplify.aws/cli/project/override/) with amplify 
 
@@ -13554,9 +13554,9 @@ So, how to type `TS2532` error.
 
 ---------------
 
-Author: @gmineropfdrive
-Upvotes: 1
-Comments: 0
+**Author**: @gmineropfdrive
+**Upvotes**: 1
+**Comments**: 0
 
 appId: d37ekhbhp9fm2w
 region: us-east2
@@ -13577,9 +13577,9 @@ region: us-east2
 
 ---------------
 
-Author: @ashWhiteHat
-Upvotes: 1
-Comments: 1
+**Author**: @ashWhiteHat
+**Upvotes**: 1
+**Comments**: 1
 
 Every time I deploy new version Lambda application, all the environment variables disappear as following.
 ![env](https://user-images.githubusercontent.com/39494661/149099092-1142e98e-20fc-4d70-9746-ba1389bbfa6b.png)
@@ -13601,9 +13601,9 @@ My amplify setting has problem so it's another problem.
 
 ---------------
 
-Author: @giovannigiordano
-Upvotes: 2
-Comments: 0
+**Author**: @giovannigiordano
+**Upvotes**: 2
+**Comments**: 0
 
 Hello everyone!
 I am trying to make a query on AppSync through a NodeJS lambda and I've followed [this guide](https://docs.amplify.aws/lib/graphqlapi/graphql-from-nodejs/q/platform/js/) from the official documentation.
@@ -13708,9 +13708,9 @@ How can i resolve this problem?
 
 ---------------
 
-Author: @Ngandu
-Upvotes: 1
-Comments: 2
+**Author**: @Ngandu
+**Upvotes**: 1
+**Comments**: 2
 
 Need assistance with refreshing jwt token from cognito.
 
@@ -13759,9 +13759,9 @@ My current guess, it needed a refresh or reset.
 
 ---------------
 
-Author: @charithreddyv
-Upvotes: 1
-Comments: 0
+**Author**: @charithreddyv
+**Upvotes**: 1
+**Comments**: 0
 
 Hai There, 
 I am new to aws-amplify, lex and react-native.
@@ -13780,9 +13780,9 @@ Thanks in advance.
 
 ---------------
 
-Author: @krikork
-Upvotes: 1
-Comments: 1
+**Author**: @krikork
+**Upvotes**: 1
+**Comments**: 1
 
 In older versions of the cli, I was able to edit the cloud formation template for an API resource. Now that's no longer possible as the cli generates those files on `push`. 
 
@@ -13821,9 +13821,9 @@ exports.override = override;
 
 ---------------
 
-Author: @billycolley
-Upvotes: 1
-Comments: 1
+**Author**: @billycolley
+**Upvotes**: 1
+**Comments**: 1
 
 Hello,
 
@@ -13849,9 +13849,9 @@ Having the same issue https://github.com/aws-amplify/amplify-js/issues/8491
 
 ---------------
 
-Author: @rswerve
-Upvotes: 1
-Comments: 1
+**Author**: @rswerve
+**Upvotes**: 1
+**Comments**: 1
 
 In S3, there's a [GetObjectTagging](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/clients/client-s3/classes/getobjecttaggingcommand.html) method that allows us to get all the tags associated with an object in an S3 bucket.  What's the best way to get object tags via Amplify?  Much searching hasn't turned up anything.
 
@@ -13874,9 +13874,9 @@ I'm not sure if you want the Object tags accessible on the front-end or backend.
 
 ---------------
 
-Author: @PeteDuncanson
-Upvotes: 4
-Comments: 1
+**Author**: @PeteDuncanson
+**Upvotes**: 4
+**Comments**: 1
 
 I've got a a type called Round which can have a technician assigned, technicians are of type StaffMember. I do this with a technicianID and technician ``@connection``. 
 
@@ -13936,9 +13936,9 @@ Hi @PeteDuncanson, have you find another solution for this? Do you think we shou
 
 ---------------
 
-Author: @LeJ84
-Upvotes: 1
-Comments: 0
+**Author**: @LeJ84
+**Upvotes**: 1
+**Comments**: 0
 
 Hi !
 
@@ -13954,9 +13954,9 @@ Thx
 
 ---------------
 
-Author: @mossa-Sammer
-Upvotes: 2
-Comments: 0
+**Author**: @mossa-Sammer
+**Upvotes**: 2
+**Comments**: 0
 
 when i give a user an invite link route to a resource in my website like ```/dashboard/join/1```, the user is not logged in so i redirect him to the route ```/login?redirect=/dashboard/join/1```, but after the user uses login with google, he get's redirect to login with google and after he finish back to the website but without the query param ```?redirect=/dashboard/join/1```, 
 i searched the docs but didn't find something helpfull, the problem is  i need my query paramter to be saved when i redirected back to my website, help please  
@@ -13969,9 +13969,9 @@ i searched the docs but didn't find something helpfull, the problem is  i need m
 
 ---------------
 
-Author: @peter-greekbase
-Upvotes: 1
-Comments: 0
+**Author**: @peter-greekbase
+**Upvotes**: 1
+**Comments**: 0
 
 Hello!
 
@@ -13989,9 +13989,9 @@ Thanks in advance ;)
 
 ---------------
 
-Author: @futurebenmorris
-Upvotes: 1
-Comments: 1
+**Author**: @futurebenmorris
+**Upvotes**: 1
+**Comments**: 1
 
 Hi there, I'm using the Amplify javascript package in a project and I have a need to return object tags along with the object itself. However, I can't see the option in the Storage.list or Storage.get config object to do this.
 
@@ -14039,9 +14039,9 @@ what do u see as output?
 
 ---------------
 
-Author: @funes79
-Upvotes: 1
-Comments: 0
+**Author**: @funes79
+**Upvotes**: 1
+**Comments**: 0
 
 I have created a schema with the following auth rules:
 ```
@@ -14108,9 +14108,9 @@ the **owner field is not created any more**
 
 ---------------
 
-Author: @kathara-jane
-Upvotes: 1
-Comments: 0
+**Author**: @kathara-jane
+**Upvotes**: 1
+**Comments**: 0
 
 I'm not finding any answers anywhere in the docs and I'm wondering if its functionality we can implement. 
 
@@ -14122,9 +14122,9 @@ I'm not finding any answers anywhere in the docs and I'm wondering if its functi
 
 ---------------
 
-Author: @ayhoung
-Upvotes: 1
-Comments: 0
+**Author**: @ayhoung
+**Upvotes**: 1
+**Comments**: 0
 
 Hi there,
 
@@ -14158,9 +14158,9 @@ it will force me to create a composite sort key, which is what I don't want, bec
 
 ---------------
 
-Author: @jashsayani
-Upvotes: 1
-Comments: 0
+**Author**: @jashsayani
+**Upvotes**: 1
+**Comments**: 0
 
 I have login implemented which uses Cognito User Pool. However, I need to use the JWT to get AWS credentials from Identity Pool next, in order to make calls to services like DynamoDB. I don't see Cognito APIs documented for this. Is this supported by the JS SDK? or do I need to proxy this through API Gateway?
 
@@ -14172,9 +14172,9 @@ I have login implemented which uses Cognito User Pool. However, I need to use th
 
 ---------------
 
-Author: @jleskovar-tyro
-Upvotes: 1
-Comments: 1
+**Author**: @jleskovar-tyro
+**Upvotes**: 1
+**Comments**: 1
 
 Hi there,
 
@@ -14214,9 +14214,9 @@ FIgured it out - for future travellers, you need to add your external lambda rol
 
 ---------------
 
-Author: @fireflysemantics
-Upvotes: 1
-Comments: 0
+**Author**: @fireflysemantics
+**Upvotes**: 1
+**Comments**: 0
 
 Hello,
 
@@ -14236,9 +14236,9 @@ Does anyone know how to make it through this step?
 
 ---------------
 
-Author: @franklin113
-Upvotes: 1
-Comments: 0
+**Author**: @franklin113
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, I'm trying to locally mock my admin queries api but am getting an error.  I copied the event from an actual lambda invocation which works in the lambda console, but I'm not sure how to configure the context that is passed in.
 ```
@@ -14259,9 +14259,9 @@ Has anyone seen this?
 
 ---------------
 
-Author: @xrn
-Upvotes: 1
-Comments: 0
+**Author**: @xrn
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, 
 
@@ -14283,9 +14283,9 @@ I think this is also related to this discussion - https://github.com/aws-amplify
 
 ---------------
 
-Author: @nadavdo
-Upvotes: 1
-Comments: 0
+**Author**: @nadavdo
+**Upvotes**: 1
+**Comments**: 0
 
 Hi , is there any way to use the aws amplify and integrated it with device fingerprinr or face recognition .
 Regards Nadav
@@ -14298,9 +14298,9 @@ Regards Nadav
 
 ---------------
 
-Author: @AchrafBn
-Upvotes: 1
-Comments: 0
+**Author**: @AchrafBn
+**Upvotes**: 1
+**Comments**: 0
 
 i want to my flow authentication meet these scenarios :  check username exist if exist then navigate  to screen signIn otherwise  signUp.
 I cannot find documentation on how to check a username using AWS Cognito. I should be able to pass username/passcode in a call and get a response back that says User Exists/User does not exist ?
@@ -14313,9 +14313,9 @@ I cannot find documentation on how to check a username using AWS Cognito. I shou
 
 ---------------
 
-Author: @neerajap-01
-Upvotes: 1
-Comments: 0
+**Author**: @neerajap-01
+**Upvotes**: 1
+**Comments**: 0
 
 I was trying to use subscription in graphql below is the code ,
 
@@ -14413,9 +14413,9 @@ export default awsmobile;
 
 ---------------
 
-Author: @estebane-frb
-Upvotes: 1
-Comments: 0
+**Author**: @estebane-frb
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, I am using API Gateway with a Cognito User Pool Authorizer in the back end, and I am trying to use an Access Token provided by the pool, so that I can validate Cognito group and scope access. However, when using the Amplify framework, the Access token being retrieved is not valid. Here is my code below.
 
@@ -14463,9 +14463,9 @@ Amplify.configure({
 
 ---------------
 
-Author: @gmineropfdrive
-Upvotes: 0
-Comments: 1
+**Author**: @gmineropfdrive
+**Upvotes**: 0
+**Comments**: 1
 
 I have a lambda function which inserts data in my dynamoDb  for a given environment <MyModel >-<SOME_ID>-<EnvName>
 In the same environment, my client is referencing the Model and, I would assume that the same format is used when referencing the table in DynamoDb for inserting data <MyModel >-<SOME_ID>-<EnvName> eventhough I only reference the Model itself in my client code:
@@ -14495,9 +14495,9 @@ Figured it out - When trying to sync the data between local -> datastore (vice v
 
 ---------------
 
-Author: @franklt69
-Upvotes: 1
-Comments: 0
+**Author**: @franklt69
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 In the reset password process, I want to intercept the send code event to do an operation. After the reset password flow continues, I have been experimenting with the Hub, but I can't find what message I should send using the Hub to the app; go to the UI asking for the Verification Code and New Password. Could you help me with this, please?
@@ -14532,9 +14532,9 @@ Frank
 
 ---------------
 
-Author: @WathikAhmed
-Upvotes: 2
-Comments: 0
+**Author**: @WathikAhmed
+**Upvotes**: 2
+**Comments**: 0
 
 Question:
 Is `userSub` like a permanent unique user ID for the users? Because on the Amplify Admin UI it says `Unique identifier (username)` which means it is regarding the username as the ID for the user? I'm looking for something a little more distinguishable because the users may want to change their username in the future and so a separate ID would be a lot more reliable.
@@ -14551,9 +14551,9 @@ Thanks.
 
 ---------------
 
-Author: @matthewapps
-Upvotes: 1
-Comments: 0
+**Author**: @matthewapps
+**Upvotes**: 1
+**Comments**: 0
 
 I am trying to set up auth rules for a Flutter app using Datastore but am not getting far. I have a Graphql  model for which I want public to have read access and the owner to read, create, update and delete. I expected the following rule to work:
 
@@ -14580,9 +14580,9 @@ Any ideas why this doesn't work as I think it should??
 
 ---------------
 
-Author: @duranmla
-Upvotes: 8
-Comments: 2
+**Author**: @duranmla
+**Upvotes**: 8
+**Comments**: 2
 
 Hi!
 
@@ -14657,9 +14657,9 @@ Perhaps, this is the actual error and it is more actionable than before?
 
 ---------------
 
-Author: @strugman
-Upvotes: 1
-Comments: 0
+**Author**: @strugman
+**Upvotes**: 1
+**Comments**: 0
 
 Hello
 I'm struggling with using an interface and `@connection` directive - maybe you could point me to some materials, where I could learn how to solve my problem? I know I could use lambda resolver for this, but I'm hoping there's another (better?) way...
@@ -14713,9 +14713,9 @@ Piotr
 
 ---------------
 
-Author: @DiegoMcDipster
-Upvotes: 1
-Comments: 1
+**Author**: @DiegoMcDipster
+**Upvotes**: 1
+**Comments**: 1
 
 I'm using NextJs and storing my data in DynamoDB, using the REST Api.
 
@@ -14749,9 +14749,9 @@ Please ignore this discussion. I figured it out. I was confused by the paths in 
 
 ---------------
 
-Author: @synapdk
-Upvotes: 1
-Comments: 12
+**Author**: @synapdk
+**Upvotes**: 1
+**Comments**: 12
 
 ### Before opening, please confirm:
 
@@ -15466,9 +15466,9 @@ I am going to mark this answered. If you have further queries specific to Cognit
 
 ---------------
 
-Author: @mguja-fcc
-Upvotes: 1
-Comments: 2
+**Author**: @mguja-fcc
+**Upvotes**: 1
+**Comments**: 2
 
 I want to load initial data but only for authenticated users. Currently, I am using useEffect hook, however, it tries to fetch data before authentication. If it is my initial login then I am getting error "error on fetching instances Error: No current user". If I refresh the browser than no issue fetching data from the database and it works until authentication token expires. How can I fetch data only after authentication ?
 ## Comment
@@ -15533,9 +15533,9 @@ I was able to figure it out. It actually worked the way it should. I moved my po
 
 ---------------
 
-Author: @danrivett
-Upvotes: 3
-Comments: 1
+**Author**: @danrivett
+**Upvotes**: 3
+**Comments**: 1
 
 # Request
 When subscribing to data model changes, it would be incredibly useful when the `opType` is `UPDATE` for the `SubscriptionMessage` returned to the subscriber to not just include the current value, but also the previous value in order for the application to be able to identify what's changed since depending on what's changed then different responses may be required.
@@ -15561,9 +15561,9 @@ As for use cases for this functionality, we have a few, but an example of one of
 
 ---------------
 
-Author: @ericclemmons
-Upvotes: 1
-Comments: 25
+**Author**: @ericclemmons
+**Upvotes**: 1
+**Comments**: 25
 
 _This issue is a Request For Comments (RFC). It is intended to elicit community feedback regarding a proposed change to the library. Please feel free to post comments or questions here._
 
@@ -16392,9 +16392,9 @@ Looking for a help forum? We recommend joining the [Amplify Community Discord se
 
 ---------------
 
-Author: @safwanolaimat
-Upvotes: 1
-Comments: 1
+**Author**: @safwanolaimat
+**Upvotes**: 1
+**Comments**: 1
 
 Hello i have created function using amplify add function
 
@@ -16442,9 +16442,9 @@ Hi @safwanolaimat - can you explain a little more about your use case, and what 
 
 ---------------
 
-Author: @BeagleTechno
-Upvotes: 1
-Comments: 1
+**Author**: @BeagleTechno
+**Upvotes**: 1
+**Comments**: 1
 
 Hi, I have aws s3 provisioned to my app. I can upload and delete files to my bucket, but I cannot see them on the app (method GET returns an error?). Ideas?
 Bucket policies, IAM permissions seem to be fine.
@@ -16475,9 +16475,9 @@ async function fetchFiles() {
 
 ---------------
 
-Author: @atzawada
-Upvotes: 1
-Comments: 0
+**Author**: @atzawada
+**Upvotes**: 1
+**Comments**: 0
 
 Along the lines of #804, are there any plans to implement more stringent security policies around MFA, as well as the ability to appropriately recover MFA for users who have lost their devices? these seem like standard features that Cognito lacks, seriously affecting the security and usability of Cognito with MFA devices.
 
@@ -16495,9 +16495,9 @@ Thanks!
 
 ---------------
 
-Author: @joelzwarrington
-Upvotes: 2
-Comments: 1
+**Author**: @joelzwarrington
+**Upvotes**: 2
+**Comments**: 1
 
 Hello,
 
@@ -16532,9 +16532,9 @@ Let us know if it answers your question
 
 ---------------
 
-Author: @rosscturner
-Upvotes: 1
-Comments: 0
+**Author**: @rosscturner
+**Upvotes**: 1
+**Comments**: 0
 
 I'm hoping this is a simple question but I can't find a good answer anywhere. 
 
@@ -16561,9 +16561,9 @@ Error I'm getting at the deploy stage:
 
 ---------------
 
-Author: @bojidaryovchev
-Upvotes: 6
-Comments: 0
+**Author**: @bojidaryovchev
+**Upvotes**: 6
+**Comments**: 0
 
 Hello, so I followed this tutorial [AWS Amplify Next.js SSR](https://docs.amplify.aws/guides/hosting/nextjs/q/platform/js/) and deployed a Next.js app to AWS using Amplify. I added Prisma and it works fine locally, however I am getting this error in the deployed lambda function:
 
@@ -16588,9 +16588,9 @@ I'd greatly appreciate it if you could help me out
 
 ---------------
 
-Author: @thathurtabit
-Upvotes: 1
-Comments: 2
+**Author**: @thathurtabit
+**Upvotes**: 1
+**Comments**: 2
 
 This is likely a n00b question, but I have a GQL Mutation which works (and updates the values in the datastore), but if I change the mutation values and run it again, nothing changes. Could this be down to cacheing?
 
@@ -16670,9 +16670,9 @@ There's also this solution which other people have tried, though I have just kep
 
 ---------------
 
-Author: @leonardocfor
-Upvotes: 1
-Comments: 0
+**Author**: @leonardocfor
+**Upvotes**: 1
+**Comments**: 0
 
 Hi guys,
 
@@ -16688,9 +16688,9 @@ thank you,
 
 ---------------
 
-Author: @phaedonmit
-Upvotes: 1
-Comments: 0
+**Author**: @phaedonmit
+**Upvotes**: 1
+**Comments**: 0
 
 I am using DataStore to set up a database for our application. When a user logs in all the requests/updates to the database work as expected. However, when the user is logging in from a device that is behind a corporate firewall, they can log in but the database does not get downloaded and synced.
 
@@ -16702,9 +16702,9 @@ I am using DataStore to set up a database for our application. When a user logs 
 
 ---------------
 
-Author: @sergeyjsg
-Upvotes: 1
-Comments: 1
+**Author**: @sergeyjsg
+**Upvotes**: 1
+**Comments**: 1
 
 Is there IN operator in Amplify Datastore? How to use it?
 ## Comment
@@ -16725,9 +16725,9 @@ https://docs.amplify.aws/lib/datastore/data-access/q/platform/js/#predicates
 
 ---------------
 
-Author: @24jr
-Upvotes: 1
-Comments: 1
+**Author**: @24jr
+**Upvotes**: 1
+**Comments**: 1
 
 For sveltekit I'm at a point I would like to publish an aws amplify site and the build fails.  I need to use something called an adapter to build the app before that and I found https://github.com/sveltejs/kit/tree/master/packages/adapter-node seems to be what I should use however `npm run build` fails from aws problems like `> 'request' is not exported by __vite-browser-external, imported by node_modules/@aws-sdk/credential-provider-imds/dist/es/remoteProvider/httpRequest.js`  will this not work with aws or i just need to do something differently
 ## Comment
@@ -16746,9 +16746,9 @@ actually this is covered here and seems to be ongoing but perhaps being worked o
 
 ---------------
 
-Author: @jasper72
-Upvotes: 1
-Comments: 1
+**Author**: @jasper72
+**Upvotes**: 1
+**Comments**: 1
 
 I'm migrating my app to the new framework. Previously the signing screen centred itself. Now it squashes into the top left corner.
 
@@ -16772,9 +16772,9 @@ Author: @david-mcafee
 
 ---------------
 
-Author: @Jun711
-Upvotes: 1
-Comments: 1
+**Author**: @Jun711
+**Upvotes**: 1
+**Comments**: 1
 
 Hi, I followed this [documentation](https://docs.amplify.aws/lib/pubsub/getting-started/q/platform/js/) to set up PubSub. It seems to work fine for now.
 
@@ -16798,9 +16798,9 @@ Author: @ashika01
 
 ---------------
 
-Author: @slimandslam
-Upvotes: 6
-Comments: 3
+**Author**: @slimandslam
+**Upvotes**: 6
+**Comments**: 3
 
 After I did an "npm install aws-amplify --save", npm now reports "36 low severity vulnerabilities".
 Is this a known problem? I can't see what's causing it. The audit results seem unclear as to the origin of the issues. Here's my package.json:
@@ -16865,9 +16865,9 @@ Since this is related to the issue customers brought up, we will be tracking the
 
 ---------------
 
-Author: @rohit8
-Upvotes: 3
-Comments: 1
+**Author**: @rohit8
+**Upvotes**: 3
+**Comments**: 1
 
 Hi,
 Is there any way to use the `@function` directive to create a GQL API resolver that executes a lambda function asynchronously in the background and returns an immediate response? Specifically execute a lambda function similar to this way: https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-lambda-integration-async.html
@@ -16890,9 +16890,9 @@ Did you find a solution for that case?
 
 ---------------
 
-Author: @kannieWeesNie
-Upvotes: 1
-Comments: 0
+**Author**: @kannieWeesNie
+**Upvotes**: 1
+**Comments**: 0
 
 I am using DataStore and would like some advice with the following:
 
@@ -16914,9 +16914,9 @@ Thanks
 
 ---------------
 
-Author: @coe720
-Upvotes: 1
-Comments: 1
+**Author**: @coe720
+**Upvotes**: 1
+**Comments**: 1
 
 Hi! I'm working with AmplifyS3Image from @aws-amplify/ui-react and I'm a bit confused on what the "imgProps" prop is expecting. I'm just trying to set the width of the image to 100% and I've tried both 
 `<AmplifyS3Image
@@ -16960,9 +16960,9 @@ Hope this helps!
 
 ---------------
 
-Author: @cgorrieri
-Upvotes: 1
-Comments: 1
+**Author**: @cgorrieri
+**Upvotes**: 1
+**Comments**: 1
 
 Hello,
 
@@ -17014,9 +17014,9 @@ but it goes like this
 
 ---------------
 
-Author: @slynn100
-Upvotes: 1
-Comments: 1
+**Author**: @slynn100
+**Upvotes**: 1
+**Comments**: 1
 
 - 
 - 
@@ -17085,9 +17085,9 @@ Issue appears to be due to conflicting versions of amplify
 
 ---------------
 
-Author: @Jack-Huskinson
-Upvotes: 1
-Comments: 0
+**Author**: @Jack-Huskinson
+**Upvotes**: 1
+**Comments**: 0
 
 In my project I am wanting to run a function when a certain field of a data model is changed/updated.
 
@@ -17117,9 +17117,9 @@ If it is not possible with Datastore then any other method to do this is appreci
 
 ---------------
 
-Author: @hoan-pham-duy
-Upvotes: 1
-Comments: 0
+**Author**: @hoan-pham-duy
+**Upvotes**: 1
+**Comments**: 0
 
 Hi everyone, 
 Currently, I get a problem when designing a system that client needs to watch real-time graph from Amplify Backend with a provided token (client didn't log in with AWS Cognito)
@@ -17144,9 +17144,9 @@ Thank you so much for your help!
 
 ---------------
 
-Author: @maxludovicohofer
-Upvotes: 2
-Comments: 0
+**Author**: @maxludovicohofer
+**Upvotes**: 2
+**Comments**: 0
 
 Is it possible to leverage the new Geo functionality to calculate distance\route (time) between two points on a map? Since this is an Amazon Location Service feature (https://docs.aws.amazon.com/location/latest/developerguide/calculate-route.html), I would love to have it also with Amplify.
 
@@ -17158,9 +17158,9 @@ Is it possible to leverage the new Geo functionality to calculate distance\route
 
 ---------------
 
-Author: @anjali89r
-Upvotes: 1
-Comments: 0
+**Author**: @anjali89r
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, 
 I'm trying to implement web notification on our application. We use amplify and Cognito for the authentication and is interested to know if Amplify support web push notification. I do see in the documentation where it talks about service workers, but my question can AWS pinpoint be used as a web notification provider or the notification is only supported for mobile apps.
@@ -17175,9 +17175,9 @@ https://docs.amplify.aws/lib/utilities/serviceworker/
 
 ---------------
 
-Author: @bronz3son
-Upvotes: 1
-Comments: 0
+**Author**: @bronz3son
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, I am trying to get Federated sign in to work with my Expo project (React Native).
 
@@ -17194,9 +17194,9 @@ Is there some way to not open the web browser on sign out?
 
 ---------------
 
-Author: @jhw
-Upvotes: 4
-Comments: 1
+**Author**: @jhw
+**Upvotes**: 4
+**Comments**: 1
 
 I'm looking to implement the Cognito authorization code grant workflow with the Cognito hosted UI, using Amplify.
 
@@ -17233,9 +17233,9 @@ Also curious about this.
 
 ---------------
 
-Author: @philohelp
-Upvotes: 1
-Comments: 0
+**Author**: @philohelp
+**Upvotes**: 1
+**Comments**: 0
 
 Sorry if the question has already been asked but I got `InvalidDirectiveError: You may only supply one @key with the name 'byProfile' on type 'Article'` 
 
@@ -17260,9 +17260,9 @@ owner:"bernard_Who_Shares_The_Post_Id
 
 ---------------
 
-Author: @T-DiegoF
-Upvotes: 0
-Comments: 0
+**Author**: @T-DiegoF
+**Upvotes**: 0
+**Comments**: 0
 
 Currently, by default, cognito allows creating several users with the same email and I would like to have a relationship of one to one, email-user.
 
@@ -17274,9 +17274,9 @@ Currently, by default, cognito allows creating several users with the same email
 
 ---------------
 
-Author: @cfbo
-Upvotes: 1
-Comments: 1
+**Author**: @cfbo
+**Upvotes**: 1
+**Comments**: 1
 
 Does anyone have some feedback on how to implement a **sharing functionality** and how to do this using Amplify with Datastore / AppSync.
 
@@ -17366,9 +17366,9 @@ Check out @renegoretzka Gist: https://gist.github.com/renegoretzka/9ed754c4463b1
 
 ---------------
 
-Author: @man517
-Upvotes: 1
-Comments: 0
+**Author**: @man517
+**Upvotes**: 1
+**Comments**: 0
 
 I have an AWS Amplify project that is using DataStore and I'm trying to add multiple items to a table. I've tried using DynamoDB and the put_item() method to add the items like this:
 ```
@@ -17399,9 +17399,9 @@ I'm able to successfully add items to my table in DynamoDB; however, the added i
 
 ---------------
 
-Author: @spormeon
-Upvotes: 1
-Comments: 0
+**Author**: @spormeon
+**Upvotes**: 1
+**Comments**: 0
 
 I setup a few apps, then deleted a few apps, leaving the one that I'm working on but there are now loads of lambda functions and I have no clue which ones relate to the app thats still running , so as I can delete the others, there is no ref number or anything that relates to the running app.  Anyone help with this ( i've been asked to post here from the Amplify discord)
 ![Functions_-_Lambda](https://user-images.githubusercontent.com/8503167/137538641-e7b1ec0d-fd73-49e8-993a-d3f106bc6f7a.png)
@@ -17416,9 +17416,9 @@ I setup a few apps, then deleted a few apps, leaving the one that I'm working on
 
 ---------------
 
-Author: @kchangch
-Upvotes: 2
-Comments: 0
+**Author**: @kchangch
+**Upvotes**: 2
+**Comments**: 0
 
 Hi, Im trying to get the authorization code grant from amplify signin to use it for a SSO to a third platform page (no the social media ones from AWS docs). Is there a way to get this from amplify authenticator? It seems that the only way is using AWS Cognito Hosted UI.
 
@@ -17432,9 +17432,9 @@ Any help would be great.
 
 ---------------
 
-Author: @MaxOrelus
-Upvotes: 1
-Comments: 0
+**Author**: @MaxOrelus
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, 
 
@@ -17460,9 +17460,9 @@ For amplify to work correctly, does it need these buckets to be public or is the
 
 ---------------
 
-Author: @271915902
-Upvotes: 1
-Comments: 0
+**Author**: @271915902
+**Upvotes**: 1
+**Comments**: 0
 
 in react i can use  this to set attributes , but i do not know how to set in react native UI component
 
@@ -17496,9 +17496,9 @@ in react i can use  this to set attributes , but i do not know how to set in rea
 
 ---------------
 
-Author: @menkari
-Upvotes: 1
-Comments: 0
+**Author**: @menkari
+**Upvotes**: 1
+**Comments**: 0
 
 I've come across a situation where I'm using amplify with the following configuration: 
 
@@ -17522,9 +17522,9 @@ So here's my question: How do you facilitate unauthed permissions on say a front
 
 ---------------
 
-Author: @mojodna
-Upvotes: 1
-Comments: 0
+**Author**: @mojodna
+**Upvotes**: 1
+**Comments**: 0
 
 `Geo.getDefaultMap()` returns a `MapStyle`, which does not include `region`. `AmazonLocationServiceMapStyle` extends `MapStyle` to introduce `region`, but the only way to get an `AmazonLocationServiceMapStyle` is via [`AmazonLocationServiceProvider`](https://github.com/aws-amplify/amplify-js/blob/e2788723edad3a798720982d6fba14e3f0e20e4a/packages/geo/src/Providers/AmazonLocationServiceProvider.ts), which must be constructed explicitly. Given the existence of the [`Geo` singleton](https://github.com/aws-amplify/amplify-js/blob/e2788723edad3a798720982d6fba14e3f0e20e4a/packages/geo/src/index.ts#L1), I would expect the preferred access model to be through that.
 
@@ -17542,9 +17542,9 @@ What is the recommended pattern for using Geo with Amazon Location?
 
 ---------------
 
-Author: @homosape
-Upvotes: 1
-Comments: 0
+**Author**: @homosape
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, I've just started using i18n in my React Native app and everything seems to work just fine.
 
@@ -17573,9 +17573,9 @@ Example: if reminder = 10 generated text would be "10 is too short" or "10 is to
 
 ---------------
 
-Author: @ajay-wohlig
-Upvotes: 1
-Comments: 3
+**Author**: @ajay-wohlig
+**Upvotes**: 1
+**Comments**: 3
 
 I am using aws amplify with vuex in nuxt. 
 On calling Auth.updateUserAttributes() is giving me a successfull response but it's also gives me the,
@@ -17635,9 +17635,9 @@ Would like to know if there is some kind of solution .
 
 ---------------
 
-Author: @ysuzuki19
-Upvotes: 1
-Comments: 0
+**Author**: @ysuzuki19
+**Upvotes**: 1
+**Comments**: 0
 
 `API.graphql()` is hard to use with typescript. Because return type is `Promise<GraphQLResult> | Observable<object>` ([link](https://github.com/aws-amplify/amplify-js/blob/bd528c7c2d65a7476bd8601d7f3f135d1a24fd53/packages/api-graphql/src/GraphQLAPI.ts#L220)). In this implementation, we must check type for using `then()`/`catch()`😭.
 For use this method, 
@@ -17659,9 +17659,9 @@ How about this?
 
 ---------------
 
-Author: @hpatel-vohra
-Upvotes: 1
-Comments: 0
+**Author**: @hpatel-vohra
+**Upvotes**: 1
+**Comments**: 0
 
 Is it possible to use AWS amplify with Xamarin forms?
 
@@ -17673,9 +17673,9 @@ Is it possible to use AWS amplify with Xamarin forms?
 
 ---------------
 
-Author: @suparerkk
-Upvotes: 1
-Comments: 0
+**Author**: @suparerkk
+**Upvotes**: 1
+**Comments**: 0
 
 I'm using react-native here, the situation is that every times you open. the app, amplify will update my endpoint userid to cognito identity and my push notification will stop working at that moment until i update it again with my userid
 
@@ -17691,9 +17691,9 @@ so the question is can i prevent the auto update endpoint ?
 
 ---------------
 
-Author: @Kumar-Aakash
-Upvotes: 2
-Comments: 0
+**Author**: @Kumar-Aakash
+**Upvotes**: 2
+**Comments**: 0
 
 Hello AWS team,
 
@@ -17836,9 +17836,9 @@ Please let me know your answers. Thanks in advance.
 
 ---------------
 
-Author: @istashak
-Upvotes: 1
-Comments: 0
+**Author**: @istashak
+**Upvotes**: 1
+**Comments**: 0
 
 In my React Native app when I call:
 
@@ -17883,9 +17883,9 @@ Thanks.
 
 ---------------
 
-Author: @wjureczka
-Upvotes: 2
-Comments: 1
+**Author**: @wjureczka
+**Upvotes**: 2
+**Comments**: 1
 
 Hi there! Thanks for your work!
 
@@ -17920,9 +17920,9 @@ I got it this way in my app. I use google and linkedin and can tell between the 
 
 ---------------
 
-Author: @webdog-rich
-Upvotes: 1
-Comments: 0
+**Author**: @webdog-rich
+**Upvotes**: 1
+**Comments**: 0
 
 I have set up federated sign-in for my app using the capacitor plugin https://github.com/capacitor-community/facebook-login and call `Auth.federatedSignIn()` as per the below. This logs my user in with a federated identity. This is great, but it means I cannot use `@auth(rules: [{ allow: owner }])` in my graphql schema. Is there any way to create a user in the userpool when calling `Auth.federatedSignIn()`? I know that calling `Auth.federatedSignIn({ provider: "Facebook" })` and using the hosted UI works like this, but I do not want to redirect my user to a browser/chrome tab to sign in. I would like the authentication to be provided by the native functionality provided by the above capacitor plugin.
 
@@ -17952,9 +17952,9 @@ const FBLogIn = async () => {
 
 ---------------
 
-Author: @cshenrik
-Upvotes: 1
-Comments: 0
+**Author**: @cshenrik
+**Upvotes**: 1
+**Comments**: 0
 
 I'm a serverless developer that is trying to get my head around how I make best use of Amplify DataStore.
 
@@ -17976,9 +17976,9 @@ So to sum up, I'm looking for advice on how to make best use of Amplify DataStor
 
 ---------------
 
-Author: @runzun1987
-Upvotes: 1
-Comments: 0
+**Author**: @runzun1987
+**Upvotes**: 1
+**Comments**: 0
 
 I am working on a project where I have completed my website through React JS. Now I am working on developing App using flutter. All backend are done using aws amplify. While working on flutter I am facing strange issue. When I am querying the aws Table in flutter I am getting empty list, as there are data on that table, query same table on React works and working till now.
 
@@ -18463,9 +18463,9 @@ type Person @model {
 
 ---------------
 
-Author: @Jun711
-Upvotes: 2
-Comments: 2
+**Author**: @Jun711
+**Upvotes**: 2
+**Comments**: 2
 
 I noticed that after social sign-in, currentAuthenticatedUser returns `CognitoUser` but currentUserInfo return an empty object `{}`.  
 
@@ -18600,9 +18600,9 @@ Auth.currentUserInfo()
 
 ---------------
 
-Author: @babaralishah
-Upvotes: 1
-Comments: 0
+**Author**: @babaralishah
+**Upvotes**: 1
+**Comments**: 0
 
 When we changed the version from AWS console, our whole code stopped working.
 
@@ -18614,9 +18614,9 @@ When we changed the version from AWS console, our whole code stopped working.
 
 ---------------
 
-Author: @zhenyamarinovich
-Upvotes: 1
-Comments: 0
+**Author**: @zhenyamarinovich
+**Upvotes**: 1
+**Comments**: 0
 
 We are using Amplify, Cognito and Angular to build a login workflow. During setup of TOTP, we show a QR code to the user.
 
@@ -18638,9 +18638,9 @@ Is there a way to get a shorter code, e.g. up to 16 characters?
 
 ---------------
 
-Author: @v-raja
-Upvotes: 1
-Comments: 0
+**Author**: @v-raja
+**Upvotes**: 1
+**Comments**: 0
 
 I'd like to create an API key for each customer that lets them consume my AppSync GraphQL API using that key. From what I understand, this is a common use case which is described [here](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-scenarios.html#scenario-api-gateway).
 
@@ -18654,9 +18654,9 @@ What I don't understand, however, is how to manage the issuing of the API key. W
 
 ---------------
 
-Author: @
-Upvotes: 1
-Comments: 0
+**Author**: @
+**Upvotes**: 1
+**Comments**: 0
 
 How do we get changes to the UI without using a reactive framework? Delta Sync + hybrid auth, so users don't see changes they aren't authorized for? How do we get alerts when there are new items available in the Delta Sync table, an infinite loop in the browser that checks?
 
@@ -18668,9 +18668,9 @@ How do we get changes to the UI without using a reactive framework? Delta Sync +
 
 ---------------
 
-Author: @andy-HM
-Upvotes: 2
-Comments: 0
+**Author**: @andy-HM
+**Upvotes**: 2
+**Comments**: 0
 
 Hello, 
 
@@ -18694,9 +18694,9 @@ Thank you.
 
 ---------------
 
-Author: @s1mrankaur
-Upvotes: 1
-Comments: 0
+**Author**: @s1mrankaur
+**Upvotes**: 1
+**Comments**: 0
 
 Can anyone on this thread confirm that "Amazon Cognito now supports token revocation and Amplify (from version 4.1.0) will revoke Amazon Cognito tokens if the application is online." as per here actually works? After upgrading amplify/auth to
 
@@ -18714,9 +18714,9 @@ there is no invalidation.
 
 ---------------
 
-Author: @jesuscovam
-Upvotes: 1
-Comments: 0
+**Author**: @jesuscovam
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, I wanted to know if a can add the JWT token from CognitoUser as a header
 in a axios.post to send queries and mutations ?
@@ -18749,9 +18749,9 @@ Thanks in advance to anyone with the time to help me!
 
 ---------------
 
-Author: @valin0k
-Upvotes: 1
-Comments: 1
+**Author**: @valin0k
+**Upvotes**: 1
+**Comments**: 1
 
 hey guys, i want to use MMKV storage with amplify and add my own storage class
 ```
@@ -18801,9 +18801,9 @@ Hi, are you looking for a different storage provider (other than AWS S3)? If so,
 
 ---------------
 
-Author: @vthukral94
-Upvotes: 1
-Comments: 0
+**Author**: @vthukral94
+**Upvotes**: 1
+**Comments**: 0
 
 This file is located at `amplify/backend/function/<name>/src/function-parameters.json`. 
 I have a hunch that it could be used for mocking. But, couldn't find any documentation or pointers to do so.
@@ -18818,9 +18818,9 @@ Thanks
 
 ---------------
 
-Author: @slikk66
-Upvotes: 1
-Comments: 2
+**Author**: @slikk66
+**Upvotes**: 1
+**Comments**: 2
 
 Hi - I've given up on using the Amplify CLI and the frontend/backend automation.  I am using Pulumi to do all of my backend work and deploying to s3 using code bulid including Cognito, Dynamo, AppSync, Lambda etc.
 
@@ -18883,9 +18883,9 @@ The docs mention `public-read` as an option, but apparently the other built-ins 
 
 ---------------
 
-Author: @ethiers
-Upvotes: 1
-Comments: 2
+**Author**: @ethiers
+**Upvotes**: 1
+**Comments**: 2
 
 Hi everyone,
 
@@ -18962,9 +18962,9 @@ https://blog.kylegalbraith.com/2020/03/31/customizing-the-aws-amplify-authentica
 
 ---------------
 
-Author: @ntmk
-Upvotes: 1
-Comments: 0
+**Author**: @ntmk
+**Upvotes**: 1
+**Comments**: 0
 
 I have just updated my packages and it has resulted in the following error. If anyone has any ideas let me know! 
 
@@ -19020,9 +19020,9 @@ Xt @ react-dom.production.min.js:68
 
 ---------------
 
-Author: @atoiv
-Upvotes: 3
-Comments: 1
+**Author**: @atoiv
+**Upvotes**: 3
+**Comments**: 1
 
 **Describe the bug**
 Missing dependencies in `package.json`s of multiple workspaces:
@@ -19122,9 +19122,9 @@ packageExtensions:
 
 ---------------
 
-Author: @akhalinem
-Upvotes: 1
-Comments: 0
+**Author**: @akhalinem
+**Upvotes**: 1
+**Comments**: 0
 
 When I try to use Auth.federatedSignIn with multiple providers, Auth instance clears the previous signed-in providers' data and stores only the last signed-in provider data. Is it possible to store previous providers' data among with the last signed-in provider?
 
@@ -19136,9 +19136,9 @@ When I try to use Auth.federatedSignIn with multiple providers, Auth instance cl
 
 ---------------
 
-Author: @julie777
-Upvotes: 1
-Comments: 0
+**Author**: @julie777
+**Upvotes**: 1
+**Comments**: 0
 
 Now that I am past the initial learning curve, and have read all the DataStore documentation that I can find multiple times, I still have many questions about use in a "real" application. If there is an advance usage doc somewhere please let me know.
 
@@ -19175,9 +19175,9 @@ Is there any way other than reading the datastore code for me to find out the de
 
 ---------------
 
-Author: @rutwick-alic
-Upvotes: 1
-Comments: 0
+**Author**: @rutwick-alic
+**Upvotes**: 1
+**Comments**: 0
 
 In my Vue Project I am already using Pinpoint and Auth using aws-amplify package. I need to configure Logger to work so I can send error logs to Cloudwatch. The documentation state the usage, but not the configuration part.
 
@@ -19193,9 +19193,9 @@ There is absolutely no information on how to configure it, or at least I am not 
 
 ---------------
 
-Author: @aossey
-Upvotes: 1
-Comments: 1
+**Author**: @aossey
+**Upvotes**: 1
+**Comments**: 1
 
 I am attempting to add Federated Identity Providers to my Vue application that is use the pre-built Amplify UI components.  When I add a binding for federated.prop (see below), I get a horizontal divider above the existing login form, but there are no buttons appearing for the federated identity providers.  I would expect a button for Google to appear in this case.  I can't seem to find any documentation on using the federated property of the Authenticator or Signin components, can someone please point me to the documentation or post a working code sample?
 
@@ -19247,9 +19247,9 @@ Did you find a solution? I'm having the same problem.
 
 ---------------
 
-Author: @debotos
-Upvotes: 1
-Comments: 0
+**Author**: @debotos
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, Is there any way to just collect userId from Auth.federatedSignIn() call without logging in the user?
 I want just the 'userId' property but don't wanna log in the user. Trying to implement Social Connect functionality(like, Connect with Google, Facebook, Apple).
@@ -19262,9 +19262,9 @@ I want just the 'userId' property but don't wanna log in the user. Trying to imp
 
 ---------------
 
-Author: @debotos
-Upvotes: 1
-Comments: 0
+**Author**: @debotos
+**Upvotes**: 1
+**Comments**: 0
 
 Currently i am using social login(`Auth.federatedSignIn()`). Now there is an option to change the password. Before showing that form I wanna confirm that this user has a password already set up or not neither I will show him create password form(`Auth.completeNewPassword()`).
 
@@ -19278,9 +19278,9 @@ Please help me to figure out the correct way to detect it. Thanks.
 
 ---------------
 
-Author: @jysung
-Upvotes: 2
-Comments: 0
+**Author**: @jysung
+**Upvotes**: 2
+**Comments**: 0
 
 Is Google one-tap sign-up (https://developers.google.com/identity/gsi/web) possible to integrate with Amplify? Has anyone successfully done it? Would I have to integrate it myself using Google's SDK?
 
@@ -19299,9 +19299,9 @@ Thanks!
 
 ---------------
 
-Author: @htmnk
-Upvotes: 1
-Comments: 1
+**Author**: @htmnk
+**Upvotes**: 1
+**Comments**: 1
 
 Hi, could anybody point me in the right direction or have any experience with setting up amplify with [gitpod](https://www.gitpod.io/)? I would like to be able to have aws-exports.js generated automatically, be able to push new changes, etc. inside the cloud dev workspaces.
 ## Comment
@@ -19445,9 +19445,9 @@ I'm also waiting for the Amplify pull to finish before running the dev server us
 
 ---------------
 
-Author: @dgastudio
-Upvotes: 1
-Comments: 0
+**Author**: @dgastudio
+**Upvotes**: 1
+**Comments**: 0
 
 Hello
 I have two questions, I hope for your help
@@ -19465,9 +19465,9 @@ thank you!
 
 ---------------
 
-Author: @Anishshettyk
-Upvotes: 1
-Comments: 0
+**Author**: @Anishshettyk
+**Upvotes**: 1
+**Comments**: 0
 
 is there a way to set unique property on graphQL schema
 
@@ -19479,9 +19479,9 @@ is there a way to set unique property on graphQL schema
 
 ---------------
 
-Author: @edoardo849
-Upvotes: 1
-Comments: 6
+**Author**: @edoardo849
+**Upvotes**: 1
+**Comments**: 6
 
 **Describe the bug**
 I want to upload an image to the configured Storage bucket. When I do, I receive the following error:
@@ -23211,9 +23211,9 @@ i am getting [ERROR] 19:34.60 axios-http-handler - Network Error, can anyone hel
 
 ---------------
 
-Author: @advissor
-Upvotes: 1
-Comments: 0
+**Author**: @advissor
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, 
 
@@ -23232,9 +23232,9 @@ I do see functions in API, but they require to pass the input info to submit to 
 
 ---------------
 
-Author: @oahmaro
-Upvotes: 2
-Comments: 1
+**Author**: @oahmaro
+**Upvotes**: 2
+**Comments**: 1
 
 I have seen this feature implemented on many sites like Linkedin.com, or Medium.com, and i would like to know if this is something possible to integrate with aws amplify?
 
@@ -23256,9 +23256,9 @@ Did you find a solution? Is it possible?
 
 ---------------
 
-Author: @advissor
-Upvotes: 1
-Comments: 0
+**Author**: @advissor
+**Upvotes**: 1
+**Comments**: 0
 
 HI, 
 I am working on chrome extension and using amplify-authenticator with Angular 
@@ -23279,9 +23279,9 @@ Like that I can save that session in browser store & it it exist, load it back t
 
 ---------------
 
-Author: @alexvdvalk
-Upvotes: 1
-Comments: 6
+**Author**: @alexvdvalk
+**Upvotes**: 1
+**Comments**: 6
 
 The new documentation suggests suggests that developers remove the amplify service when migrating to the new auth UI. Does this mean the amplifyservice is being deprecated, or can I continue to use it? Or what is the best practice? I've been using the $authStateChange observable in my app component which works really well, but I'm not sure if this is the best approach moving forward.
 
@@ -23382,9 +23382,9 @@ So, it's unclear from the answers, is there an alternative now to the AmplifySer
 
 ---------------
 
-Author: @hoan-pham-duy
-Upvotes: 1
-Comments: 0
+**Author**: @hoan-pham-duy
+**Upvotes**: 1
+**Comments**: 0
 
 Hi everyone,
 Currently, I met a problem related to call mutation graphql update.
@@ -23410,9 +23410,9 @@ Thanks and Best Regards,
 
 ---------------
 
-Author: @phineas629
-Upvotes: 1
-Comments: 0
+**Author**: @phineas629
+**Upvotes**: 1
+**Comments**: 0
 
 ** Which Category is your question related to? **
 DataStore
@@ -23466,9 +23466,9 @@ export default async ({ Vue }) => {
 
 ---------------
 
-Author: @bambbamnenim
-Upvotes: 2
-Comments: 1
+**Author**: @bambbamnenim
+**Upvotes**: 2
+**Comments**: 1
 
 ````
 Auth.configure({
@@ -23501,9 +23501,9 @@ should do the trick
 
 ---------------
 
-Author: @Jun711
-Upvotes: 1
-Comments: 0
+**Author**: @Jun711
+**Upvotes**: 1
+**Comments**: 0
 
 I am using Amplify in a web app and I notice that it uses local storage quite a bit. 
 Since local storage is not accessible when in a service worker and possibly other limitations, I wonder which Amplify functions do not work when it is used in a service worker. 
@@ -23517,9 +23517,9 @@ Is there a note somewhere that I can check? Thanks
 
 ---------------
 
-Author: @phineas629
-Upvotes: 1
-Comments: 0
+**Author**: @phineas629
+**Upvotes**: 1
+**Comments**: 0
 
 We are currently using amplify and want to add the datastore library.
 Is it possible to get DataStore persistence feature  if our  graphql and dynamodb is set up without using amplify cli?   We wrote our own schema for graphql, provisioned apollo graphql serverless in aws lambda, dynamodb is set up on out own also. We have got our infrastructure  configured and working with amplify. I know we can get DataStore but would really benefit from the persistence feature. How can we configure datastore to add persistence feature without amplify cli? 
@@ -23532,9 +23532,9 @@ Is it possible to get DataStore persistence feature  if our  graphql and dynamod
 
 ---------------
 
-Author: @levelingup
-Upvotes: 1
-Comments: 0
+**Author**: @levelingup
+**Upvotes**: 1
+**Comments**: 0
 
 I'm getting `The user is not authenticated` when I run `await Auth.currentAuthenticatedUser();`
 
@@ -23571,9 +23571,9 @@ I know that I'm already signed in because if I have similar code in other pages 
 
 ---------------
 
-Author: @joejanho
-Upvotes: 1
-Comments: 0
+**Author**: @joejanho
+**Upvotes**: 1
+**Comments**: 0
 
 After scanning the QR code, will it be possible to change 'AWSCognito' in the authenticator app to something else(custom)
 I am using react UI components 
@@ -23586,9 +23586,9 @@ I am using react UI components
 
 ---------------
 
-Author: @filonik
-Upvotes: 2
-Comments: 1
+**Author**: @filonik
+**Upvotes**: 2
+**Comments**: 1
 
 I would like to disable the sign in button in some cases, so I thought I could use the `primary-footer-content` slot to override the default button. However, as soon as I do this, the sign in button stops working entirely. Can anybody help me out?
 
@@ -23623,9 +23623,9 @@ Anyone? Surely this can't be too difficult to accomplish...
 
 ---------------
 
-Author: @ricardoribas
-Upvotes: 1
-Comments: 1
+**Author**: @ricardoribas
+**Upvotes**: 1
+**Comments**: 1
 
 I am using a cognito application to authenticate users on the application i am helping to build. The old version was only allowing users to authenticate with the phone number. Happens that right now, we are going to allow users to authenticate through email. 
 
@@ -23650,9 +23650,9 @@ Checkout this [link](https://docs.aws.amazon.com/cognito/latest/developerguide/u
 
 ---------------
 
-Author: @azgorov
-Upvotes: 1
-Comments: 0
+**Author**: @azgorov
+**Upvotes**: 1
+**Comments**: 0
 
 This is more of a question if someone have a solution...
 
@@ -23691,9 +23691,9 @@ How you solve this possible 1-2 sec period between mutation and search?
 
 ---------------
 
-Author: @martinmeinke
-Upvotes: 1
-Comments: 0
+**Author**: @martinmeinke
+**Upvotes**: 1
+**Comments**: 0
 
 I am currently working on a vue.js + amplify project featuring.
 - Auth 
@@ -23731,9 +23731,9 @@ Thank you very much for your support
 
 ---------------
 
-Author: @cmaycumber
-Upvotes: 1
-Comments: 0
+**Author**: @cmaycumber
+**Upvotes**: 1
+**Comments**: 0
 
 I'd like to filter by street addresses only and even more ideally, residential street addresses. Is this currently possible? It would be extremely helpful for our use case. 
 
@@ -23745,9 +23745,9 @@ I'd like to filter by street addresses only and even more ideally, residential s
 
 ---------------
 
-Author: @WarcraftYax
-Upvotes: 1
-Comments: 0
+**Author**: @WarcraftYax
+**Upvotes**: 1
+**Comments**: 0
 
 My repo has `package.json` at the root, but has a `cms` folder that contains the `pages` directory used for my Next.js app.
 
@@ -23786,9 +23786,9 @@ However, when I try to build this app in Amplify, the `npm run cms:build` comman
 
 ---------------
 
-Author: @marlonmarcello
-Upvotes: 2
-Comments: 0
+**Author**: @marlonmarcello
+**Upvotes**: 2
+**Comments**: 0
 
 Hi there!
 I am using NextJS with SSR on Amplify but I am getting a 500 Internal Server Error on all my routes.
@@ -23802,9 +23802,9 @@ How can I see what's going on? Where can I find the server logs?
 
 ---------------
 
-Author: @charlesloubao
-Upvotes: 1
-Comments: 0
+**Author**: @charlesloubao
+**Upvotes**: 1
+**Comments**: 0
 
 I have a graphql model like this
 
@@ -23844,9 +23844,9 @@ PS: I am new to GraphQL
 
 ---------------
 
-Author: @jacksonHendric
-Upvotes: 1
-Comments: 0
+**Author**: @jacksonHendric
+**Upvotes**: 1
+**Comments**: 0
 
 Hi all,
 
@@ -23869,9 +23869,9 @@ Thanks
 
 ---------------
 
-Author: @matart15
-Upvotes: 1
-Comments: 0
+**Author**: @matart15
+**Upvotes**: 1
+**Comments**: 0
 
 I implemented passwordless sms login which is working fine with userside.
 https://aws.amazon.com/blogs/mobile/implementing-passwordless-email-authentication-with-amazon-cognito/
@@ -23893,9 +23893,9 @@ how do I call `CognitoUser.initiateAuth` ?
 
 ---------------
 
-Author: @wezside
-Upvotes: 1
-Comments: 0
+**Author**: @wezside
+**Upvotes**: 1
+**Comments**: 0
 
 Is there no way currently to query data or more specifically event data which is recorded using Amplify's `Analytics.record` function? I have a use case where all I need to show is views for a specific page on a dashboard. 
 
@@ -23907,9 +23907,9 @@ Is there no way currently to query data or more specifically event data which is
 
 ---------------
 
-Author: @bmw46033
-Upvotes: 1
-Comments: 0
+**Author**: @bmw46033
+**Upvotes**: 1
+**Comments**: 0
 
 A recent PR fixed the Storage.Put to properly set the SSE header values.  However, I am now encounter a similar problem with the Storage.Get.  Check the typescript code, there is no logic to handle adding SSE header values to the getObject request.  Is there a reason for this?  Just an omission?
 
@@ -23924,9 +23924,9 @@ https://docs.aws.amazon.com/AmazonS3/latest/API/API_GetObject.html#:~:text=If%20
 
 ---------------
 
-Author: @matart15
-Upvotes: 1
-Comments: 0
+**Author**: @matart15
+**Upvotes**: 1
+**Comments**: 0
 
 followed this tutorial 
 - https://techinscribed.com/passwordless-phone-number-authentication-using-aws-amplify-cognito/
@@ -23955,9 +23955,9 @@ but my question is why a lot of people wrote it without `TopicArn`. am I missing
 
 ---------------
 
-Author: @StreetLamp05
-Upvotes: 1
-Comments: 0
+**Author**: @StreetLamp05
+**Upvotes**: 1
+**Comments**: 0
 
 I followed the following instructions [here ](https://medium.com/@coryschimmoeller/customizing-the-authentication-experience-of-amplifys-withauthenticator-e6f2089ff469)but no effect. Any advice is welcome. 
 
@@ -23991,9 +23991,9 @@ export default withAuthenticator(App, {
 
 ---------------
 
-Author: @juliandm
-Upvotes: 1
-Comments: 0
+**Author**: @juliandm
+**Upvotes**: 1
+**Comments**: 0
 
 Hello has anybody here found out how i can successfully assign a repository to an Amplify project with the following spec?
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-amplify-app.html
@@ -24013,9 +24013,9 @@ Unfortunately it's not documented what this attribute requires exactly
 
 ---------------
 
-Author: @marco910
-Upvotes: 2
-Comments: 0
+**Author**: @marco910
+**Upvotes**: 2
+**Comments**: 0
 
 Hi there,
 
@@ -24050,9 +24050,9 @@ I'm getting always an error that no user is signed in. Although, when a user is 
 
 ---------------
 
-Author: @sourabpramanik
-Upvotes: 1
-Comments: 1
+**Author**: @sourabpramanik
+**Upvotes**: 1
+**Comments**: 1
 
 So I am building an e-commerce using Gatsby and AWS. So for the payment process and creating the sucessful order I am using Lambda functions using the pipeline re-solvers. Everything is working fine but when I query the listOrders in the Appsync I get the total of the order and the customer name but not the products even though I can see those products in my dynamoDB table. Actually the orders table and products table are having many-to-many relationship.  Below are the related code.
 
@@ -24314,9 +24314,9 @@ note: you have no operations rules, so anyone can delete products on your databa
 
 ---------------
 
-Author: @bob-lee
-Upvotes: 1
-Comments: 1
+**Author**: @bob-lee
+**Upvotes**: 1
+**Comments**: 1
 
 After I moved my `helper.js` from lambda function to lambda layer `Dry`, my jest test for function is broken with error:
 
@@ -24355,9 +24355,9 @@ Solved by `moduleNameMapper` in `jest.config.js` that looks like below now:
 
 ---------------
 
-Author: @vbbandeira
-Upvotes: 1
-Comments: 0
+**Author**: @vbbandeira
+**Upvotes**: 1
+**Comments**: 0
 
 Hello everyone, I'm trying to set up a project within AWS Amplify to automate the creation of an Events framework based on Lambda functions, with the intention of deploying a backup of the event framework.
 
@@ -24381,9 +24381,9 @@ Thanks!
 
 ---------------
 
-Author: @countryst
-Upvotes: 2
-Comments: 1
+**Author**: @countryst
+**Upvotes**: 2
+**Comments**: 1
 
 I'm using "@aws-amplify/ui-components": "^1.2.0", quasar and Vue
 I'm following https://docs.amplify.aws/ui/auth/authenticator/q/framework/vue
@@ -24489,9 +24489,9 @@ I'm sure there is a better way of doing this, but here is what I'm using for now
 
 ---------------
 
-Author: @zsid
-Upvotes: 1
-Comments: 9
+**Author**: @zsid
+**Upvotes**: 1
+**Comments**: 9
 
 **Describe the bug**
 We are using `aws-amplify` to authorise with Cognito and need to get scopes i.e. `openid, profile, custom-scopes`. There are a lot of issues associated with this. For example, there is a very [similar one for custom scopes](https://github.com/aws-amplify/amplify-js/issues/5147) which has been closed. It seems like there has been [a release](https://github.com/aws-amplify/amplify-js/blob/master/packages/auth/CHANGELOG.md) as well but testing it out custom scopes or any other scope is not working at all
@@ -24614,9 +24614,9 @@ Has there been any progress on this issue? We're having the same problem.
 
 ---------------
 
-Author: @TPI79
-Upvotes: 2
-Comments: 1
+**Author**: @TPI79
+**Upvotes**: 2
+**Comments**: 1
 
 Hello everyone, 
 I have a general question about authentication and Guest access with temporary password or token. 
@@ -24647,9 +24647,9 @@ Would like to know the same!
 
 ---------------
 
-Author: @marcolino
-Upvotes: 1
-Comments: 0
+**Author**: @marcolino
+**Upvotes**: 1
+**Comments**: 0
 
 Why the (Google in this case) provider's federated signin screen shows "CHOOSE AN ACCOUNT to continue to **amazoncognito.com** ?
 
@@ -24665,9 +24665,9 @@ A [screenshot](https://pasteboard.co/Kd8os9S.png) is worth a thousand words...
 
 ---------------
 
-Author: @irfanelahidev
-Upvotes: 1
-Comments: 0
+**Author**: @irfanelahidev
+**Upvotes**: 1
+**Comments**: 0
 
 I've been using the globalSignout(true) option for my android app until now and it all seemed to work really well. However now that I needed to change this option and set the globalSignOut(false)  whenever I tend to logout from the app it opens the webbrowser with the webdomain url that is provided in the amplifyconfiguration.json files. 
 How can I avoid this behavior and logout the user safely without having to redirect to the webbrowser ?
@@ -24680,9 +24680,9 @@ How can I avoid this behavior and logout the user safely without having to redir
 
 ---------------
 
-Author: @fabel84
-Upvotes: 1
-Comments: 1
+**Author**: @fabel84
+**Upvotes**: 1
+**Comments**: 1
 
 I have to customize the behaviour of MqttOverWSProvider into PubSub package? Is possible to customize MqttOverWSProvider and is there a way to inject it in Amlify PubSub plugin?
 ## Comment
@@ -24735,9 +24735,9 @@ That's all folks.
 
 ---------------
 
-Author: @gmreburn
-Upvotes: 1
-Comments: 1
+**Author**: @gmreburn
+**Upvotes**: 1
+**Comments**: 1
 
 How do you prevent users from posting on other user's blogs (and use DataStore)? Anyone can save a Post with blogID = somebody else's blog. I was hoping that this would have been handled by the server side resolver when @auth directive is used.
 
@@ -24829,9 +24829,9 @@ Regards
 
 ---------------
 
-Author: @ShadabFaiz
-Upvotes: 1
-Comments: 0
+**Author**: @ShadabFaiz
+**Upvotes**: 1
+**Comments**: 0
 
 AWS Cognito does not ask for cognito pool id for **forgotPassword** functionality. So how does aws knows which pool should it check or does it checks all the pool across the region?
 
@@ -24843,9 +24843,9 @@ AWS Cognito does not ask for cognito pool id for **forgotPassword** functionalit
 
 ---------------
 
-Author: @IsitaB
-Upvotes: 1
-Comments: 0
+**Author**: @IsitaB
+**Upvotes**: 1
+**Comments**: 0
 
 I am working on creating a react native frontend and aws amplify backend texting feature. The messaging part should update in realtime. The onCreateMessage subscription throws an error
 
@@ -24910,9 +24910,9 @@ I believe there might be a problem with the behind the scenes websocket connecti
 
 ---------------
 
-Author: @jakobpack
-Upvotes: 1
-Comments: 1
+**Author**: @jakobpack
+**Upvotes**: 1
+**Comments**: 1
 
 I currently have one app created, from which I created an API.
 I would like to create a second app, that makes use of the existing API.
@@ -24934,9 +24934,9 @@ Got it. Adding endpoints into config by hand as stated in the [documentation](ht
 
 ---------------
 
-Author: @PeteDuncanson
-Upvotes: 3
-Comments: 1
+**Author**: @PeteDuncanson
+**Upvotes**: 3
+**Comments**: 1
 
 Taking this for a spin https://docs.amplify.aws/lib/datastore/sync/q/platform/js#selectively-syncing-a-subset-of-your-data
 
@@ -24965,9 +24965,9 @@ https://discordapp.com/channels/705853757799399426/831604049928257556/8631995061
 
 ---------------
 
-Author: @opqpop
-Upvotes: 2
-Comments: 0
+**Author**: @opqpop
+**Upvotes**: 2
+**Comments**: 0
 
 Is there a way to pass ONLY an email and check if that email is confirmed?
 
@@ -24987,9 +24987,9 @@ From browsing around, it seems like the only way to check if an email is confirm
 
 ---------------
 
-Author: @OmarHadidKaito
-Upvotes: 1
-Comments: 0
+**Author**: @OmarHadidKaito
+**Upvotes**: 1
+**Comments**: 0
 
 i try sign in and sign up with phone number and password when i sign in the cognito don't send the SMS to my phone 
 i wrote code like some that
@@ -25022,9 +25022,9 @@ i wrote code like some that
 
 ---------------
 
-Author: @OSorokin
-Upvotes: 1
-Comments: 0
+**Author**: @OSorokin
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,  i am trying to customise  **amplify-input** element styles to make it smaller, but it is not possible. **!important** rule is not working in my custom styles.  Changing css variables  do nothing. It seems like default componet styles have highest priority.
  "@angular/core": "9.1.13",
@@ -25039,9 +25039,9 @@ Hi,  i am trying to customise  **amplify-input** element styles to make it small
 
 ---------------
 
-Author: @gomesp
-Upvotes: 1
-Comments: 1
+**Author**: @gomesp
+**Upvotes**: 1
+**Comments**: 1
 
 I have noticed that the `AmplifyAuthenticator` does not display any error message on my app. Any message coming in the response header 'x-amzn-errormessage', e.g. Incorrect username or password, is silently ignored (although I can see the 400 response in the web developer console).
 
@@ -25111,9 +25111,9 @@ Moved to https://github.com/aws-amplify/amplify-js/issues/8560
 
 ---------------
 
-Author: @iongion
-Upvotes: 1
-Comments: 1
+**Author**: @iongion
+**Upvotes**: 1
+**Comments**: 1
 
 I am using Hosted UI, then in my app I have
 
@@ -25236,9 +25236,9 @@ To answer my own question, moved to `code` flow instead of `token` - this did it
 
 ---------------
 
-Author: @nickyeung425
-Upvotes: 1
-Comments: 0
+**Author**: @nickyeung425
+**Upvotes**: 1
+**Comments**: 0
 
 Does aws amplify support phones without google? (I.e. huawei phones that are not shipped with google service?)
 
@@ -25252,9 +25252,9 @@ I am working on a poc recently and build an apk with android studio. When i test
 
 ---------------
 
-Author: @rupam-kundu
-Upvotes: 1
-Comments: 0
+**Author**: @rupam-kundu
+**Upvotes**: 1
+**Comments**: 0
 
 I am trying to implement CRUD+L functionality in an application using AWS Amplify Admin UI. However, while trying to implement the edit functionality, my edit form is not displaying the existing record. I am suspecting there could be a delay in record fetching as it is an asynchronous process. I tried to listen for the "ready" event so that I could populate the form only when all the data is available. However, the listener is not getting invoked. Please help me implement the DataStore event listener correctly. The following is the code for staff.js where I am trying to implement the said listener function.
 
@@ -25882,9 +25882,9 @@ Please help me resolve the issue.
 
 ---------------
 
-Author: @slikk66
-Upvotes: 1
-Comments: 0
+**Author**: @slikk66
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, I'm trying to use Amplify.graphql inside of a Lambda function.  I need my function (which is an AppSync resolver) to be allowed to query back the API to get information.
 
@@ -25924,9 +25924,9 @@ Is it possible to do what I'm asking so that I don't need to manually rotate the
 
 ---------------
 
-Author: @atomdmac
-Upvotes: 1
-Comments: 2
+**Author**: @atomdmac
+**Upvotes**: 1
+**Comments**: 2
 
 I'd like to be able to point the `Auth` module to a fake/mocked `Cognito` endpoint when developing locally.  
 
@@ -25970,9 +25970,9 @@ The feature was added in this commit: https://github.com/aws-amplify/amplify-js/
 
 ---------------
 
-Author: @jackbh0120
-Upvotes: 1
-Comments: 0
+**Author**: @jackbh0120
+**Upvotes**: 1
+**Comments**: 0
 
 I am trying to remove an old auth and import a new one into an existing amplify environment, which is continuously linked to a BitBucket repository for deployment. I have been doing this through the Amplify CLI using amplify remove auth and then amplify import auth, and then an amplify push. When I import my auth and push it using my specified user pool from Cognito, my aws-exports.js file and awsmobile variable is populated with the proper information (as well as all my backend configuration files) for my newly specified user pool and the new oauth domain. Currently my frontend environment is set up for continuous redeployment on every commit to BitBucket. When I commit and push the updated aws-exports.js file to BitBucket for redeployment, the old user pool is still somehow being used despite the awsmobile variable in the aws-exports.js file containing the correct information (user pool id, oauth domain, app client id) for the new user pool I wish to use. If anybody has any insight into this issue I would greatly appreciate it. Thank you!
 
@@ -25984,9 +25984,9 @@ I am trying to remove an old auth and import a new one into an existing amplify 
 
 ---------------
 
-Author: @ixel1
-Upvotes: 1
-Comments: 1
+**Author**: @ixel1
+**Upvotes**: 1
+**Comments**: 1
 
 I've encountered a problem which I'm hoping someone can provide some insight into.
 
@@ -26045,9 +26045,9 @@ This has now been resolved, thanks anyway.
 
 ---------------
 
-Author: @LuisPerez94
-Upvotes: 1
-Comments: 0
+**Author**: @LuisPerez94
+**Upvotes**: 1
+**Comments**: 0
 
 It is posible to cancel a query operation in datastore?
 
@@ -26059,9 +26059,9 @@ It is posible to cancel a query operation in datastore?
 
 ---------------
 
-Author: @annymosse
-Upvotes: 1
-Comments: 0
+**Author**: @annymosse
+**Upvotes**: 1
+**Comments**: 0
 
 Everything related to the FrontEnd side work well except when try to access the resources locally ,ex: if you upload a file with mocking amplify you can get it work to get/put/.. data of AppSync (dynamodb) or S3 also; Whenever trying to access these files/ database you can't get them since the SDK try to retrieve these resources from the cloud instead local dev and this end up with not found keys files/ items, Is there a way to get it work locally or i should submit a bug issue in aws-sdk-* (js) repository ?
 
@@ -26073,9 +26073,9 @@ Everything related to the FrontEnd side work well except when try to access the 
 
 ---------------
 
-Author: @furkangercek
-Upvotes: 2
-Comments: 1
+**Author**: @furkangercek
+**Upvotes**: 2
+**Comments**: 1
 
 I have a Cognito user pool that has MFA set to Optional with TOTP only.
 
@@ -26135,9 +26135,9 @@ Pfft. Removing the Auth.setupTOTP in the setupMFA function made it work.
 
 ---------------
 
-Author: @LuisPerez94
-Upvotes: 1
-Comments: 0
+**Author**: @LuisPerez94
+**Upvotes**: 1
+**Comments**: 0
 
 I have an app made with reactjs and we use capacitor to make it a native app.   this app use the amplify authenticator component to protect paths inside the app. Once the user succesfully sign in I trigger a Datastore.start() function in order to get a full sync.  Until this point everything is ok. The problem comes when the application goes to second plane / background and then I come back to it, so several full syncs happens over and over and this make the app very slow. somebody knows if I am missing something? I would like the app makes only one full sync. this behaivor is in ios and android.
 
@@ -26149,9 +26149,9 @@ I have an app made with reactjs and we use capacitor to make it a native app.   
 
 ---------------
 
-Author: @ChapterSevenSeeds
-Upvotes: 1
-Comments: 0
+**Author**: @ChapterSevenSeeds
+**Upvotes**: 1
+**Comments**: 0
 
 Hello everyone. So, in the cloudformation template for a REST API gateway, there is a section called "securityDefinitions" where you can define a gateway authorizer (such as a cognito userpool). Given my sincere lack of familiarity of cloudformation intrinsics, I am seeking a way to add in a cognito authorizer for the gateway for a specific environment and region. This image shows the exported security definitions for the gateway in my dev environment:
 ![asdf](https://user-images.githubusercontent.com/63123355/124141841-f6e99080-da46-11eb-9d58-aa56b573fe28.png)
@@ -26169,9 +26169,9 @@ But, I am unsure how to do this with a cognito userpool ARN. Does anybody have a
 
 ---------------
 
-Author: @mattmeye
-Upvotes: 1
-Comments: 0
+**Author**: @mattmeye
+**Upvotes**: 1
+**Comments**: 0
 
 Hello,
 
@@ -26207,9 +26207,9 @@ Thanks.
 
 ---------------
 
-Author: @johnny-chivers
-Upvotes: 2
-Comments: 0
+**Author**: @johnny-chivers
+**Upvotes**: 2
+**Comments**: 0
 
 Hi All, 
 
@@ -26241,9 +26241,9 @@ However, the toast which display the error message when user types in an incorre
 
 ---------------
 
-Author: @ravipula
-Upvotes: 5
-Comments: 0
+**Author**: @ravipula
+**Upvotes**: 5
+**Comments**: 0
 
 Hello,
 
@@ -26257,9 +26257,9 @@ I am trying to implement Cognito Auth in a chrome extension. We are already usin
 
 ---------------
 
-Author: @gomesp
-Upvotes: 1
-Comments: 0
+**Author**: @gomesp
+**Upvotes**: 1
+**Comments**: 0
 
 I have a react app with the following snippet as a login component. When I try to register a user and the user registration details do not pass the validation I get a ```400 Bad request``` on the browser console, but no error messages are displayed on the page itself. 
 
@@ -26315,9 +26315,9 @@ const LoginComponent = () => {
 
 ---------------
 
-Author: @eaddingtonwhite
-Upvotes: 5
-Comments: 1
+**Author**: @eaddingtonwhite
+**Upvotes**: 5
+**Comments**: 1
 
 Hi 👋 
 
@@ -26439,9 +26439,9 @@ Have the same problem and cant figure it out ! Did you found a solution ?
 
 ---------------
 
-Author: @MedNabilEssefaihi
-Upvotes: 1
-Comments: 0
+**Author**: @MedNabilEssefaihi
+**Upvotes**: 1
+**Comments**: 0
 
 Dear network,
 
@@ -26497,9 +26497,9 @@ __proto__: Object
 
 ---------------
 
-Author: @theJsTsGuy
-Upvotes: 1
-Comments: 0
+**Author**: @theJsTsGuy
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 
@@ -26523,9 +26523,9 @@ Thanks in advance.
 
 ---------------
 
-Author: @Jahans3
-Upvotes: 1
-Comments: 2
+**Author**: @Jahans3
+**Upvotes**: 1
+**Comments**: 2
 
 I'm having some issues using the provided type definitions for my DataStore models, happens using the models as generic arguments as well as using them explicitly.
 
@@ -26655,9 +26655,9 @@ Look up here for more details:
 
 ---------------
 
-Author: @ahouck
-Upvotes: 1
-Comments: 1
+**Author**: @ahouck
+**Upvotes**: 1
+**Comments**: 1
 
 If I create a pool where MFA is required (TOTP only) and insert a user via the AWS Console.  The first time that user logs in they are prompted with a QR Code to associate a device to their account.
 
@@ -26733,9 +26733,9 @@ Should I file this as a bug?
 
 ---------------
 
-Author: @MedNabilEssefaihi
-Upvotes: 1
-Comments: 0
+**Author**: @MedNabilEssefaihi
+**Upvotes**: 1
+**Comments**: 0
 
 Dear network, 
 
@@ -26751,9 +26751,9 @@ Does amplify have a limit of 100 subscriber ? if Yes. how to increase this numbe
 
 ---------------
 
-Author: @SKTest
-Upvotes: 1
-Comments: 1
+**Author**: @SKTest
+**Upvotes**: 1
+**Comments**: 1
 
 Hello all,
 
@@ -26800,9 +26800,9 @@ Sujith.
 
 ---------------
 
-Author: @danielfdsilva
-Upvotes: 1
-Comments: 0
+**Author**: @danielfdsilva
+**Upvotes**: 1
+**Comments**: 0
 
 Is it possible to use the ui-react package with another build system besides webpack?
 
@@ -26826,9 +26826,9 @@ Has anyone been through this?
 
 ---------------
 
-Author: @ChapterSevenSeeds
-Upvotes: 1
-Comments: 0
+**Author**: @ChapterSevenSeeds
+**Upvotes**: 1
+**Comments**: 0
 
 Hello. In the Amplify CLI, is it possible to configure a REST API gateway to use both Cognito and an API Key for authorization? This image is what I'm looking to achieve: 
 <img width="514" alt="asdf2" src="https://user-images.githubusercontent.com/63123355/122304879-2cc53b80-cec3-11eb-9802-19b72c723177.png">
@@ -26843,9 +26843,9 @@ Notice that the route that I screenshotted is using both Cognito as an authorize
 
 ---------------
 
-Author: @ddurham2
-Upvotes: 1
-Comments: 1
+**Author**: @ddurham2
+**Upvotes**: 1
+**Comments**: 1
 
 I'm interested in protecting my SPA from bot's signing up.  Not wanting to require a phone number of my users, and not believing the email validation is a real protection, my first choice would be to initiate a re-captcha during authentication.
 
@@ -26872,9 +26872,9 @@ As for captcha's directly. We implemented `react-google-recaptcha` (https://www.
 
 ---------------
 
-Author: @gomesp
-Upvotes: 1
-Comments: 1
+**Author**: @gomesp
+**Upvotes**: 1
+**Comments**: 1
 
 Hi team
 
@@ -27046,9 +27046,9 @@ export default Dashboard;
 
 ---------------
 
-Author: @rahulnainwal107
-Upvotes: 1
-Comments: 0
+**Author**: @rahulnainwal107
+**Upvotes**: 1
+**Comments**: 0
 
 I am getting and error cannot convert undefined or null to object when i am trying to create Photo record using Photo modal in my project. All what i am trying to do is creating multiple record using promise.all getting this error.
 Complete error
@@ -27081,9 +27081,9 @@ Cannot convert undefined or null to object
 
 ---------------
 
-Author: @shaungc-su
-Upvotes: 1
-Comments: 1
+**Author**: @shaungc-su
+**Upvotes**: 1
+**Comments**: 1
 
 Hi guys, our team is trying to upgrade from `aws-amplify-react` to the latest `@aws-amplify/ui-react`. We are using the HOC `withAuthenticator()` for including the SignUp/Login/.. UI. However, I can't find a way to configure default country code for phone number in the new package `@aws-amplify/ui-react`.
 
@@ -27117,9 +27117,9 @@ Hi @shaungc-su did you get a solution for this?
 
 ---------------
 
-Author: @regenrek
-Upvotes: 3
-Comments: 1
+**Author**: @regenrek
+**Upvotes**: 3
+**Comments**: 1
 
 Hi,
 
@@ -27190,9 +27190,9 @@ Are you able to fix this issue? Having same issue
 
 ---------------
 
-Author: @bajcmartinez
-Upvotes: 2
-Comments: 0
+**Author**: @bajcmartinez
+**Upvotes**: 2
+**Comments**: 0
 
 Hi all,
 
@@ -27347,9 +27347,9 @@ Thanks
 
 ---------------
 
-Author: @nomoreboredom
-Upvotes: 1
-Comments: 0
+**Author**: @nomoreboredom
+**Upvotes**: 1
+**Comments**: 0
 
 i would like to verify the integrity of the file, however cant seem to be able to attach Content-MD5 header to the request when calling s3.Put. Any ideas?
 
@@ -27361,9 +27361,9 @@ i would like to verify the integrity of the file, however cant seem to be able t
 
 ---------------
 
-Author: @FrapperColin
-Upvotes: 1
-Comments: 0
+**Author**: @FrapperColin
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, 
 I have a question when using API Auth with aws-amplify.
@@ -27418,9 +27418,9 @@ I understand that security always come with a price in terms of UI but still, th
 
 ---------------
 
-Author: @reberthkss
-Upvotes: 3
-Comments: 0
+**Author**: @reberthkss
+**Upvotes**: 3
+**Comments**: 0
 
 I got the logging warning below, tried find something about but without success. Does someone know about it?
 
@@ -27437,9 +27437,9 @@ npm WARN invalid config Must be one of: null, prod, production
 
 ---------------
 
-Author: @slimandslam
-Upvotes: 1
-Comments: 0
+**Author**: @slimandslam
+**Upvotes**: 1
+**Comments**: 0
 
 I've generated temp credentials for the UNauthenticated Cognito user. That required using three calls:
 GetIdCommand()
@@ -27464,9 +27464,9 @@ What is the syntax for such a call?
 
 ---------------
 
-Author: @kannieWeesNie
-Upvotes: 1
-Comments: 0
+**Author**: @kannieWeesNie
+**Upvotes**: 1
+**Comments**: 0
 
 Hi
 I can successfully use a syncExpression and change the filter at runtime by changing the field value. So, in my case I have an Order model and use the customerId as the filter. I can then, at runtime switch between the different customers and get the relevant orders associated with that customer.
@@ -27497,9 +27497,9 @@ thanks
 
 ---------------
 
-Author: @shaunhurley
-Upvotes: 1
-Comments: 0
+**Author**: @shaunhurley
+**Upvotes**: 1
+**Comments**: 0
 
 Hey folks,
 
@@ -27540,9 +27540,9 @@ Shaun
 
 ---------------
 
-Author: @ramakrishnan
-Upvotes: 2
-Comments: 1
+**Author**: @ramakrishnan
+**Upvotes**: 2
+**Comments**: 1
 
 Datastore can be configured to take `maxRecordsToSync`
 Consider `maxRecordsToSync` is set to `1000` and there are `10000` documents in the model to get synced to local IndexedDB.
@@ -27567,9 +27567,9 @@ Does datastore automatically fetch all 10,000 records by using the nextToken? Or
 
 ---------------
 
-Author: @abdulqudoos
-Upvotes: 1
-Comments: 1
+**Author**: @abdulqudoos
+**Upvotes**: 1
+**Comments**: 1
 
 
 type Company
@@ -27780,9 +27780,9 @@ Issue solved
 
 ---------------
 
-Author: @Sandeepbadri
-Upvotes: 1
-Comments: 0
+**Author**: @Sandeepbadri
+**Upvotes**: 1
+**Comments**: 0
 
 I am using react and react-router for my project. I am able to observe that when refresh token has expired and I am making an API call using amplify, I'm getting Network error as response every time. I know why this is happening. It's because whenever refresh token expires, all tokens in local storage are deleted hence when an API call is made without any tokens I get Network error. But I have implemented amplify in react-native but there I would get response with status code 403 so I could handle it there easily. Do I have any other way to detect whether refresh token has expired or not and logout the user from the app? Please help me with this  
 
@@ -27794,9 +27794,9 @@ I am using react and react-router for my project. I am able to observe that when
 
 ---------------
 
-Author: @Anupamchap
-Upvotes: 2
-Comments: 0
+**Author**: @Anupamchap
+**Upvotes**: 2
+**Comments**: 0
 
 On react-native application, We are trying to implement social sign-in. For IOS it's working fine, but for android after Google or Facebook sign in, I am getting below error and application is getting crashed. Please let me know what mistake I am doing.
 
@@ -27854,9 +27854,9 @@ export default awsmobile;
 
 ---------------
 
-Author: @jana247
-Upvotes: 4
-Comments: 1
+**Author**: @jana247
+**Upvotes**: 4
+**Comments**: 1
 
 Want to know if Amplify can cache the images it downloaded from S3 bucket via Amplify Storage and when the app goes offline instead of calling the S3 bucket again can it retrieve from offline cache ? 
 
@@ -27877,9 +27877,9 @@ Yep, I'd also like to see this. At the moment you have to avoid all use of Stora
 
 ---------------
 
-Author: @maximelebastard
-Upvotes: 1
-Comments: 1
+**Author**: @maximelebastard
+**Upvotes**: 1
+**Comments**: 1
 
 Hello,
 
@@ -27910,9 +27910,9 @@ It would be nice if this was better documented and we could see all the potentia
 
 ---------------
 
-Author: @dmcd2
-Upvotes: 1
-Comments: 0
+**Author**: @dmcd2
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 
@@ -27936,9 +27936,9 @@ Thanks.
 
 ---------------
 
-Author: @PeteDuncanson
-Upvotes: 1
-Comments: 2
+**Author**: @PeteDuncanson
+**Upvotes**: 1
+**Comments**: 2
 
 I've run into a bit of a problem and I don't know enough about DataStore to know how to fix it. In short how should I handle a partial sync from DataStore to AppSync when only half of a relation has been pushed up?
 
@@ -28010,9 +28010,9 @@ I hope that helps!
 
 ---------------
 
-Author: @jmarshall9120
-Upvotes: 1
-Comments: 0
+**Author**: @jmarshall9120
+**Upvotes**: 1
+**Comments**: 0
 
 This maybe a bug, but I'm starting here.
 
@@ -28095,9 +28095,9 @@ Starting to think the malformed URL (missing a '?' after the path) might be invo
 
 ---------------
 
-Author: @saurabh53
-Upvotes: 1
-Comments: 0
+**Author**: @saurabh53
+**Upvotes**: 1
+**Comments**: 0
 
 Custom BatchGetItem Resolver in AWS Amplify returns null value
 
@@ -28224,9 +28224,9 @@ const batchGet = /* GraphQL */ `
 
 ---------------
 
-Author: @kldeb
-Upvotes: 1
-Comments: 0
+**Author**: @kldeb
+**Upvotes**: 1
+**Comments**: 0
 
 We are using a pre token generation lambda and we noticed that the data we're adding that are needed to grant access are not being used by `API.graphql` function because it uses the access token. 
 
@@ -28244,9 +28244,9 @@ We do this because access token doesn't contain the information we need added to
 
 ---------------
 
-Author: @Blockchainforcommons
-Upvotes: 1
-Comments: 2
+**Author**: @Blockchainforcommons
+**Upvotes**: 1
+**Comments**: 2
 
 I wrote a simple scheme that would create a DynamoDB table with id (hash) and sort (range) keys : 
 
@@ -28308,9 +28308,9 @@ Could you please share your use case with us? We'll try to suggest a workaround 
 
 ---------------
 
-Author: @Valarzzzzzz
-Upvotes: 1
-Comments: 1
+**Author**: @Valarzzzzzz
+**Upvotes**: 1
+**Comments**: 1
 
 I can directly use ‘aws_access_key_id’ and ‘aws_secret_access_key’ to access s3, but CognitoIdentityCredentials does not work. 
 Upload file to AWS S3 bucket using temporary credentials then occur following problem:
@@ -28414,9 +28414,9 @@ https://docs.amplify.aws/lib/storage/upload/q/platform/js
 
 ---------------
 
-Author: @prafullatandel
-Upvotes: 1
-Comments: 0
+**Author**: @prafullatandel
+**Upvotes**: 1
+**Comments**: 0
 
 Which Category is your question related to?
 Datastore
@@ -28482,9 +28482,9 @@ Just the induction object on the inductionid present in the Userinduction .
 
 ---------------
 
-Author: @emanuelcsm
-Upvotes: 1
-Comments: 0
+**Author**: @emanuelcsm
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, I'm starting to learn how to use aws amplify with my node js projects, and I created a simple project using amplify init, then I added an api using amplify add api.
 For this api I dont't use any resources, ant it does not need authentication.
@@ -28507,9 +28507,9 @@ What can I do to import a library, more especific Auth from aws-amplify?
 
 ---------------
 
-Author: @mauerbac
-Upvotes: 1
-Comments: 8
+**Author**: @mauerbac
+**Upvotes**: 1
+**Comments**: 8
 
 Notes for our Office Hours
 ## Comment
@@ -28590,9 +28590,9 @@ Any resource I can look at?
 
 ---------------
 
-Author: @raghavgoel1994
-Upvotes: 1
-Comments: 0
+**Author**: @raghavgoel1994
+**Upvotes**: 1
+**Comments**: 0
 
 Steps to replicate the issue:
 
@@ -28616,9 +28616,9 @@ dev-webapp.myhomey.io
 
 ---------------
 
-Author: @CarlJoven
-Upvotes: 1
-Comments: 1
+**Author**: @CarlJoven
+**Upvotes**: 1
+**Comments**: 1
 
 # I am wondering if this is possible?
 ```graphql
@@ -28665,9 +28665,9 @@ https://docs.amplify.aws/cli/graphql-transformer/connection#has-one
 
 ---------------
 
-Author: @apoorvmote
-Upvotes: 1
-Comments: 0
+**Author**: @apoorvmote
+**Upvotes**: 1
+**Comments**: 0
 
 I don't need SSR so I only install packages that I need. 
 
@@ -28689,9 +28689,9 @@ Is there benefit of reduced package size?
 
 ---------------
 
-Author: @seantcoyote
-Upvotes: 1
-Comments: 1
+**Author**: @seantcoyote
+**Upvotes**: 1
+**Comments**: 1
 
 After much searching, I've found no definitive answer: Should AmplifyAuthenticator (@aws-amplify/ui-react version 1.0.7 and aws-amplify 3.3.27) display an error message in the UI when Cognito returns `{"__type":"NotAuthorizedException", "message":"Incorrect username or password."}`?
 
@@ -28725,9 +28725,9 @@ There should be a toast component that shows at the top of the screen when a fai
 
 ---------------
 
-Author: @pisaacs
-Upvotes: 1
-Comments: 0
+**Author**: @pisaacs
+**Upvotes**: 1
+**Comments**: 0
 
 I am trying to understand how Amplify Analytics works for React Native iOS app while offline..
 1) are events queued, saved in storage and sent when there's network connectivity?
@@ -28742,9 +28742,9 @@ I am trying to understand how Amplify Analytics works for React Native iOS app w
 
 ---------------
 
-Author: @AyazAI
-Upvotes: 1
-Comments: 0
+**Author**: @AyazAI
+**Upvotes**: 1
+**Comments**: 0
 
 
 I am able to filter out one table which is top-level table (SpUser) using
@@ -28821,9 +28821,9 @@ Well the **Appsync** is returning results but **aws-amplify** is not returning a
 
 ---------------
 
-Author: @billycolley
-Upvotes: 1
-Comments: 0
+**Author**: @billycolley
+**Upvotes**: 1
+**Comments**: 0
 
 We have a need to add a new user pool, as well as a custom policy for each user pool. Currently our workflow is:
 run `amplify update auth`
@@ -28883,9 +28883,9 @@ What is the correct process for doing this? Are we missing a step? Do we add the
 
 ---------------
 
-Author: @cytrix86
-Upvotes: 1
-Comments: 0
+**Author**: @cytrix86
+**Upvotes**: 1
+**Comments**: 0
 
 Hello everyone,
 
@@ -28949,9 +28949,9 @@ aws-amplify: 3.3.27
 
 ---------------
 
-Author: @MMay1992
-Upvotes: 1
-Comments: 0
+**Author**: @MMay1992
+**Upvotes**: 1
+**Comments**: 0
 
 I need to add client_secret in OAuth.prototype._handleCodeFlow
 Example:
@@ -28974,9 +28974,9 @@ https://github.com/aws-amplify/amplify-js/blob/main/packages/auth/src/OAuth/OAut
 
 ---------------
 
-Author: @xenowits
-Upvotes: 1
-Comments: 2
+**Author**: @xenowits
+**Upvotes**: 1
+**Comments**: 2
 
 Hi all. I am trying to use firebase as IdP for cognito Identity pools. I need to add cognito IdentityPoolId in the federatedSignIn function of Auth. If I don't add the id, i get an error saying `Error: Federation requires either a User Pool or Identity Pool in config`. How to place it and where is my concern?
 Any help is very much appreciated!
@@ -29028,9 +29028,9 @@ This discussion is closed. I hv written a small article on this. Restart the dis
 
 ---------------
 
-Author: @hf-qin
-Upvotes: 1
-Comments: 0
+**Author**: @hf-qin
+**Upvotes**: 1
+**Comments**: 0
 
 I'm trying to add azure ad OIDC to Cognito and want to develop a federated sign-in using Amplify. But it seems that CognitoHostedUIIdentityProvider only supports Facebook, Google, and LWA. 
 
@@ -29048,9 +29048,9 @@ Thanks
 
 ---------------
 
-Author: @CarlJoven
-Upvotes: 1
-Comments: 0
+**Author**: @CarlJoven
+**Upvotes**: 1
+**Comments**: 0
 
 # Problem
 I am about to reach the limit set by the Appsync and I am worried because the web app that I am developing may still require additional features. It means additional models and datastore always require that the model must be sync in order for it to work so I cannot disable the subscriptions. 
@@ -29069,9 +29069,9 @@ I am about to reach the limit set by the Appsync and I am worried because the we
 
 ---------------
 
-Author: @MedNabilEssefaihi
-Upvotes: 1
-Comments: 0
+**Author**: @MedNabilEssefaihi
+**Upvotes**: 1
+**Comments**: 0
 
 Hello there!
 
@@ -29103,9 +29103,9 @@ I am looking for the same method with **AWS Amplify with GraphQL**
 
 ---------------
 
-Author: @kenchoong
-Upvotes: 1
-Comments: 0
+**Author**: @kenchoong
+**Upvotes**: 1
+**Comments**: 0
 
 I have this 2 model, `Product` and `Order`. 
 I want it have Many-to-Many Relationship. 
@@ -29157,9 +29157,9 @@ I hope this clear, please provide any possible help. If still need any informati
 
 ---------------
 
-Author: @ericclemmons
-Upvotes: 2
-Comments: 2
+**Author**: @ericclemmons
+**Upvotes**: 2
+**Comments**: 2
 
 
 ## Summary
@@ -29230,9 +29230,9 @@ Let's get this done with https://github.com/aws-amplify/amplify-js/milestone/32
 
 ---------------
 
-Author: @countryst
-Upvotes: 1
-Comments: 1
+**Author**: @countryst
+**Upvotes**: 1
+**Comments**: 1
 
 I'm using "@aws-amplify/ui-components": "^1.2.0", quasar and Vue
 I'm following https://docs.amplify.aws/ui/auth/authenticator/q/framework/vue
@@ -29369,9 +29369,9 @@ The issue is that corrent library doesn't support this feature, here is related 
 
 ---------------
 
-Author: @malcomm
-Upvotes: 2
-Comments: 1
+**Author**: @malcomm
+**Upvotes**: 2
+**Comments**: 1
 
 I am using AWS Amplify and Angular. I will get a DynamoDB:ApiCallTimeoutException from time to time and I'm having trouble replicating this so that I can handle the errors properly. 
 
@@ -29429,9 +29429,9 @@ I am actively encountering this error - it is causing havoc on my production wor
 
 ---------------
 
-Author: @swapnil0545
-Upvotes: 1
-Comments: 1
+**Author**: @swapnil0545
+**Upvotes**: 1
+**Comments**: 1
 
 Hi,
 
@@ -29468,9 +29468,9 @@ Bump anyone?
 
 ---------------
 
-Author: @joebernard
-Upvotes: 1
-Comments: 0
+**Author**: @joebernard
+**Upvotes**: 1
+**Comments**: 0
 
 https://docs.amplify.aws/lib/auth/manageusers/q/platform/js#managing-security-tokens
 
@@ -29489,9 +29489,9 @@ I need to know if I can safely pull out all our manual token refresh logic once 
 
 ---------------
 
-Author: @epratik
-Upvotes: 1
-Comments: 1
+**Author**: @epratik
+**Upvotes**: 1
+**Comments**: 1
 
 I am trying to do a username/password login with custom email OTP using CUSTOM_AUTH.
 Below are the steps -
@@ -29564,9 +29564,9 @@ I had a console.log(event) inside the create auth lambda before the if statement
 
 ---------------
 
-Author: @countryst
-Upvotes: 1
-Comments: 1
+**Author**: @countryst
+**Upvotes**: 1
+**Comments**: 1
 
 I'm using amplify to add auth UIs for AWS Cognito to my quasar/Vue3 website. Facebook login button is not displayed.
 
@@ -29702,9 +29702,9 @@ Reference: https://github.com/aws-amplify/amplify-js/issues/5298#issuecomment-62
 
 ---------------
 
-Author: @DeniferSantiago
-Upvotes: 1
-Comments: 0
+**Author**: @DeniferSantiago
+**Upvotes**: 1
+**Comments**: 0
 
 I don't think it is possible to change username when creating amplify userpool by choosing to login with username.
 ![image](https://user-images.githubusercontent.com/41799285/115755183-12f7f400-a36b-11eb-8604-4e0fa92101fb.png)
@@ -29721,9 +29721,9 @@ I will create this as a discussion in amplify-js and as a issue in amplify-cli
 
 ---------------
 
-Author: @kalek
-Upvotes: 1
-Comments: 0
+**Author**: @kalek
+**Upvotes**: 1
+**Comments**: 0
 
 I'm using lambda function to send push notification with type alert and in ReactNative app I always see notify even app is in foreground mode, How can I don't display notify when app is active ?
 
@@ -29735,9 +29735,9 @@ I'm using lambda function to send push notification with type alert and in React
 
 ---------------
 
-Author: @renanbronchart
-Upvotes: 1
-Comments: 0
+**Author**: @renanbronchart
+**Upvotes**: 1
+**Comments**: 0
 
 Hi everybody, 
 I have this schema : 
@@ -29790,9 +29790,9 @@ On appSync, it seems not possible. Can you help me for that?
 
 ---------------
 
-Author: @windupurnomo
-Upvotes: 1
-Comments: 0
+**Author**: @windupurnomo
+**Upvotes**: 1
+**Comments**: 0
 
 I have web app using Reactjs that have two method of login: using email-password and Google.
 
@@ -29814,9 +29814,9 @@ Is there mechanism to check email address availability that used by federated si
 
 ---------------
 
-Author: @ApollonSeven
-Upvotes: 1
-Comments: 1
+**Author**: @ApollonSeven
+**Upvotes**: 1
+**Comments**: 1
 
 ## What I want to do?
 I want to create REST API that returns data from my DynamoDB table which is being created by GraphQL model.
@@ -29996,9 +29996,9 @@ exports.handler = async (event) => {
 
 ---------------
 
-Author: @Stvad
-Upvotes: 1
-Comments: 1
+**Author**: @Stvad
+**Upvotes**: 1
+**Comments**: 1
 
 ### What I want to do
 
@@ -30035,9 +30035,9 @@ Author: @ET-CS
 
 ---------------
 
-Author: @vomc
-Upvotes: 1
-Comments: 0
+**Author**: @vomc
+**Upvotes**: 1
+**Comments**: 0
 
 We want to provide our users a way to see the password that they are typing when they sign up. Our app uses the React Amplify Cognito components. Searching the docs I was not able to find anything related to this. 
 
@@ -30053,9 +30053,9 @@ Thank you!
 
 ---------------
 
-Author: @SaileshKumar
-Upvotes: 1
-Comments: 0
+**Author**: @SaileshKumar
+**Upvotes**: 1
+**Comments**: 0
 
 Hi all,
 
@@ -30073,9 +30073,9 @@ Is there anything like this I can use? I was reading about Apollo too, but it do
 
 ---------------
 
-Author: @SaileshKumar
-Upvotes: 1
-Comments: 0
+**Author**: @SaileshKumar
+**Upvotes**: 1
+**Comments**: 0
 
 Hi! I'm trying to uplevel my AppSync skills with Schema design, and am having issues with this model I want to create.
 
@@ -30121,9 +30121,9 @@ Thank you in advance!
 
 ---------------
 
-Author: @aj120426394
-Upvotes: 1
-Comments: 0
+**Author**: @aj120426394
+**Upvotes**: 1
+**Comments**: 0
 
 We try to upgrade the version of `aws-amplify` then the Auth seems not working. 
 
@@ -30162,9 +30162,9 @@ Already stuck on this for a while, any idea?
 
 ---------------
 
-Author: @Pazago
-Upvotes: 1
-Comments: 0
+**Author**: @Pazago
+**Upvotes**: 1
+**Comments**: 0
 
 Hi everyone,
 
@@ -30262,9 +30262,9 @@ Thanks a lot in advance
 
 ---------------
 
-Author: @franklt69
-Upvotes: 1
-Comments: 1
+**Author**: @franklt69
+**Upvotes**: 1
+**Comments**: 1
 
 Hi, I have this code in the sign-up process, but the toast does not appear when validation fails. Could someone give me a hint on how to show the toast when an error occurs?
 
@@ -30350,9 +30350,9 @@ Frank
 
 ---------------
 
-Author: @flo-mair
-Upvotes: 1
-Comments: 0
+**Author**: @flo-mair
+**Upvotes**: 1
+**Comments**: 0
 
 I want to use custom React Components within <AmplifyAuthenticator> (replacing SignIn and SignUp). How do i navigate between the slots, when i set AuthState the UI does not change.
 
@@ -30388,9 +30388,9 @@ export default Login```
 
 ---------------
 
-Author: @Mortuie
-Upvotes: 3
-Comments: 0
+**Author**: @Mortuie
+**Upvotes**: 3
+**Comments**: 0
 
 Current Setup:
 - Client Side Rendering with Create React App
@@ -30431,9 +30431,9 @@ What is a common pattern of setting that up with SSR as I assume it is going to 
 
 ---------------
 
-Author: @MaxmaxmaximusAWS
-Upvotes: 1
-Comments: 1
+**Author**: @MaxmaxmaximusAWS
+**Upvotes**: 1
+**Comments**: 1
 
 ![image](https://user-images.githubusercontent.com/69426460/113976277-8ff27c00-9849-11eb-939a-29845fae773b.png)
 
@@ -30454,9 +30454,9 @@ Answe, in this page https://docs.amplify.aws/cli/graphql-transformer/directives 
 
 ---------------
 
-Author: @ionutmiftode
-Upvotes: 1
-Comments: 0
+**Author**: @ionutmiftode
+**Upvotes**: 1
+**Comments**: 0
 
 Hello community,
 
@@ -30470,9 +30470,9 @@ Does someone have an example of refreshHandlers functions for a react-native app
 
 ---------------
 
-Author: @midohree
-Upvotes: 2
-Comments: 0
+**Author**: @midohree
+**Upvotes**: 2
+**Comments**: 0
 
 I am trying to upload a video to s3 using amplify in Reactjs.
 Uploading small files is okay. (The test file size is 1.4MB)
@@ -30575,9 +30575,9 @@ export default App;
 
 ---------------
 
-Author: @Max161
-Upvotes: 1
-Comments: 0
+**Author**: @Max161
+**Upvotes**: 1
+**Comments**: 0
 
 Dear all, 
 
@@ -30596,9 +30596,9 @@ Do you have any idea why it's not working?  All the other requests are correctly
 
 ---------------
 
-Author: @shyamsohane
-Upvotes: 1
-Comments: 0
+**Author**: @shyamsohane
+**Upvotes**: 1
+**Comments**: 0
 
 Can we add Scope in ID token from pre generation lamda script? Has anyone modified it?
 
@@ -30610,9 +30610,9 @@ Can we add Scope in ID token from pre generation lamda script? Has anyone modifi
 
 ---------------
 
-Author: @shaharkazaz
-Upvotes: 2
-Comments: 0
+**Author**: @shaharkazaz
+**Upvotes**: 2
+**Comments**: 0
 
 Hey,
 
@@ -30635,9 +30635,9 @@ Thanks in advance for any response!
 
 ---------------
 
-Author: @agoldis
-Upvotes: 1
-Comments: 0
+**Author**: @agoldis
+**Upvotes**: 1
+**Comments**: 0
 
 There're plenty of AWS source describing the use of custom attributes for role polices. 
 
@@ -30676,9 +30676,9 @@ Reference: https://docs.aws.amazon.com/cognito/latest/developerguide/using-attri
 
 ---------------
 
-Author: @shahbour
-Upvotes: 1
-Comments: 0
+**Author**: @shahbour
+**Upvotes**: 1
+**Comments**: 0
 
 Hello 
 
@@ -30695,9 +30695,9 @@ Any idea how we can do this using amplify library .
 
 ---------------
 
-Author: @gruckionvit
-Upvotes: 1
-Comments: 0
+**Author**: @gruckionvit
+**Upvotes**: 1
+**Comments**: 0
 
 When writing code and littering on a feature I am getting blocked by `LimitExceededException` which is slowing down my development effort. I have to park that task go to something else and come back to it later and hope I get it solved without submitting as much next time.
 
@@ -30711,9 +30711,9 @@ This isn't ideal, is there a way to extend this limit for staging environments?
 
 ---------------
 
-Author: @myfairshare
-Upvotes: 1
-Comments: 0
+**Author**: @myfairshare
+**Upvotes**: 1
+**Comments**: 0
 
 Hello,
 
@@ -30762,9 +30762,9 @@ Am I making a silly mistake or misunderstanding something, thanks for any tips!
 
 ---------------
 
-Author: @sakihayashi
-Upvotes: 1
-Comments: 0
+**Author**: @sakihayashi
+**Upvotes**: 1
+**Comments**: 0
 
 Hi everyone,
 I have an app using React and MongoDB SDK.
@@ -30785,9 +30785,9 @@ Does anyone have experience in reducing the size?
 
 ---------------
 
-Author: @j4nos
-Upvotes: 1
-Comments: 1
+**Author**: @j4nos
+**Upvotes**: 1
+**Comments**: 1
 
 Do I need to run `amplify configure` to be able to support SSR in my Next.js Amplify app? 
 
@@ -30812,9 +30812,9 @@ Hello, @j4nos. You are correct that you will need to run the above command `ampl
 
 ---------------
 
-Author: @sbganesh
-Upvotes: 1
-Comments: 0
+**Author**: @sbganesh
+**Upvotes**: 1
+**Comments**: 0
 
 Hi All,
 
@@ -30834,9 +30834,9 @@ Kindly let me know how I can open a page in a new tab for the react application 
 
 ---------------
 
-Author: @MachariaK
-Upvotes: 1
-Comments: 0
+**Author**: @MachariaK
+**Upvotes**: 1
+**Comments**: 0
 
 Which credentials should I use to log in to the Admin UI? The console and other user credentials do not work.
 
@@ -30848,9 +30848,9 @@ Which credentials should I use to log in to the Admin UI? The console and other 
 
 ---------------
 
-Author: @SanderKnape
-Upvotes: 1
-Comments: 0
+**Author**: @SanderKnape
+**Upvotes**: 1
+**Comments**: 0
 
 I can't figure out how to set the active state that Amplify should show. For example, when my users navigate to `/signup` they should see the SignUp page. Right now the only way I'm able to view this page is by clicking the "Sign up" link on the Sign in page.
 
@@ -30864,9 +30864,9 @@ How do I associate a page/URL with an active state? The same goes for states lik
 
 ---------------
 
-Author: @rally25rs
-Upvotes: 1
-Comments: 1
+**Author**: @rally25rs
+**Upvotes**: 1
+**Comments**: 1
 
 Trying to use the Cognito hosted UI in an oauth2 "Authorization Code Grant + PKCE" manor (with react and react-router).
 
@@ -31011,9 +31011,9 @@ export default function LoginTest() {
 
 ---------------
 
-Author: @davidbiller
-Upvotes: 2
-Comments: 0
+**Author**: @davidbiller
+**Upvotes**: 2
+**Comments**: 0
 
 https://docs.amplify.aws/cli/graphql-transformer/auth#dynamic-group-authorization
 
@@ -31037,9 +31037,9 @@ Now I have seen that there is a maximum of 10k groups. It will be a long time be
 
 ---------------
 
-Author: @gyurobenjamin
-Upvotes: 1
-Comments: 1
+**Author**: @gyurobenjamin
+**Upvotes**: 1
+**Comments**: 1
 
 Trying to use SM Parameter Store, but with amplify this would be a custom resource.
 
@@ -31082,9 +31082,9 @@ In this way, you do not require to set any IAM or anything as long as both ampli
 
 ---------------
 
-Author: @Jun711
-Upvotes: 1
-Comments: 1
+**Author**: @Jun711
+**Upvotes**: 1
+**Comments**: 1
 
 Hi, 
 
@@ -31107,9 +31107,9 @@ For official tracking by the Cognito team please post service related questions 
 
 ---------------
 
-Author: @marco-streng
-Upvotes: 2
-Comments: 0
+**Author**: @marco-streng
+**Upvotes**: 2
+**Comments**: 0
 
 Currently I'm developing an app which uses AWS Cognito for authentication and AWS AppSync as a GraphQL server.
 
@@ -31166,9 +31166,9 @@ Thanks a lot!
 
 ---------------
 
-Author: @ZalgirisKaunas
-Upvotes: 1
-Comments: 0
+**Author**: @ZalgirisKaunas
+**Upvotes**: 1
+**Comments**: 0
 
 I really need to access the user group names of the user pool in the rest API lambda functions but I'm not sure how to do that. I've tried to pass the JWT token in the authorization header like that:
 
@@ -31204,9 +31204,9 @@ It is also interesting that passing the authorization header to Admin Queries AP
 
 ---------------
 
-Author: @kristianjabilles-ms
-Upvotes: 2
-Comments: 0
+**Author**: @kristianjabilles-ms
+**Upvotes**: 2
+**Comments**: 0
 
 I am posting it here first as we are not sure if this is a bug or we might just be missing something in our approach.
 
@@ -31247,9 +31247,9 @@ Is anyone experiencing the same issue like this?
 
 ---------------
 
-Author: @kannieWeesNie
-Upvotes: 2
-Comments: 0
+**Author**: @kannieWeesNie
+**Upvotes**: 2
+**Comments**: 0
 
 In an amplify project (using Vue) I have auth and dataStore api installed. I have set up the api to use an api key for authentication and the auth category to allow users to sign in to my app.
 
@@ -31265,9 +31265,9 @@ much appreciated
 
 ---------------
 
-Author: @ncyaodi
-Upvotes: 1
-Comments: 0
+**Author**: @ncyaodi
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 
@@ -31291,9 +31291,9 @@ Thanks,
 
 ---------------
 
-Author: @Ama-dou
-Upvotes: 1
-Comments: 0
+**Author**: @Ama-dou
+**Upvotes**: 1
+**Comments**: 0
 
 Am working on a react app and i have table name user with some informations
 I have form and when the user filled the form it creates a new model in my table.
@@ -31355,9 +31355,9 @@ type User @model @auth(rules: [{allow: public}]) {
 
 ---------------
 
-Author: @doron-mil
-Upvotes: 1
-Comments: 0
+**Author**: @doron-mil
+**Upvotes**: 1
+**Comments**: 0
 
 I have an application that is using totp setup.
 All is working except for the initial sign-in with totp setup.
@@ -31385,9 +31385,9 @@ Does anyone know where is all this coming from ? Maybe a configuration problem i
 
 ---------------
 
-Author: @casendler
-Upvotes: 1
-Comments: 0
+**Author**: @casendler
+**Upvotes**: 1
+**Comments**: 0
 
 I am currently using Pinpoint for in app analytics for my project. However, I recently added a kinesis stream for my project using the Amplify CLI. Looking through the [docs](https://docs.amplify.aws/lib/analytics/getting-started/q/platform/js) and [API reference](https://aws-amplify.github.io/amplify-js/api/classes/analyticsclass.html) the Analytics category only seems to deal with Pinpoint? I there currently a way to use the `Analytics.record()` method to send data to a stream from the client? 
 
@@ -31403,9 +31403,9 @@ Thanks!
 
 ---------------
 
-Author: @Neuroforge
-Upvotes: 1
-Comments: 2
+**Author**: @Neuroforge
+**Upvotes**: 1
+**Comments**: 2
 
 Hello,
 
@@ -31543,9 +31543,9 @@ Solution...
 
 ---------------
 
-Author: @BrianMagus
-Upvotes: 1
-Comments: 0
+**Author**: @BrianMagus
+**Upvotes**: 1
+**Comments**: 0
 
 There really isn't enough documentation on this either in the AWS docs or in the Github, so hopefully someone here has tackled a similar issue.
 
@@ -31763,9 +31763,9 @@ Account ID and API ID replaced in the above. What bit am I missing here? I could
 
 ---------------
 
-Author: @PeteDuncanson
-Upvotes: 1
-Comments: 1
+**Author**: @PeteDuncanson
+**Upvotes**: 1
+**Comments**: 1
 
 I'm still digging into this one but thought I would raise it.
 
@@ -31802,9 +31802,9 @@ https://docs.amplify.aws/lib/graphqlapi/subscribe-data/q/platform/js
 
 ---------------
 
-Author: @sc0ttdav3y
-Upvotes: 1
-Comments: 1
+**Author**: @sc0ttdav3y
+**Upvotes**: 1
+**Comments**: 1
 
 Hi,
 
@@ -31866,9 +31866,9 @@ Please let me know if you have questions about the above or anything else I can 
 
 ---------------
 
-Author: @pieterbergmans
-Upvotes: 1
-Comments: 0
+**Author**: @pieterbergmans
+**Upvotes**: 1
+**Comments**: 0
 
 Hi...I've implemented Amplify Auth and it's currently storing tokens in localStorage, which I know is not a best practice from a security standpoint. I read in the Amplify docs that you can create your own custom storage. Since cookies has inherent flaws as well, I was wondering if storing tokens in my app's memory, like redux, is a good solution?  
 
@@ -31907,9 +31907,9 @@ Auth.configure({
 
 ---------------
 
-Author: @FrancescoMussi
-Upvotes: 1
-Comments: 1
+**Author**: @FrancescoMussi
+**Upvotes**: 1
+**Comments**: 1
 
 I need to customize the component, but I am not really able to do it, besides changing few variables.
 
@@ -32041,9 +32041,9 @@ I put it this way: in the time it takes you to figure out the workarounds and li
 
 ---------------
 
-Author: @mgoral2
-Upvotes: 1
-Comments: 0
+**Author**: @mgoral2
+**Upvotes**: 1
+**Comments**: 0
 
 Hi.  I am interested in contributing to this project and am very excited about Amplify.  I was wondering, I have a year of experience working in software and when I submitted a pull request for my company it was always to the QA1 branch.  There were several QA branches and as the software went along it would get checked.  If I worked on some of the good first issue problems, where do I submit my pull request to?  Is it the main branch or some other branch or does it differ for each issue?  Thanks!
 
@@ -32055,9 +32055,9 @@ Hi.  I am interested in contributing to this project and am very excited about A
 
 ---------------
 
-Author: @berenddeboer
-Upvotes: 1
-Comments: 0
+**Author**: @berenddeboer
+**Upvotes**: 1
+**Comments**: 0
 
 Is Arabic supported with withAuthenticator? If so how?
 
@@ -32085,9 +32085,9 @@ i.e. I'm just wrapping my app. But the form should be rtl.
 
 ---------------
 
-Author: @Stf-F
-Upvotes: 1
-Comments: 0
+**Author**: @Stf-F
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, 
 
@@ -32215,9 +32215,9 @@ Stephane
 
 ---------------
 
-Author: @tnorlund
-Upvotes: 1
-Comments: 0
+**Author**: @tnorlund
+**Upvotes**: 1
+**Comments**: 0
 
 I've currently deployed an API Gateway that works with the browser and Postman. When I attempt to run it using the Amplify JS SDK, I get a CORS error. I've added the Lambda function, but I'm not sure how to use the SDK with this POST endpoint. What do I need to add to get this to work? 
 
@@ -32318,9 +32318,9 @@ exports.handler = async ( event, context ) => {
 
 ---------------
 
-Author: @padzikm
-Upvotes: 1
-Comments: 1
+**Author**: @padzikm
+**Upvotes**: 1
+**Comments**: 1
 
 Hi, I'd like to know if AmplifyAuthenticator in ui-react package is using pkce extension to code flow. There is no clear answer in issues here - I don't use cognito's hosted ui and I configured cognito's app client to only allow code flow (implicit flow is not allowed). My amplify configuration is as follows:
 ```
@@ -32356,9 +32356,9 @@ Up
 
 ---------------
 
-Author: @omer-to
-Upvotes: 1
-Comments: 0
+**Author**: @omer-to
+**Upvotes**: 1
+**Comments**: 0
 
 Hello,
 
@@ -32430,9 +32430,9 @@ I cannot figure out why it is not working as expected, and I need suggestion.
 
 ---------------
 
-Author: @huydiff
-Upvotes: 1
-Comments: 0
+**Author**: @huydiff
+**Upvotes**: 1
+**Comments**: 0
 
 ```typescript
     const subscription = (API.graphql({
@@ -32458,9 +32458,9 @@ I have a Typescript project and I am getting linting errors because the `respons
 
 ---------------
 
-Author: @omenking
-Upvotes: 1
-Comments: 1
+**Author**: @omenking
+**Upvotes**: 1
+**Comments**: 1
 
 I choose to create a Cognito User Pool without a username. (I think that is actually the default in the Admin UI)
 
@@ -32502,9 +32502,9 @@ I think the documentation needs to be updated
 
 ---------------
 
-Author: @Kiddinglife
-Upvotes: 4
-Comments: 0
+**Author**: @Kiddinglife
+**Upvotes**: 4
+**Comments**: 0
 
 Puerts: Error: (0x00000206226C5490) D:\EpicEngineProjects\puerts_unreal_demo\Content\JavaScript\node_modules\aws-**amplify\dist\aws-amplify.js:201341: ReferenceError: self is not defined**
 module.exports = self.fetch || (self.fetch = __webpack_require__(/*! unfetch */ "../../node_modules/unfetch/dist/unfetch.module.js").default || __webpack_require__(/*! unfetch */ "../../node_modules/unfetch/dist/unfetch.module.js"));
@@ -32529,9 +32529,9 @@ ReferenceError: self is not defined
 
 ---------------
 
-Author: @kevin-mitchell
-Upvotes: 1
-Comments: 0
+**Author**: @kevin-mitchell
+**Upvotes**: 1
+**Comments**: 0
 
 I am looking at a super basic Ampilfy + Angular project and the bundle size / deployed javascript is pretty huge - basically a MB. the large majority of this appears to be Amplify. I am using Cognito, GraphQL (but don't need the mqtt stuff for AppSync as I don't care about real time updates and such).... I know these are super full featured / "enterprise" level services, but it still seems like a LOT of code to ship. I'm wondering if there are any obvious optimizations around bundle size that I should be looking at?
 
@@ -32553,9 +32553,9 @@ I'm going to take a look at targeting specific libraries and see if that helps m
 
 ---------------
 
-Author: @philmerrell
-Upvotes: 2
-Comments: 2
+**Author**: @philmerrell
+**Upvotes**: 2
+**Comments**: 2
 
 I'm trying to get a multi-auth, public / private scenario working using Angular. I would like the update/delete/create of my models to be allowed only by a group in my user pool named 'Admins'. I would like to grant public read access to guests and unauthenticated users. This pain point has been fairly well documented and I believe I understand my options.
 
@@ -32633,9 +32633,9 @@ Basically manually specifying that I want to use the `AMAZON_COGNITO_USER_POOLS`
 
 ---------------
 
-Author: @dorontal
-Upvotes: 2
-Comments: 5
+**Author**: @dorontal
+**Upvotes**: 2
+**Comments**: 5
 
 **What is the better GraphQL schema** for efficiently and properly handling the following use case, involving public or private user "entries" in a collaborative app?
 
@@ -32836,9 +32836,9 @@ Therefore mutations would have to include updates to parent and nested types. Cu
 
 ---------------
 
-Author: @ronakm
-Upvotes: 1
-Comments: 0
+**Author**: @ronakm
+**Upvotes**: 1
+**Comments**: 0
 
 We have use case where we are using two different type of AppSync queries 
 1. Using Auth mode : cognito
@@ -32902,9 +32902,9 @@ Note : After signout and if i refresh the page and try to make API query with au
 
 ---------------
 
-Author: @joshkh
-Upvotes: 3
-Comments: 0
+**Author**: @joshkh
+**Upvotes**: 3
+**Comments**: 0
 
 I am using Amplify to successfully sign in my Federated Users with my Custom Developer Provider.
 
@@ -32932,9 +32932,9 @@ Any help or guidance is much appreciated. Thanks!
 
 ---------------
 
-Author: @htc007
-Upvotes: 2
-Comments: 0
+**Author**: @htc007
+**Upvotes**: 2
+**Comments**: 0
 
 According to the docs for Amplify DataStore, you can selectively sync a subset of your data by specifying a sync expression.
 
@@ -32954,9 +32954,9 @@ It would be really helpful if someone can clarify whether specifying the partiti
 
 ---------------
 
-Author: @hakenmt
-Upvotes: 1
-Comments: 0
+**Author**: @hakenmt
+**Upvotes**: 1
+**Comments**: 0
 
 I have a Cognito Identity Pool set up with an OIDC IdP (it's a custom one, this was all done outside of Amplify, I'm not using the CLI). I also have an existing Angular app. The experience I'm trying to create is that a not logged in user browses to the site, it sees that they are not logged in (i.e. forces login), redirects them to the OIDC site, lets them login, and then brings them back to my app with their cognito credentials (which will later be used to invoke API Gateway). Feels like this is a pretty straight forward workflow, but I cannot, for the life of me, figure out how to make this work with Amplify. I don't need user signup or an actual signin page (or even a signin button), I'm not even really interested in individual user metrics. Just enforce login, redirect to IdP, get the credentials from Cognito. That's it.
 
@@ -32991,9 +32991,9 @@ This doesn't work, I get `AuthError - Error: Amplify has not been configured cor
 
 ---------------
 
-Author: @ffxsam
-Upvotes: 1
-Comments: 0
+**Author**: @ffxsam
+**Upvotes**: 1
+**Comments**: 0
 
 I would think that if a user makes an account and clicks the verification link in their email, `email_verified` should be set to true, but it's not. Why is that? We'd rather not make the user go through another step to confirm their email when they technically already have.
 
@@ -33005,9 +33005,9 @@ I would think that if a user makes an account and clicks the verification link i
 
 ---------------
 
-Author: @jk171505
-Upvotes: 1
-Comments: 0
+**Author**: @jk171505
+**Upvotes**: 1
+**Comments**: 0
 
 I'm looking for a way to validate and update records in DynamoDB table inserted by `DataStore.save()`. 
 Here is the exact case:
@@ -33044,9 +33044,9 @@ As far as I know this could be done in AppSync pipeline resolvers but I'm lookin
 
 ---------------
 
-Author: @dorontal
-Upvotes: 1
-Comments: 1
+**Author**: @dorontal
+**Upvotes**: 1
+**Comments**: 1
 
 When trying to access a REST API (that the client can access) from a post confirmation trigger lambda function, the post confirmation trigger lambda function gets back a 403 error.
 
@@ -33073,9 +33073,9 @@ Please NOTE: After trying many things, I'm now convinced this is not a question 
 
 ---------------
 
-Author: @VivekNeel
-Upvotes: 2
-Comments: 0
+**Author**: @VivekNeel
+**Upvotes**: 2
+**Comments**: 0
 
 Hi,
 
@@ -33144,9 +33144,9 @@ Neither catch or then block gets called after providing credentials for any prov
 
 ---------------
 
-Author: @cnikolov
-Upvotes: 1
-Comments: 0
+**Author**: @cnikolov
+**Upvotes**: 1
+**Comments**: 0
 
 I am trying to validate my tokens and the only way I could find is to  create refreshToken object, empty CognitoUser
 
@@ -33162,9 +33162,9 @@ Lets say I have localhost/secret and I want only authenticated people to hit thi
 
 ---------------
 
-Author: @Ochaun
-Upvotes: 1
-Comments: 1
+**Author**: @Ochaun
+**Upvotes**: 1
+**Comments**: 1
 
 I'm using the Client Amplify Storage API to upload to a custom folder. I'm using the `customPrefix` option to upload to **someDir**, but when I look in S3 it is **somedir/[userUUID]**. Is there a way to set custom prefix without the UUID appended? 
 
@@ -33203,9 +33203,9 @@ For anyone who stumbles on this, the answer is no. The prefix settings is handle
 
 ---------------
 
-Author: @ab-jfortich
-Upvotes: 1
-Comments: 0
+**Author**: @ab-jfortich
+**Upvotes**: 1
+**Comments**: 0
 
 Hello,
 
@@ -33230,9 +33230,9 @@ Any help/feedback is appreciated.
 
 ---------------
 
-Author: @rraczae
-Upvotes: 2
-Comments: 1
+**Author**: @rraczae
+**Upvotes**: 2
+**Comments**: 1
 
 Hey Everyone,
 
@@ -33261,9 +33261,9 @@ Did you manage to find a solution?
 
 ---------------
 
-Author: @CarlJoven
-Upvotes: 1
-Comments: 0
+**Author**: @CarlJoven
+**Upvotes**: 1
+**Comments**: 0
 
 Does datastore support auth mode like in API graphql?
 
@@ -33275,9 +33275,9 @@ Does datastore support auth mode like in API graphql?
 
 ---------------
 
-Author: @screendriver
-Upvotes: 2
-Comments: 2
+**Author**: @screendriver
+**Upvotes**: 2
+**Comments**: 2
 
 I want to build a website with a contact form. But how can I send an email out of the contact form to some persons? I'm aware of [Amazon Simple Email Service](https://aws.amazon.com/ses/) (aka `Amazon SES`) and [Netlify Forms](https://www.netlify.com/products/forms/) but is there something similar in `Amplify` out of the box?
 ## Comment
@@ -33303,9 +33303,9 @@ In my case, I used lambda, SES triggered by the Dynamodb to do this.
 
 ---------------
 
-Author: @togro
-Upvotes: 4
-Comments: 0
+**Author**: @togro
+**Upvotes**: 4
+**Comments**: 0
 
 How can hide "Forgot your password" hint ?
 
@@ -33321,9 +33321,9 @@ We have an application that only with usernames created by admins .
 
 ---------------
 
-Author: @ari-cv
-Upvotes: 1
-Comments: 0
+**Author**: @ari-cv
+**Upvotes**: 1
+**Comments**: 0
 
 I wanted to ask how I can implement a spinner while waiting for login from the amplify authenticator.. the loading event **doesn't** seem to fire until **just before** the login details are resolved and I am not able to use the slots implementation to customize my sign-in button with events using nuxt.js as they don't override the default contents. 
 
@@ -33335,9 +33335,9 @@ I wanted to ask how I can implement a spinner while waiting for login from the a
 
 ---------------
 
-Author: @syang
-Upvotes: 1
-Comments: 1
+**Author**: @syang
+**Upvotes**: 1
+**Comments**: 1
 
 I wanted to build a user profile feature using Amplify Storage. Basically, I wanted to have the user to upload his avatar onto the protected folder under his Identity_ID, i.e., 
  `arn:aws:s3:::my-avatar-bucket/protected/${cognito-identity.amazonaws.com:sub}`
@@ -33371,9 +33371,9 @@ Hello, anybody found solution for this?
 
 ---------------
 
-Author: @jmonguilo
-Upvotes: 3
-Comments: 1
+**Author**: @jmonguilo
+**Upvotes**: 3
+**Comments**: 1
 
 Hello,
 
@@ -33411,9 +33411,9 @@ Any recommendation about this?
 
 ---------------
 
-Author: @Mac-prof
-Upvotes: 1
-Comments: 0
+**Author**: @Mac-prof
+**Upvotes**: 1
+**Comments**: 0
 
 **Situation**: I have pretty standard Amplify project leveraging on Angular, Cognito authentication, Dynamo DB for tables storage and S3 for images storage. I want to have one of my Dynamo DB fields to point a key to the PRIVATE bucket, that will let me generate URL for image to be presented on the web page.
 
@@ -33450,9 +33450,9 @@ When trying to retrieve the file I need to put the key... but the key I get from
 
 ---------------
 
-Author: @jonathanloos
-Upvotes: 1
-Comments: 1
+**Author**: @jonathanloos
+**Upvotes**: 1
+**Comments**: 1
 
 Hello everyone!
 
@@ -33485,9 +33485,9 @@ My current approach for React Native is now to implement a custom solution with 
 
 ---------------
 
-Author: @danielgeri
-Upvotes: 1
-Comments: 0
+**Author**: @danielgeri
+**Upvotes**: 1
+**Comments**: 0
 
 Hello! Currently my API is structured so that there is are public and private parts to my site using GraphQL. However, in the very near future I'm looking to structure my access rules such that there is resource-based authorization (e.g. think google docs user access - for a private document, users who are explicitly added to a "shared list" have access). Is there a best practices approach of this same concept using Amplify? 
 
@@ -33501,9 +33501,9 @@ perhaps this may also provide insight/clarity to the question:https://aws.amazon
 
 ---------------
 
-Author: @mjza
-Upvotes: 1
-Comments: 1
+**Author**: @mjza
+**Upvotes**: 1
+**Comments**: 1
 
 When I use AWS AppSync and play with queries I can run a query like following which by `item` I declared what columns I need. 
 
@@ -33589,9 +33589,9 @@ replaceItemsInQuery(query, items) {
 
 ---------------
 
-Author: @sasweb
-Upvotes: 1
-Comments: 0
+**Author**: @sasweb
+**Upvotes**: 1
+**Comments**: 0
 
 Hi there!
 
@@ -33630,9 +33630,9 @@ Edit: This is how firebase does it: https://firebase.google.com/docs/auth/web/an
 
 ---------------
 
-Author: @sammy532
-Upvotes: 1
-Comments: 3
+**Author**: @sammy532
+**Upvotes**: 1
+**Comments**: 3
 
 I want to use AWS Amplify within my react native app as suggested [here][1]: I wanted to integrate the basic usage within my app. Here is the basic usage as suggested from the docs: 
 
@@ -33737,9 +33737,9 @@ Thank you, this was the answer I was looking for!
 
 ---------------
 
-Author: @ignaciolarranaga
-Upvotes: 2
-Comments: 0
+**Author**: @ignaciolarranaga
+**Upvotes**: 2
+**Comments**: 0
 
 For example, I've the authentication configured for username, email or phone, but if the user introduces the phone wrongly formatted Cognito rejects it because it is not matching any of the possible formats.
 
@@ -33761,9 +33761,9 @@ P.S.: A trim before sending the userName might not be bad also.
 
 ---------------
 
-Author: @skilenton
-Upvotes: 1
-Comments: 0
+**Author**: @skilenton
+**Upvotes**: 1
+**Comments**: 0
 
 I can't seem to find a way to attach iot policy programmatically in js. The guide only shows how to do it via cli. I've tried lambda triggers but identityId is hidden/undefined even in post authentication. Help pls :(
 
@@ -33775,9 +33775,9 @@ I can't seem to find a way to attach iot policy programmatically in js. The guid
 
 ---------------
 
-Author: @CoonHouse
-Upvotes: 1
-Comments: 1
+**Author**: @CoonHouse
+**Upvotes**: 1
+**Comments**: 1
 
 Hello,
 For a long time, I was using a custom attribute in my Appsync resolvers detect tenants, using ` $ctx.identity.claims["custom:tenantID"]`. This is working fine. Now I added an extra custom attribute to Cognito but I cannot access it from my resolvers. I logged the "claims' object, my tenantID is there with morevalues like 'sub', 'cognito.groups', 'iss', etc. but not my new attribute. Wwen I use te cli command `aws cognito-idp admin-get-user` my new attribute is present. 
@@ -33803,9 +33803,9 @@ For anyone else searching for this. Its in the Userpool settings under "App clie
 
 ---------------
 
-Author: @sacrampton
-Upvotes: 2
-Comments: 0
+**Author**: @sacrampton
+**Upvotes**: 2
+**Comments**: 0
 
 Our current app uses GraphQL Resolvers to create / update / delete records. We are trying to move to DataStore and have a question about using custom resolvers.
 
@@ -33835,9 +33835,9 @@ In DataStore is there some way to use the logic in the resolvers when doing the 
 
 ---------------
 
-Author: @lucianomlima
-Upvotes: 2
-Comments: 0
+**Author**: @lucianomlima
+**Upvotes**: 2
+**Comments**: 0
 
 https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-cognito-user-pools-supports-customization-of-token-expiration/
 
@@ -33851,9 +33851,9 @@ After reading the above blog post, I'm trying to find a way to define the expire
 
 ---------------
 
-Author: @yaquawa
-Upvotes: 1
-Comments: 0
+**Author**: @yaquawa
+**Upvotes**: 1
+**Comments**: 0
 
 I saw this sample code on the doc:
 
@@ -33896,9 +33896,9 @@ Does anyone know what it mean if `@connection` without any arguments?
 
 ---------------
 
-Author: @TAConsulting
-Upvotes: 1
-Comments: 0
+**Author**: @TAConsulting
+**Upvotes**: 1
+**Comments**: 0
 
 Hi guys,
 
@@ -33916,9 +33916,9 @@ Any info appreciated!
 
 ---------------
 
-Author: @richgmorg
-Upvotes: 1
-Comments: 0
+**Author**: @richgmorg
+**Upvotes**: 1
+**Comments**: 0
 
 As soon as I add "import Amplify from 'aws-amplify';" to the App.js file in a simple application created with "create-react-app" I no longer see the sources and set breakpoints when attempting to debug the application in Chrome or Firefox.
 
@@ -33933,9 +33933,9 @@ Is there a way to use the Amplify libraries and still see the source and set bre
 
 ---------------
 
-Author: @debugguru
-Upvotes: 1
-Comments: 0
+**Author**: @debugguru
+**Upvotes**: 1
+**Comments**: 0
 
 Currently AmplifyConfirmSignUp only allows code verification. We are using email link verification. Is there a way to customise the AmplifyConfirmSignUp so that it shows custom text, user email and button to take user back to sign in page?
 
@@ -33947,9 +33947,9 @@ Currently AmplifyConfirmSignUp only allows code verification. We are using email
 
 ---------------
 
-Author: @marco910
-Upvotes: 1
-Comments: 1
+**Author**: @marco910
+**Upvotes**: 1
+**Comments**: 1
 
 Hi everyone,
 
@@ -33974,9 +33974,9 @@ Yes, you should define them in the front-end and leave them empty or set dummy v
 
 ---------------
 
-Author: @myfairshare
-Upvotes: 1
-Comments: 1
+**Author**: @myfairshare
+**Upvotes**: 1
+**Comments**: 1
 
 Hello,
 
@@ -34008,9 +34008,9 @@ You should add a claim to your user JWT token. If you are using cognito, you sho
 
 ---------------
 
-Author: @pedramp20
-Upvotes: 1
-Comments: 0
+**Author**: @pedramp20
+**Upvotes**: 1
+**Comments**: 0
 
 Imaging that there is a graphql subscription, where authenticated users can subscribe to. In the case of graceful connection and disconnection, of course the user can update a certain state in a DB or communicate it. However, when it comes to disgraceful disconnection, only the server (in this case AppSync) can detect it (after the connection is timed out). 
 How can a lambda function be triggered on an appsync disconnection?
@@ -34023,9 +34023,9 @@ How can a lambda function be triggered on an appsync disconnection?
 
 ---------------
 
-Author: @newbie737
-Upvotes: 6
-Comments: 0
+**Author**: @newbie737
+**Upvotes**: 6
+**Comments**: 0
 
 I want to apply a custom theme on my login screen using `aws auth` services. I tried to do so using `withauthenticator`. I read all possible information online, what people suggest, yet it doesnt work for me. I tried what was suggested [here][1] as well, but the solution doesnt work for me.
 Basically, I can use `aws auth` serivces calling just `export default withAuthenticator(App, true);` That worked fine for me. However, the default sign up screen requires telephone number, which I dont want. So I created a custom config: 
@@ -34122,9 +34122,9 @@ Any suggestions are welcome!
 
 ---------------
 
-Author: @funkel1989
-Upvotes: 1
-Comments: 1
+**Author**: @funkel1989
+**Upvotes**: 1
+**Comments**: 1
 
 Recently the amplify team provided an example of a SSR site using next.js and in the article they speak of Nuxt also:
 https://aws.amazon.com/blogs/mobile/ssr-support-for-aws-amplify-javascript-libraries/
@@ -34153,9 +34153,9 @@ I have created a small reproduction repository here: https://github.com/regenrek
 
 ---------------
 
-Author: @joebernard
-Upvotes: 4
-Comments: 0
+**Author**: @joebernard
+**Upvotes**: 4
+**Comments**: 0
 
 The [docs](https://docs.amplify.aws/lib/auth/advanced/q/platform/js#token-refresh) mention that automatic token refresh is not supported in React Native but they are light on details as to how this is accomplished. I assume this means I need to manually refresh the token somehow.
 
@@ -34184,9 +34184,9 @@ I'm using the `@apollo/client` package to build my client. It exposes an `onErro
 
 ---------------
 
-Author: @kieranjen
-Upvotes: 1
-Comments: 1
+**Author**: @kieranjen
+**Upvotes**: 1
+**Comments**: 1
 
 I'm putting this here because I'm not sure if it's a bug or something incorrect with my config.
 
@@ -34293,9 +34293,9 @@ This was fixed by deleting `package-lock.json` and `node_modules` and then runni
 
 ---------------
 
-Author: @shweta-codeprism
-Upvotes: 1
-Comments: 0
+**Author**: @shweta-codeprism
+**Upvotes**: 1
+**Comments**: 0
 
 Some of my graphql apis are being consumed by lambdas using appsync. To make it possible I have to allow iam access to the api by adding (@aws_iam) tag in the schema from the AWS Appsync console . 
 
@@ -34311,9 +34311,9 @@ Is there a way to persist it ?
 
 ---------------
 
-Author: @patweb99
-Upvotes: 1
-Comments: 0
+**Author**: @patweb99
+**Upvotes**: 1
+**Comments**: 0
 
 Currently, the only Interactions event that is available is chatCompleted. 
 
@@ -34330,9 +34330,9 @@ It would be great to have some of the following
 
 ---------------
 
-Author: @patweb99
-Upvotes: 1
-Comments: 0
+**Author**: @patweb99
+**Upvotes**: 1
+**Comments**: 0
 
 Currently, the only Interactions event that is available is chatCompleted. 
 
@@ -34349,9 +34349,9 @@ It would be great to have some of the following
 
 ---------------
 
-Author: @Salmandabbakuti
-Upvotes: 1
-Comments: 0
+**Author**: @Salmandabbakuti
+**Upvotes**: 1
+**Comments**: 0
 
 I found below code snippet in the amplify auth library usage documentation [Here](https://docs.amplify.aws/lib/auth/manageusers/q/platform/js#managing-user-attributes)
 ```
@@ -34373,9 +34373,9 @@ I'm wondering why we're using ```Auth.currentAuthenticatedUser()``` to update us
 
 ---------------
 
-Author: @0x54321
-Upvotes: 1
-Comments: 0
+**Author**: @0x54321
+**Upvotes**: 1
+**Comments**: 0
 
 The `formFields` property on the `<AmplifySignIn>` component [seems to allow](https://github.com/aws-amplify/amplify-js/tree/main/packages/amplify-ui-components/src/components/amplify-form-field#properties) for controlling the value of the inputs, like so:
 
@@ -34409,9 +34409,9 @@ However, this doesn't actually work. It throws `Cannot read property 'bind' of u
 
 ---------------
 
-Author: @malcomm
-Upvotes: 1
-Comments: 1
+**Author**: @malcomm
+**Upvotes**: 1
+**Comments**: 1
 
 I am using a "global error handler" per: [ErrorHandler](https://angular.io/api/core/ErrorHandler) and it is trapping the errors for calls made the APIService. The problem: the error that is being received by this:
 
@@ -34488,9 +34488,9 @@ Honestly didn't know that `error.promise` and `error.rejection` were even there 
 
 ---------------
 
-Author: @emilyDZC
-Upvotes: 2
-Comments: 0
+**Author**: @emilyDZC
+**Upvotes**: 2
+**Comments**: 0
 
 I'm using the AmplifyAuthenticator from `@aws-amplify/ui-react`, and I'm trying to replace the ConfirmSignUp component with our own custom component. 
 
@@ -34508,9 +34508,9 @@ Does anyone have any suggestions?
 
 ---------------
 
-Author: @hmisonne
-Upvotes: 1
-Comments: 0
+**Author**: @hmisonne
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, I am using Amplify Analytics and I would like to send a survey to my users! 
 Since I am also using Cognito, is there a way to export email addresses to Pinpoint to create a campaign?
@@ -34526,9 +34526,9 @@ Thank you for your help 🙏
 
 ---------------
 
-Author: @bjm88
-Upvotes: 1
-Comments: 0
+**Author**: @bjm88
+**Upvotes**: 1
+**Comments**: 0
 
 I am using Amplify frontend and backend, but with custom UI for Auth flows.  The React/JS libraries have nice Auth.signIn, .signUp, etc simple calls to make and can hook those up in my custom react UI pages.
 
@@ -34547,9 +34547,9 @@ DataStore.configureAuthHeaderPreflight = () => (await Auth.currentSession()).get
 
 ---------------
 
-Author: @elchicofrommo
-Upvotes: 1
-Comments: 0
+**Author**: @elchicofrommo
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, I've got my system set up so I can transfer my auth session between one device an another using the Access Token, id Token constructing a redirect that piggy backs off the same oauth redirect that I use for social log in. The problem I have is when I updated my library I lost the ability to programmatically set the state attribute ... I guess Amplify prepends some typechecked value to the beginning of the custom state that I can't seem to replicate on my own. So when I'm listening to the hub for custom state it always comes across as junk. Can anyone tell me what I need to prepend to get this field processes in the normal manner and generate good data in the hub?
 
@@ -34561,9 +34561,9 @@ Hello, I've got my system set up so I can transfer my auth session between one d
 
 ---------------
 
-Author: @myfairshare
-Upvotes: 1
-Comments: 0
+**Author**: @myfairshare
+**Upvotes**: 1
+**Comments**: 0
 
 Hello,
 
@@ -34577,9 +34577,9 @@ Hello,
 
 ---------------
 
-Author: @andy2sey
-Upvotes: 2
-Comments: 0
+**Author**: @andy2sey
+**Upvotes**: 2
+**Comments**: 0
 
 Hello,
 
@@ -34601,9 +34601,9 @@ Happy to clarify any questions, I am new to Amplify and still learning terminolo
 
 ---------------
 
-Author: @myfairshare
-Upvotes: 1
-Comments: 0
+**Author**: @myfairshare
+**Upvotes**: 1
+**Comments**: 0
 
 Hello,
 
@@ -34621,9 +34621,9 @@ I have tried DataStore.clear() on signout but that doesnt help.  If anyone could
 
 ---------------
 
-Author: @funawo
-Upvotes: 1
-Comments: 0
+**Author**: @funawo
+**Upvotes**: 1
+**Comments**: 0
 
 I want to know what you can do with a client ID in an app that uses Amplify.
 I think I can operate my own user stored in the user pool, but I am wondering if I can operate a third party user
@@ -34636,9 +34636,9 @@ I think I can operate my own user stored in the user pool, but I am wondering if
 
 ---------------
 
-Author: @Xumeiquer
-Upvotes: 1
-Comments: 1
+**Author**: @Xumeiquer
+**Upvotes**: 1
+**Comments**: 1
 
 Hi there, I am starting with Amplify and Cognito and I having some questions about the security of my application.
 
@@ -34665,9 +34665,9 @@ A lambda function can work but I suggest deploying an API Gateway and route your
 
 ---------------
 
-Author: @marcelkipp
-Upvotes: 1
-Comments: 0
+**Author**: @marcelkipp
+**Upvotes**: 1
+**Comments**: 0
 
 We are using Ionic/Angular for our app. We want to use the angular integrated testing but facing the following error:
 
@@ -34683,9 +34683,9 @@ Did somebody faced that issue before or is running angular testing with angular 
 
 ---------------
 
-Author: @ammarasmro
-Upvotes: 1
-Comments: 0
+**Author**: @ammarasmro
+**Upvotes**: 1
+**Comments**: 0
 
 Considering that I have included all the required portions to set a project up until running `Amplify.configure(....)` portion including
 - Installing `aws-amplify` and `@aws-amplify/ui-vue`
@@ -34706,9 +34706,9 @@ If I remove the auth requirement in API gateway on the same paths, API.get... is
 
 ---------------
 
-Author: @hmisonne
-Upvotes: 1
-Comments: 0
+**Author**: @hmisonne
+**Upvotes**: 1
+**Comments**: 0
 
 I am currently using a splashscreen to delay the rendering of my app while waiting for the async calls to complete.
 
@@ -34784,9 +34784,9 @@ Is there a way to return a Promise only when the DataStore is ready?
 
 ---------------
 
-Author: @funawo
-Upvotes: 1
-Comments: 0
+**Author**: @funawo
+**Upvotes**: 1
+**Comments**: 0
 
 Quoted from a forum article.
 If you know the content of the article, please tell me
@@ -34804,9 +34804,9 @@ https://forums.aws.amazon.com/thread.jspa?messageID=889721
 
 ---------------
 
-Author: @mpcooke3
-Upvotes: 3
-Comments: 0
+**Author**: @mpcooke3
+**Upvotes**: 3
+**Comments**: 0
 
 In react with the older <Authenticator> component I was able to prevent the initial sign-in dialog coming up immediately like this:
 <Authenticator hideDefault={'true'} authState={'none'}>
@@ -34825,9 +34825,9 @@ Is there an equivalent or any alternative way to trigger the SignIn component ma
 
 ---------------
 
-Author: @Albert-Gao
-Upvotes: 2
-Comments: 0
+**Author**: @Albert-Gao
+**Upvotes**: 2
+**Comments**: 0
 
 There is 3 access levels listed on this page: https://docs.amplify.aws/lib/storage/configureaccess/q/platform/js
 
@@ -34848,9 +34848,9 @@ Is there an Amplify way to upload files to S3 with access control only to a grou
 
 ---------------
 
-Author: @amirmishani
-Upvotes: 1
-Comments: 0
+**Author**: @amirmishani
+**Upvotes**: 1
+**Comments**: 0
 
 I'm new to Datastore and while designing my schema, I was looking at [relational models docs](https://docs.amplify.aws/lib/datastore/relational/q/platform/js) and came across the following:
 
@@ -34894,9 +34894,9 @@ Or is there something deeper involved? For example I know in Apollo if you chang
 
 ---------------
 
-Author: @giorgiocarniel
-Upvotes: 2
-Comments: 0
+**Author**: @giorgiocarniel
+**Upvotes**: 2
+**Comments**: 0
 
 Hi everyone,
 
@@ -34917,9 +34917,9 @@ Thanks!
 
 ---------------
 
-Author: @ViepleJimJames
-Upvotes: 1
-Comments: 0
+**Author**: @ViepleJimJames
+**Upvotes**: 1
+**Comments**: 0
 
 Hey, I am successfully initialising and using I18n in my angular project. The problem I'm having is if I am not supporting a language in my custom vocabulary, how do I have the browser default to one of the supported ones?
 
@@ -34933,9 +34933,9 @@ Thanks in advanced, I couldn't find anyone else discussing this sort of issue he
 
 ---------------
 
-Author: @
-Upvotes: 1
-Comments: 0
+**Author**: @
+**Upvotes**: 1
+**Comments**: 0
 
 My app gets notifications when I use Ad Hoc. But using Ad Hoc is impossible to debug. Did someone being able to receive notifications using debug mode ? Is it possible?
 
@@ -34947,9 +34947,9 @@ My app gets notifications when I use Ad Hoc. But using Ad Hoc is impossible to d
 
 ---------------
 
-Author: @stayingcool
-Upvotes: 1
-Comments: 1
+**Author**: @stayingcool
+**Upvotes**: 1
+**Comments**: 1
 
 **Issue:**
 AppSync List API throws this error and returns a null response:
@@ -34987,9 +34987,9 @@ Is there anyone who can provide some guidance? This seems to be a show stopper f
 
 ---------------
 
-Author: @maximelebastard
-Upvotes: 1
-Comments: 0
+**Author**: @maximelebastard
+**Upvotes**: 1
+**Comments**: 0
 
 Hi !
 
@@ -35010,9 +35010,9 @@ Thanks
 
 ---------------
 
-Author: @SZubarev
-Upvotes: 1
-Comments: 0
+**Author**: @SZubarev
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 
@@ -35026,9 +35026,9 @@ Can Amplify's authentication be used with other OpenID identity providers withou
 
 ---------------
 
-Author: @fabianjj
-Upvotes: 1
-Comments: 0
+**Author**: @fabianjj
+**Upvotes**: 1
+**Comments**: 0
 
 I'm writing an application with public sign-up where users need to be able to collaborate in user-defined groups
 There should be space for a lot of groups. I.E. I want to be able to scale to 10 million groups, I won't have 10 million groups, but if there's a limit of ~50 groups, then it's not really the right mechanism for my use case.
@@ -35054,9 +35054,9 @@ My ideal implementation would be a simple type in the graphql schema that could 
 
 ---------------
 
-Author: @march08
-Upvotes: 1
-Comments: 0
+**Author**: @march08
+**Upvotes**: 1
+**Comments**: 0
 
 Hey guys, I am using `CognitoUser.forgetSpecificDevice`, this will successfully remove the device from the `forgetSpecificDevice.listDevices` but doesn't invalidate the refresh token and still allows actions on the forgotten device. Is this expected behaviour? How should I invalidate the refresh token on the forgotten device? Thank you
 
@@ -35068,9 +35068,9 @@ Hey guys, I am using `CognitoUser.forgetSpecificDevice`, this will successfully 
 
 ---------------
 
-Author: @karrettgelley
-Upvotes: 1
-Comments: 0
+**Author**: @karrettgelley
+**Upvotes**: 1
+**Comments**: 0
 
 I've been trying to call AppSync from a lambda function (both created using the aws-amplify cli), but I can't find any documentation that are both up to date and complete. For instance, I came across an article about [building a client app using aws-mobile-appsync-sdk](https://docs.aws.amazon.com/appsync/latest/devguide/building-a-client-app-node.html), but that library hasn't been touched in 5mo and seems like overkill in a nodejs environment. So, does anybody know if there is a standard or recommended way of calling AppSync from a lambda function? Any help is appreciated
 
@@ -35082,9 +35082,9 @@ I've been trying to call AppSync from a lambda function (both created using the 
 
 ---------------
 
-Author: @mansdahlstrom1
-Upvotes: 1
-Comments: 0
+**Author**: @mansdahlstrom1
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, I'm wondering about polymorphism + GraphQL via AWS Amplify
 
@@ -35137,9 +35137,9 @@ Thanks!
 
 ---------------
 
-Author: @nschneider-sommset
-Upvotes: 1
-Comments: 0
+**Author**: @nschneider-sommset
+**Upvotes**: 1
+**Comments**: 0
 
 In my code Im unable to get userAttributes from a user who has signed in with google.
 ```
@@ -35164,9 +35164,9 @@ Any idea of what I could be missing?
 
 ---------------
 
-Author: @rlaphoenix
-Upvotes: 2
-Comments: 0
+**Author**: @rlaphoenix
+**Upvotes**: 2
+**Comments**: 0
 
 What would be the amplify alternative to `cognitoUser.listDevices(10, null, callbacks)`?
 
@@ -35180,9 +35180,9 @@ I cannot find anything related to it.
 
 ---------------
 
-Author: @yaquawa
-Upvotes: 1
-Comments: 0
+**Author**: @yaquawa
+**Upvotes**: 1
+**Comments**: 0
 
 I saw a lots of examples in the doc which omit the `operations`, for example:
 
@@ -35238,9 +35238,9 @@ type Post
 
 ---------------
 
-Author: @icecog
-Upvotes: 1
-Comments: 1
+**Author**: @icecog
+**Upvotes**: 1
+**Comments**: 1
 
 I feel like I'm trying to do something quite straight forward, but I'm not able to figure it out.
 Someone please help me.
@@ -35276,9 +35276,9 @@ Once again, I feel like the Amplify documentation fucks with you by omitting det
 
 ---------------
 
-Author: @amlcodes
-Upvotes: 1
-Comments: 0
+**Author**: @amlcodes
+**Upvotes**: 1
+**Comments**: 0
 
 via CLI - if I allow unauthenticated access, as well as configuring IAM as an additional auth type and then configure my schema around public reads and cognito group access - do I have to programmatically fetch data with and without using         authMode: 'AWS_IAM' in API.graphql() based on Auth.currentCredentials() ? If I were to use DataStore instead, How would would I specify using IAM authmode for public users? 
 
@@ -35290,9 +35290,9 @@ via CLI - if I allow unauthenticated access, as well as configuring IAM as an ad
 
 ---------------
 
-Author: @shweta-codeprism
-Upvotes: 1
-Comments: 0
+**Author**: @shweta-codeprism
+**Upvotes**: 1
+**Comments**: 0
 
 How are we supposed to send formData over Amplify Rest Api ? 
 ` const formData = new FormData();
@@ -35315,9 +35315,9 @@ is allowing us to send the data, but ends up receiving status 0 over xhr call
 
 ---------------
 
-Author: @JPilawka
-Upvotes: 1
-Comments: 0
+**Author**: @JPilawka
+**Upvotes**: 1
+**Comments**: 0
 
 **Describe the bug**
 We have a problem with in-app-browser configuration of amplify authorization in react native (0.61).
@@ -35372,9 +35372,9 @@ Newest aws-amplify 3.3.11 version gives us error with aws-sdk as it cannot see .
 
 ---------------
 
-Author: @karol-szymanowski
-Upvotes: 1
-Comments: 0
+**Author**: @karol-szymanowski
+**Upvotes**: 1
+**Comments**: 0
 
 In my project, we use yarn and yarn workspaces to manage all dependencies, and I noticed that every time functions are deployed or mocked, the package-lock.json file is generated. Is there a way to set yarn as the default tool or ideally disable installing dependencies step?
 
@@ -35386,9 +35386,9 @@ In my project, we use yarn and yarn workspaces to manage all dependencies, and I
 
 ---------------
 
-Author: @syang
-Upvotes: 1
-Comments: 1
+**Author**: @syang
+**Upvotes**: 1
+**Comments**: 1
 
 I am using amplify js library to build my front-end. 
 
@@ -35418,9 +35418,9 @@ https://docs.amplify.aws/lib/auth/advanced/q/platform/js#identity-pool-federatio
 
 ---------------
 
-Author: @mansdahlstrom1
-Upvotes: 5
-Comments: 0
+**Author**: @mansdahlstrom1
+**Upvotes**: 5
+**Comments**: 0
 
 Hi!
 
@@ -35451,9 +35451,9 @@ Thank in advance
 
 ---------------
 
-Author: @allssu
-Upvotes: 1
-Comments: 0
+**Author**: @allssu
+**Upvotes**: 1
+**Comments**: 0
 
 Hello. I'm making stuff with amplify. I am not using the amplify CLI, and I am connecting Cognito, Appsync, and DynamoDB using CDK.
 **I have a question while using Amplify.configure.** 
@@ -35469,9 +35469,9 @@ I want to hear an easy explanation for me! I love you~ :)
 
 ---------------
 
-Author: @masapasa
-Upvotes: 2
-Comments: 0
+**Author**: @masapasa
+**Upvotes**: 2
+**Comments**: 0
 
 Module not found: Can't resolve '../aws-exports' in '/codebuild/output/src240068493/src/nnews/next/pages'
 build:
@@ -35488,9 +35488,9 @@ While deploying through the console with an ECR image
 
 ---------------
 
-Author: @iamsteveng
-Upvotes: 2
-Comments: 0
+**Author**: @iamsteveng
+**Upvotes**: 2
+**Comments**: 0
 
 Hi there, I found that all the `description` fields in the schema.json are all `null`.  This makes graphql documentation generator not possible to have meaningful descriptions for all APIs. Any way to input `description` for each mutation at least?
 
@@ -35502,9 +35502,9 @@ Hi there, I found that all the `description` fields in the schema.json are all `
 
 ---------------
 
-Author: @skulljoi
-Upvotes: 1
-Comments: 0
+**Author**: @skulljoi
+**Upvotes**: 1
+**Comments**: 0
 
 I am trying to build: `yarn build --scope @aws-amplify/ui-components` but an error is occuring:
 
@@ -35663,9 +35663,9 @@ anyone know how to fix it?
 
 ---------------
 
-Author: @platium111
-Upvotes: 1
-Comments: 0
+**Author**: @platium111
+**Upvotes**: 1
+**Comments**: 0
 
 Hi everyone,
 In one-to-many (Customer has many Contracts) relation, I want to create a new record in the Customer table and many contracts for this customer. Basically, when I create the new Customer, I get customer id back, then in Contract table, I will put customer ID into createContracts mutation (for example: contractCustomerId). But if the mutation fails in createContracts, the customer should not be added. Here is my table
@@ -35745,9 +35745,9 @@ What should be the solution for it?. Thanks for your help.
 
 ---------------
 
-Author: @gruckionvit
-Upvotes: 1
-Comments: 0
+**Author**: @gruckionvit
+**Upvotes**: 1
+**Comments**: 0
 
 When using `amplify mock api` this switches the end point the `aws-exports.js` file so that graphql is pointing to the local instance. What is the intended way to switch back to the cloud?
 
@@ -35761,9 +35761,9 @@ Currently I have found typing `amplify init` will do the job but this seems a li
 
 ---------------
 
-Author: @myfairshare
-Upvotes: 1
-Comments: 0
+**Author**: @myfairshare
+**Upvotes**: 1
+**Comments**: 0
 
 Hello,
 
@@ -35784,9 +35784,9 @@ Is it possible to maybe combine them, ie sign in to the app on the wordpress sit
 
 ---------------
 
-Author: @ericclemmons
-Upvotes: 1
-Comments: 4
+**Author**: @ericclemmons
+**Upvotes**: 1
+**Comments**: 4
 
 _This issue is a Request For Comments (RFC). It is intended to elicit community feedback regarding a proposed change to the library. Please feel free to post comments or questions here._
 
@@ -35907,9 +35907,9 @@ Pinning has been released via https://github.com/aws-amplify/amplify-js/pull/704
 
 ---------------
 
-Author: @charleslouis
-Upvotes: 1
-Comments: 1
+**Author**: @charleslouis
+**Upvotes**: 1
+**Comments**: 1
 
 Hi 👋
 
@@ -35942,9 +35942,9 @@ nah no sns needed. use post confirmation trigger.
 
 ---------------
 
-Author: @ulisescarreonalvarez
-Upvotes: 1
-Comments: 0
+**Author**: @ulisescarreonalvarez
+**Upvotes**: 1
+**Comments**: 0
 
 **Describe the bug**
 We wan't to add Facebook login on our react application, we actually use only Google, we add the configuration and created the app on Facebook, we add the mapping attributes but only with Facebook we are getting this error:
@@ -36024,9 +36024,9 @@ const awsConfig = {
 
 ---------------
 
-Author: @ricardoribas
-Upvotes: 1
-Comments: 0
+**Author**: @ricardoribas
+**Upvotes**: 1
+**Comments**: 0
 
 Hi folks, i would to ask a couple of questions about the CI/CD process regarding the amplify web applications. I am using at the moment to build one web application, but i would like to know more about all the steps taken to perform it. I didn't find any sort of documentation that would explain all the steps. Preferably, if you guys can recommend some github pages that deeply describe, i would appreciate. 
 
@@ -36040,9 +36040,9 @@ Additionally, there is any way to access old bundle files? In order to debug old
 
 ---------------
 
-Author: @Johnniexson
-Upvotes: 1
-Comments: 1
+**Author**: @Johnniexson
+**Upvotes**: 1
+**Comments**: 1
 
 Hello, it seems there is no way to pass parameters to subscriptions with arguments.
 
@@ -36177,9 +36177,9 @@ Is this a defect in how the Angular API service is being generated from the subs
 
 ---------------
 
-Author: @mrichman
-Upvotes: 1
-Comments: 3
+**Author**: @mrichman
+**Upvotes**: 1
+**Comments**: 3
 
 There is no documentation on how to hide the signup link and text. This is the "No account? Create account" prompt.
 ## Comment
@@ -36224,9 +36224,9 @@ Looking at the source, you can pass 'hide-sign-up' as a boolean:
 
 ---------------
 
-Author: @niloy369
-Upvotes: 1
-Comments: 0
+**Author**: @niloy369
+**Upvotes**: 1
+**Comments**: 0
 
 I'm using angular ui component. I'm wishing to customize the secondary footer content but keeping the original content also. I'm facing issue redirecting to signup page. My code is following
 
@@ -36250,9 +36250,9 @@ My issue is clicking on the create account link doesn't redirect to sign up page
 
 ---------------
 
-Author: @myfairshare
-Upvotes: 1
-Comments: 1
+**Author**: @myfairshare
+**Upvotes**: 1
+**Comments**: 1
 
 Hello,
 
@@ -36280,9 +36280,9 @@ on the serverside: https://docs.amplify.aws/lib/predictions/label-image/q/platfo
 
 ---------------
 
-Author: @yaquawa
-Upvotes: 3
-Comments: 0
+**Author**: @yaquawa
+**Upvotes**: 3
+**Comments**: 0
 
 I found a lib that adds a `@default` directive to set a default value.
 
@@ -36300,9 +36300,9 @@ Is there any official way to assign a default value for schema ?
 
 ---------------
 
-Author: @purbanow
-Upvotes: 1
-Comments: 0
+**Author**: @purbanow
+**Upvotes**: 1
+**Comments**: 0
 
 Hi
 
@@ -36318,9 +36318,9 @@ Thanks a lot!
 
 ---------------
 
-Author: @hmisonne
-Upvotes: 1
-Comments: 2
+**Author**: @hmisonne
+**Upvotes**: 1
+**Comments**: 2
 
 I would like to know how to set up Redux to make sure it only dispatch actions when the sync is completed. Currently, I am dispatching actions after querying the DataStore. 
 
@@ -36473,9 +36473,9 @@ Feel free to comment if you have a better idea on how to implement Redux with Se
 
 ---------------
 
-Author: @anand-010
-Upvotes: 1
-Comments: 1
+**Author**: @anand-010
+**Upvotes**: 1
+**Comments**: 1
 
 My problem is more related to a real-time chat application with multiple chat rooms.
 I want to filter each message and send it to users who subscribed to the same chatrooms. (not filtering on client-side)
@@ -36507,9 +36507,9 @@ const subscription = DataStore.observe(Post, id).subscribe(msg => {
 
 ---------------
 
-Author: @hmisonne
-Upvotes: 1
-Comments: 1
+**Author**: @hmisonne
+**Upvotes**: 1
+**Comments**: 1
 
 I would like to get data synchronized based on their parent relationship. In my scenario, a GroceryList (parent) can have multiple Products (child). I've described my app on this ticket #7128. 
 
@@ -36577,9 +36577,9 @@ DataStore.configure({
 
 ---------------
 
-Author: @darylalexjohnson
-Upvotes: 1
-Comments: 0
+**Author**: @darylalexjohnson
+**Upvotes**: 1
+**Comments**: 0
 
 [Documentation](https://docs.amplify.aws/lib/auth/advanced/q/platform/js#token-refresh) gives sample for refreshing token with another federated provider. However, I'm seeing the "other" federated provider must still authenticate with Cognito Identity Pools https://github.com/aws-amplify/amplify-js/blob/main/packages/core/src/Credentials.ts#L352.  Is there a work around solution for refreshing the token without Identity Pools?
 
@@ -36591,9 +36591,9 @@ Comments: 0
 
 ---------------
 
-Author: @yaquawa
-Upvotes: 1
-Comments: 0
+**Author**: @yaquawa
+**Upvotes**: 1
+**Comments**: 0
 
 Is it possible to have a user signup flow like this?
 
@@ -36615,9 +36615,9 @@ anyone know how to do this? Thanks!
 
 ---------------
 
-Author: @ifmael
-Upvotes: 1
-Comments: 1
+**Author**: @ifmael
+**Upvotes**: 1
+**Comments**: 1
 
 I'm trying the selective sync feature for the Datastore and I don't know how i can sync my model from a list of items returned from a promise.
 
@@ -36653,9 +36653,9 @@ Hey @ifmael, please try the following: https://github.com/aws-amplify/amplify-js
 
 ---------------
 
-Author: @hmisonne
-Upvotes: 1
-Comments: 0
+**Author**: @hmisonne
+**Upvotes**: 1
+**Comments**: 0
 
 I would like to add unit tests to all my calls to the Amplify DataStore using jest and I am wondering what are the best practices.
 
@@ -36729,9 +36729,9 @@ Thank you for your help!
 
 ---------------
 
-Author: @ChihweiLHBird
-Upvotes: 1
-Comments: 0
+**Author**: @ChihweiLHBird
+**Upvotes**: 1
+**Comments**: 0
 
 I have a web app that's written in React, and I also have a Chrome extension written in html and javascript without frameworks.
 
@@ -36748,9 +36748,9 @@ I like to make my Chrome extension able to check the login state of the web app 
 
 ---------------
 
-Author: @tnorlund
-Upvotes: 1
-Comments: 0
+**Author**: @tnorlund
+**Upvotes**: 1
+**Comments**: 0
 
 I'm using the Amplify SDK to setup a REST endpoint. I set up the lambda function by editing the default lambda function created by amplify:
 ```js
@@ -36815,9 +36815,9 @@ Any idea how I can get this to work on the frontend?
 
 ---------------
 
-Author: @superphung
-Upvotes: 1
-Comments: 1
+**Author**: @superphung
+**Upvotes**: 1
+**Comments**: 1
 
 Hi,
 I have the same problem as this issue and the answers don't work for me.
@@ -36864,9 +36864,9 @@ This is a required modification for my PWA - will this be addressed in the near 
 
 ---------------
 
-Author: @hmisonne
-Upvotes: 1
-Comments: 1
+**Author**: @hmisonne
+**Upvotes**: 1
+**Comments**: 1
 
 I am working on a **Shareable Grocery Shopping List app** that I developed on React Native with **AWS Amplify** and **AppSync**. Currently a user will receive the complete database which is not ideal. 
 
@@ -36983,9 +36983,9 @@ This will cause DataStore to re-evaluate that sync expression and apply the new 
 
 ---------------
 
-Author: @samputer
-Upvotes: 1
-Comments: 1
+**Author**: @samputer
+**Upvotes**: 1
+**Comments**: 1
 
 Hi,
 
@@ -37017,9 +37017,9 @@ You'll need to do this every time after running `amplify codegen models` since t
 
 ---------------
 
-Author: @yaquawa
-Upvotes: 1
-Comments: 1
+**Author**: @yaquawa
+**Upvotes**: 1
+**Comments**: 1
 
 For example I have the following schema
 ```graphql
@@ -37074,9 +37074,9 @@ type Post @model @auth(rules: [
 
 ---------------
 
-Author: @corasan
-Upvotes: 1
-Comments: 0
+**Author**: @corasan
+**Upvotes**: 1
+**Comments**: 0
 
 I need help setting up Firebase Auth + Amplify GraphQL. I'm trying to log in using federated sign with securetoken.google.com/PROJECT-ID as the provider, and it seems to log in alright because when I call `Auth.currentAuthenticatedUser()` I get the token, and when listening to Hub "signIn" event I get the token. My problem is making authenticated requests to my GraphQL API.
 
@@ -37123,9 +37123,9 @@ When calling `Auth.currentSession()` I get "No current user". Also, I do see the
 
 ---------------
 
-Author: @stayingcool
-Upvotes: 1
-Comments: 7
+**Author**: @stayingcool
+**Upvotes**: 1
+**Comments**: 7
 
 **Issue**
 Storage.list is returning an incorrect list of files.
@@ -37291,9 +37291,9 @@ Thank you for your time, we can close this issue.
 
 ---------------
 
-Author: @mrichman
-Upvotes: 1
-Comments: 1
+**Author**: @mrichman
+**Upvotes**: 1
+**Comments**: 1
 
 I'm using the Storage APIs, and I see it creating `/private/<identity_id>/foo.txt` etc. However, there's no obvious way to see which user pool user this `<identity_id>` maps to.
 
@@ -37337,9 +37337,9 @@ I suppose I can use this as a lookup if needed.
 
 ---------------
 
-Author: @adsk-alexand
-Upvotes: 1
-Comments: 1
+**Author**: @adsk-alexand
+**Upvotes**: 1
+**Comments**: 1
 
 https://github.com/aws-amplify/amplify-js/blob/958f61ef2918728cc46b9b210d60e868edd87f39/packages/storage/src/providers/AWSS3Provider.ts#L395
 ## Comment
@@ -37359,9 +37359,9 @@ S3 does have a limit as to how many records can be returned in a single request.
 
 ---------------
 
-Author: @roysailor
-Upvotes: 1
-Comments: 0
+**Author**: @roysailor
+**Upvotes**: 1
+**Comments**: 0
 
 Hey, 
 
@@ -37473,9 +37473,9 @@ Any clue how to achieve this? Please guide.
 
 ---------------
 
-Author: @ffxsam
-Upvotes: 1
-Comments: 1
+**Author**: @ffxsam
+**Upvotes**: 1
+**Comments**: 1
 
 Should we be keeping our Cognito user pool ID secure (maybe obfuscate it in the client)? I've realized something, that if someone obtains the user pool ID, then they can grab the keys via:
 
@@ -37501,9 +37501,9 @@ I'm relatively new to working with JWTs. 😬
 
 ---------------
 
-Author: @andrei-gheorghiu
-Upvotes: 1
-Comments: 1
+**Author**: @andrei-gheorghiu
+**Upvotes**: 1
+**Comments**: 1
 
 It looks like they contain a lot of overlapping content. Found a few guides and tutorials featuring one or the other. They have both been updated 3 days ago and they seem to have the same contributors. 
 
@@ -37530,9 +37530,9 @@ To me it seems that vue-ui is the modern way of injecting Amplify components int
 
 ---------------
 
-Author: @castledraw
-Upvotes: 1
-Comments: 0
+**Author**: @castledraw
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, everybody
 
@@ -37549,9 +37549,9 @@ I can't create another appclient without secret key, because elasticsearch use a
 
 ---------------
 
-Author: @Raghvendra0601
-Upvotes: 1
-Comments: 0
+**Author**: @Raghvendra0601
+**Upvotes**: 1
+**Comments**: 0
 
 I am handling remote push notification in foreground state for react native app. Below is code of onNotification handler
 
@@ -37577,9 +37577,9 @@ When callback is made to onNotification handler then for android I am getting no
 
 ---------------
 
-Author: @roysailor
-Upvotes: 1
-Comments: 1
+**Author**: @roysailor
+**Upvotes**: 1
+**Comments**: 1
 
 Hey,
 
@@ -37604,9 +37604,9 @@ amplify uses web components under the hood. apply css or css variables directly.
 
 ---------------
 
-Author: @yaquawa
-Upvotes: 1
-Comments: 1
+**Author**: @yaquawa
+**Upvotes**: 1
+**Comments**: 1
 
 I'm reading https://docs.amplify.aws/cli/usage/lambda-triggers#set-up-lambda-triggers
 
@@ -37640,9 +37640,9 @@ i think you can run `amplify configure auth` and look for manual options.
 
 ---------------
 
-Author: @0x54321
-Upvotes: 1
-Comments: 0
+**Author**: @0x54321
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 I have configured a User Group to require MFA (TOTP), and added the AmplifyTotpSetup component to my app. However, the verification flow simply does not work.
@@ -37661,9 +37661,9 @@ Thank you.
 
 ---------------
 
-Author: @antimonad
-Upvotes: 1
-Comments: 1
+**Author**: @antimonad
+**Upvotes**: 1
+**Comments**: 1
 
 Ahoi all,
 
@@ -37696,9 +37696,9 @@ tia,cheers
 
 ---------------
 
-Author: @htunnicliff
-Upvotes: 2
-Comments: 0
+**Author**: @htunnicliff
+**Upvotes**: 2
+**Comments**: 0
 
 We are using `amazon-cognito-identity-js` pretty heavily at my organization. Right now, we are forced to write wrappers around most of the library in order to use promises instead of callbacks. 
 
@@ -37730,9 +37730,9 @@ Is this sort of alteration a favorable improvement @ericclemmons, @sammartinez, 
 
 ---------------
 
-Author: @ekailly
-Upvotes: 1
-Comments: 0
+**Author**: @ekailly
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, 
 
@@ -37750,9 +37750,9 @@ I can share my configuration details if necessary, but it would be really awesom
 
 ---------------
 
-Author: @john-redd
-Upvotes: 1
-Comments: 1
+**Author**: @john-redd
+**Upvotes**: 1
+**Comments**: 1
 
 I'm trying to implement a custom storage solution to avoid having the Cognito JWT's stored in localStorage or on a non httpOnly cookie, but there isn't very good documentation on all the methods that need to be defined in the custom Storage class that gets passed to the Amplify configure method.
 
@@ -37784,9 +37784,9 @@ Author: @Rajan-Gupta1
 
 ---------------
 
-Author: @daviddeslauriers
-Upvotes: 1
-Comments: 1
+**Author**: @daviddeslauriers
+**Upvotes**: 1
+**Comments**: 1
 
 So here's my situation...I have two React apps that need to talk to the same Cognito User Pool. I've been able to accomplish this by copying the aws-exports.js file from the first app to the second app I created (not sure if this is something I should be doing or not but it is working). The issue I am having however is when I run an Admin Query on the second app (to say list users in the Cognito User Pool) I get a 403 (Forbidden) error. Has anyone ever run into this before? Googling all day has not helped me so I figured I would ask.
 ## Comment
@@ -37807,9 +37807,9 @@ If you wanted this to leverage another User Pool you could potentially alter thi
 
 ---------------
 
-Author: @vrebo
-Upvotes: 1
-Comments: 1
+**Author**: @vrebo
+**Upvotes**: 1
+**Comments**: 1
 
 Hi community!.
 
@@ -37844,9 +37844,9 @@ From @dabit3 in the #graphql-help Channel in Discord.
 
 ---------------
 
-Author: @paulsjohnson91
-Upvotes: 1
-Comments: 0
+**Author**: @paulsjohnson91
+**Upvotes**: 1
+**Comments**: 0
 
 I've given users the ability to log into a react native app with facebook federated sign in using aws amplify hosted UI.
 I'm trying to work out how to give the user the ability to see their facebook friends to add them on the app, is there a way to do this? I guess I'd need an auth token for facebook api.
@@ -37859,9 +37859,9 @@ I'm trying to work out how to give the user the ability to see their facebook fr
 
 ---------------
 
-Author: @RoniFinTech
-Upvotes: 1
-Comments: 0
+**Author**: @RoniFinTech
+**Upvotes**: 1
+**Comments**: 0
 
 I tried playing with the Cognito User Pool setup properties and I can either have username unique or email uniqu but never both unique.
 Is it even possible>?
@@ -37874,9 +37874,9 @@ Is it even possible>?
 
 ---------------
 
-Author: @Rajan-Gupta1
-Upvotes: 1
-Comments: 0
+**Author**: @Rajan-Gupta1
+**Upvotes**: 1
+**Comments**: 0
 
 I have been able to integrate Angular UI Comp and auth seems to be working fine. However the problem I am having is not knowing where to put code to route the user to home component when AuthGuard is enabled and router-outlet is in-place. I need to route user to by doing this
 this.router.navigate(['/home']) but do not understand where to put that.
@@ -37890,9 +37890,9 @@ this.router.navigate(['/home']) but do not understand where to put that.
 
 ---------------
 
-Author: @joshuafernandes1996
-Upvotes: 1
-Comments: 0
+**Author**: @joshuafernandes1996
+**Upvotes**: 1
+**Comments**: 0
 
 I am trying to Sign in using "LoginWithAmazon", See code below
 
@@ -37955,9 +37955,9 @@ Any help would be appreciated.
 
 ---------------
 
-Author: @Zinga9
-Upvotes: 1
-Comments: 0
+**Author**: @Zinga9
+**Upvotes**: 1
+**Comments**: 0
 
 Hi there,
 
@@ -37993,9 +37993,9 @@ Can someone guide me in getting this worked.
 
 ---------------
 
-Author: @sharayup12
-Upvotes: 1
-Comments: 0
+**Author**: @sharayup12
+**Upvotes**: 1
+**Comments**: 0
 
 Hi there,
 
@@ -38045,9 +38045,9 @@ busy p...
 
 ---------------
 
-Author: @rohanbam
-Upvotes: 1
-Comments: 0
+**Author**: @rohanbam
+**Upvotes**: 1
+**Comments**: 0
 
 Does the aws-amplify/amplify-js work inside cloudflare workers where there is no node.js environment but a javascript v8 isolate instead?
 
@@ -38059,9 +38059,9 @@ Does the aws-amplify/amplify-js work inside cloudflare workers where there is no
 
 ---------------
 
-Author: @lexfaraday
-Upvotes: 1
-Comments: 0
+**Author**: @lexfaraday
+**Upvotes**: 1
+**Comments**: 0
 
 Hello,
 Following this example to call a mutation from a Lambda/NodeJS https://docs.amplify.aws/lib/graphqlapi/graphql-from-nodejs/q/platform/js#mutation the mutation specification (createTodo) is hardcoded, this is hard to maintain, the question is, how can import the generated mutation code by "amplify cli" inside a Lambda and use the API utility from AWS libraries?
@@ -38078,9 +38078,9 @@ Thanks in advance!
 
 ---------------
 
-Author: @simon-zhangmuye
-Upvotes: 1
-Comments: 0
+**Author**: @simon-zhangmuye
+**Upvotes**: 1
+**Comments**: 0
 
 Here is my schema.graphql file.
 `type Post @model
@@ -38176,9 +38176,9 @@ When I use amplify push, the console gives me this error.
 
 ---------------
 
-Author: @simon-zhangmuye
-Upvotes: 1
-Comments: 0
+**Author**: @simon-zhangmuye
+**Upvotes**: 1
+**Comments**: 0
 
 I just learn AWS Amplify and want to add a new sort key in my schema.graphql.
 When I use amplify push, it rises an error "you cannot add a local secondary index in your dynamodb, local secondary indexes can only be created when creating dynamodb".
@@ -38192,9 +38192,9 @@ What should I do in this case？
 
 ---------------
 
-Author: @An0r4k
-Upvotes: 1
-Comments: 0
+**Author**: @An0r4k
+**Upvotes**: 1
+**Comments**: 0
 
 Problem: Unable to update the notifications to use FCM.
 
@@ -38232,9 +38232,9 @@ Now I went back to my repo and tried to pull from the AWS cloud to update my wor
 
 ---------------
 
-Author: @duncangroenewald
-Upvotes: 1
-Comments: 0
+**Author**: @duncangroenewald
+**Upvotes**: 1
+**Comments**: 0
 
 I am trying to get a list of video objects with some properties of related objects.
 
@@ -38517,9 +38517,9 @@ BTW this is the error from the Lambda function:
 
 ---------------
 
-Author: @sukidhar
-Upvotes: 1
-Comments: 0
+**Author**: @sukidhar
+**Upvotes**: 1
+**Comments**: 0
 
  What role lets me to have the access to cognito user pool data
 
@@ -38531,9 +38531,9 @@ Comments: 0
 
 ---------------
 
-Author: @lochawala
-Upvotes: 1
-Comments: 3
+**Author**: @lochawala
+**Upvotes**: 1
+**Comments**: 3
 
 **Describe the bug**
 when i add auth in amplify and removing email from required attribute still it's create as required  
@@ -38608,9 +38608,9 @@ If you want your users to sign in with email and phone number it will become req
 
 ---------------
 
-Author: @kimfucious
-Upvotes: 1
-Comments: 1
+**Author**: @kimfucious
+**Upvotes**: 1
+**Comments**: 1
 
 Hi there,
 
@@ -38683,9 +38683,9 @@ Then `amplify push` and you should be good.  You might need to redeploy the API 
 
 ---------------
 
-Author: @vrebo
-Upvotes: 1
-Comments: 1
+**Author**: @vrebo
+**Upvotes**: 1
+**Comments**: 1
 
 Hi community!.
 
@@ -38713,9 +38713,9 @@ From @undefobj in the [DataStore Discord Channel](https://discord.gg/gmvQz8r)
 
 ---------------
 
-Author: @simon-zhangmuye
-Upvotes: 1
-Comments: 0
+**Author**: @simon-zhangmuye
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 
@@ -38733,9 +38733,9 @@ Thank you very much.
 
 ---------------
 
-Author: @sw-yx
-Upvotes: 2
-Comments: 1
+**Author**: @sw-yx
+**Upvotes**: 2
+**Comments**: 1
 
 **Is your feature request related to a problem? Please describe.**
 
@@ -38773,9 +38773,9 @@ Author: @ashika01
 
 ---------------
 
-Author: @drixta
-Upvotes: 1
-Comments: 1
+**Author**: @drixta
+**Upvotes**: 1
+**Comments**: 1
 
 **Describe the bug**
 
@@ -38855,9 +38855,9 @@ Author: @ashika01
 
 ---------------
 
-Author: @duncangroenewald
-Upvotes: 1
-Comments: 1
+**Author**: @duncangroenewald
+**Upvotes**: 1
+**Comments**: 1
 
 Describe the bug
 When building Frontend with AWS CI/CD we are now getting this error.
@@ -38895,9 +38895,9 @@ Author: @ashika01
 
 ---------------
 
-Author: @tnorlund
-Upvotes: 1
-Comments: 1
+**Author**: @tnorlund
+**Upvotes**: 1
+**Comments**: 1
 
 Hey guys!
 
@@ -39028,9 +39028,9 @@ Are there any other steps I need to take to query the data?
 
 ---------------
 
-Author: @AndreasLangberg
-Upvotes: 1
-Comments: 0
+**Author**: @AndreasLangberg
+**Upvotes**: 1
+**Comments**: 0
 
 I'm trying to do something I would have thought should be fairly simply: Upload profile pictures from users (logged in with Cognito through Amplify.Auth) to S3. But for whatever reason, even if the user logs in correctly, Storage doesn't seem to be able to make use of the credentials, and tries to use "undefined" as its user, which is then promptly denied.
 
@@ -39085,9 +39085,9 @@ Anyone have any ideas how to approach this, or at the very least a way to get be
 
 ---------------
 
-Author: @twoandahalf2
-Upvotes: 1
-Comments: 0
+**Author**: @twoandahalf2
+**Upvotes**: 1
+**Comments**: 0
 
 hello , i have added federated identities to my React.js application and all worked good initially, however after a few hours the user is not able to log back in. -->  "Error: Cannot retrieve a new session. Please authenticate."
 
@@ -39125,9 +39125,9 @@ To me, the issue is related to the expiration of the user token. However, i am n
 
 ---------------
 
-Author: @
-Upvotes: 1
-Comments: 0
+**Author**: @
+**Upvotes**: 1
+**Comments**: 0
 
 How can I make the width of the sign in button 100% to the authenticators div?
 I can hide the sign-up link using **hide-sign-up** in the amplify-sign-in tag but couldn't customize the sign in button.
@@ -39152,9 +39152,9 @@ Can anyone help me? Thanks
 
 ---------------
 
-Author: @ifmael
-Upvotes: 1
-Comments: 0
+**Author**: @ifmael
+**Upvotes**: 1
+**Comments**: 0
 
 I'm listening for Datastore events through the Hub, but after update "aws-amplify" to the latest version, the datastore doesn't sync, Why is it happen?
 
@@ -39190,9 +39190,9 @@ but it doesn't sync the `Content` Model, ¿Is there another way to work with Dat
 
 ---------------
 
-Author: @chai86
-Upvotes: 1
-Comments: 0
+**Author**: @chai86
+**Upvotes**: 1
+**Comments**: 0
 
 @sammartinez  @manueliglesias 
 
@@ -39208,9 +39208,9 @@ How can i set them all to true/false in one go?
 
 ---------------
 
-Author: @mogalmahesh
-Upvotes: 1
-Comments: 0
+**Author**: @mogalmahesh
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, 
 **Usecase:**
@@ -39240,9 +39240,9 @@ Thanks in advance for your help and guidance.
 
 ---------------
 
-Author: @ripley
-Upvotes: 1
-Comments: 0
+**Author**: @ripley
+**Upvotes**: 1
+**Comments**: 0
 
 Dear community
 
@@ -39279,9 +39279,9 @@ Regards.
 
 ---------------
 
-Author: @tabrza
-Upvotes: 1
-Comments: 1
+**Author**: @tabrza
+**Upvotes**: 1
+**Comments**: 1
 
 I can't find how to style the React Chatbot widget shared by amplify js.. 
 The following is provided in the instructions but there is a lack of documentation around how to use this:
@@ -39325,9 +39325,9 @@ just catching up on this. interesting! did you end up figuring it out?
 
 ---------------
 
-Author: @Ajwah
-Upvotes: 1
-Comments: 1
+**Author**: @Ajwah
+**Upvotes**: 1
+**Comments**: 1
 
 My objective here is to use the UI-package and theme it accordingly; but it seems to me that the flow is broken on at least two levels:
 
@@ -39419,9 +39419,9 @@ i think @jordanranz can help you with the second part, but for the first part, t
 
 ---------------
 
-Author: @fireflysemantics
-Upvotes: 1
-Comments: 1
+**Author**: @fireflysemantics
+**Upvotes**: 1
+**Comments**: 1
 
 These are the original instructions I looked at, but perhaps we no longer need to do this:
 
@@ -39458,9 +39458,9 @@ I'm still having this issue, have you came up with a solution about this issue?
 
 ---------------
 
-Author: @dfang
-Upvotes: 1
-Comments: 2
+**Author**: @dfang
+**Upvotes**: 1
+**Comments**: 2
 
 Hi,
 
@@ -39534,9 +39534,9 @@ export default function CustomSignUp() {
 
 ---------------
 
-Author: @clethrill
-Upvotes: 1
-Comments: 0
+**Author**: @clethrill
+**Upvotes**: 1
+**Comments**: 0
 
 I'm trying to use Single Sign On with Xero, Cognito and Amplify, I've got to the point of getting access tokens for the Xero auth but I don't know how to tell my react app to use these credentials to sign my user in.
 
@@ -39571,9 +39571,9 @@ What do I do with these tokens to login using the Auth class? Auth.federatedSign
 
 ---------------
 
-Author: @Nxtra
-Upvotes: 1
-Comments: 0
+**Author**: @Nxtra
+**Upvotes**: 1
+**Comments**: 0
 
 Adding `@auth` to a graphQL type will add an `owner` attribute in DynamoDB.
 This attribute is not part of the primary key.
@@ -39589,9 +39589,9 @@ And does that implementation heavily impact peformance?
 
 ---------------
 
-Author: @ifmael
-Upvotes: 1
-Comments: 0
+**Author**: @ifmael
+**Upvotes**: 1
+**Comments**: 0
 
 I'm developing an app with the entry point is a login page. I'm using the datastore.
 If a user sing-in correctly in the app,  the datastore start (`await DataStore.start();`) to sync all the content, but I've thousand of items in differents model so the datastore is `ready`  after 10 seconds. This is a long time showing a spinner waiting for datastore. 
@@ -39606,9 +39606,9 @@ Is there any way to do this sync faster? or any way to ask for the specific cont
 
 ---------------
 
-Author: @nguyenkien1402
-Upvotes: 1
-Comments: 0
+**Author**: @nguyenkien1402
+**Upvotes**: 1
+**Comments**: 0
 
 Hi guys,
 
@@ -39637,9 +39637,9 @@ I am using ui-react: "^0.2.21"
 
 ---------------
 
-Author: @MattM31
-Upvotes: 1
-Comments: 0
+**Author**: @MattM31
+**Upvotes**: 1
+**Comments**: 0
 
 I've built my web app and I have a page where it has a table of requests and when you click on a request it changes the state which then changes the content dispalyed on the page to the request details (url dosent change). But to load that data it calls an API, and I kept getting 401 errors if the token had expired so I think I need to call Auth.currentAuthenticatedUser at the start of the api call to get/refesh the tokens. But when I call Auth.currentAuthenticatedUser it completes successfully but its adding ?category=0 to the url, which is triggering react router to navigate back to the table view again. Is there a way to prevent Auth.currentAuthenticatedUser from changing the url or do I need to re-write my application to make the request details page have its own url and route so when the url changes the page dosent redirect back?
 
@@ -39651,9 +39651,9 @@ I've built my web app and I have a page where it has a table of requests and whe
 
 ---------------
 
-Author: @danhaab
-Upvotes: 1
-Comments: 0
+**Author**: @danhaab
+**Upvotes**: 1
+**Comments**: 0
 
 I've got a model type that I only want users of specific groups to be able to create, but any logged in user seems to be able to create the object. Other operation permissions seem to be respected (e.g. read).
 
@@ -39684,9 +39684,9 @@ What am I doing wrong here?
 
 ---------------
 
-Author: @edfenergy-stevebowerman
-Upvotes: 1
-Comments: 1
+**Author**: @edfenergy-stevebowerman
+**Upvotes**: 1
+**Comments**: 1
 
 Hi,
 
@@ -39715,9 +39715,9 @@ Author: @MC313
 
 ---------------
 
-Author: @emilycarr36
-Upvotes: 1
-Comments: 0
+**Author**: @emilycarr36
+**Upvotes**: 1
+**Comments**: 0
 
 Hi all,
 
@@ -39737,9 +39737,9 @@ Any ideas of what I can do would be great please :)
 
 ---------------
 
-Author: @patelatharva
-Upvotes: 1
-Comments: 0
+**Author**: @patelatharva
+**Upvotes**: 1
+**Comments**: 0
 
 I have followed the steps of adding storage, have added create/update and read permission to relevant group via cli. I have assigned relevant role to the user via Cognito UI. Is there anything remaining to be done to let this user put objects in S3 bucket?
 
@@ -39752,9 +39752,9 @@ I have followed the steps of adding storage, have added create/update and read p
 
 ---------------
 
-Author: @jdmwood
-Upvotes: 4
-Comments: 0
+**Author**: @jdmwood
+**Upvotes**: 4
+**Comments**: 0
 
 Hi there,
 
@@ -39782,9 +39782,9 @@ Thanks!
 
 ---------------
 
-Author: @parth4992
-Upvotes: 1
-Comments: 0
+**Author**: @parth4992
+**Upvotes**: 1
+**Comments**: 0
 
 I want to facilitate alexa account linking through my amplify app. I want the user to sign in to the amplify web app, change alexa settings (pincode) and then notify alexa skill about link successful.
 
@@ -39808,9 +39808,9 @@ I am not sure if anyone has implemented this or not. or if there is another way 
 
 ---------------
 
-Author: @MuhaddiMu
-Upvotes: 1
-Comments: 0
+**Author**: @MuhaddiMu
+**Upvotes**: 1
+**Comments**: 0
 
 In my Application, I am using Amplify Auth module for user authentication. 
 
@@ -39830,9 +39830,9 @@ Any help would be highly appreciated.
 
 ---------------
 
-Author: @aldrindoinwork
-Upvotes: 1
-Comments: 0
+**Author**: @aldrindoinwork
+**Upvotes**: 1
+**Comments**: 0
 
 Hello guys! I'm trying to install amplify in my React Native project but I cannot proceed with the amplify init.
 
@@ -39875,9 +39875,9 @@ Below is the error that I am receiving:
 
 ---------------
 
-Author: @jpmoreau2
-Upvotes: 1
-Comments: 1
+**Author**: @jpmoreau2
+**Upvotes**: 1
+**Comments**: 1
 
 **Describe the bug**
 I am using amplify react sdk to create a login oauth path.  Because I read in a past post that the Cognito hosted UI could not be used to setup TOTP (dating from 2017 and I was not able to find anything updated about this), I decided to go with react for this setup.
@@ -39994,9 +39994,9 @@ I'm ashamed
 
 ---------------
 
-Author: @lochawala
-Upvotes: 1
-Comments: 0
+**Author**: @lochawala
+**Upvotes**: 1
+**Comments**: 0
 
 Hello All 
 
@@ -40039,9 +40039,9 @@ type UsersAndOrgs
 
 ---------------
 
-Author: @jeff1evesque
-Upvotes: 1
-Comments: 0
+**Author**: @jeff1evesque
+**Upvotes**: 1
+**Comments**: 0
 
 I'm attempting to utilize the amplify documentation:
 
@@ -40138,9 +40138,9 @@ Which unfortunately generates the following error:
 
 ---------------
 
-Author: @xterikatx
-Upvotes: 1
-Comments: 0
+**Author**: @xterikatx
+**Upvotes**: 1
+**Comments**: 0
 
 ### - I've been having this problem for weeks, and I still couldn't solve it, I have a document on the google drive that contains all the images of settings made in my application. [MORE DETAILS](https://docs.google.com/document/d/1S9_RCwxvZYVJ-lAI8ZEVHL6ApGN2lQcRrtBE9cTz5jo/edit)
 
@@ -40328,9 +40328,9 @@ dependencies {
 
 ---------------
 
-Author: @ericclemmons
-Upvotes: 1
-Comments: 1
+**Author**: @ericclemmons
+**Upvotes**: 1
+**Comments**: 1
 
 **Is your feature request related to a problem? Please describe.**
 
@@ -40373,9 +40373,9 @@ We have a chance to export with a better name, `GRAPHQL_AUTH_MODE` can be a litt
 
 ---------------
 
-Author: @ShehryarKh
-Upvotes: 1
-Comments: 0
+**Author**: @ShehryarKh
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, I need some help.
 
@@ -40419,9 +40419,9 @@ Is there a better way to store images than just storing the path?
 
 ---------------
 
-Author: @elaidlaw
-Upvotes: 1
-Comments: 0
+**Author**: @elaidlaw
+**Upvotes**: 1
+**Comments**: 0
 
 We're using aws-amplify-react-native with Cognito to manage user authentication for our iOS app. On the Cognito user pool, we have the following settings configured:
 
@@ -40445,9 +40445,9 @@ Any ideas why Amplify and Cognito aren't remembering devices properly? Also of n
 
 ---------------
 
-Author: @minimalistinnovator
-Upvotes: 1
-Comments: 1
+**Author**: @minimalistinnovator
+**Upvotes**: 1
+**Comments**: 1
 
 I have created recommenders and campaigns in AWS Personalize. However, all the examples are using Python and could not find any examples to plug into AWS Amplify/react project.
 
@@ -40489,9 +40489,9 @@ def handler(event, context):
 
 ---------------
 
-Author: @bishonbopanna
-Upvotes: 2
-Comments: 0
+**Author**: @bishonbopanna
+**Upvotes**: 2
+**Comments**: 0
 
 Use case scenario : 
 
@@ -40512,9 +40512,9 @@ Amplify can read from the a repo and deploy directly to production env for each 
 
 ---------------
 
-Author: @ifmael
-Upvotes: 1
-Comments: 0
+**Author**: @ifmael
+**Upvotes**: 1
+**Comments**: 0
 
 I've added some subscription in my app.  The models for these subscriptions is:
 
@@ -40617,9 +40617,9 @@ is there something wrong in the code?
 
 ---------------
 
-Author: @lr001dev
-Upvotes: 1
-Comments: 0
+**Author**: @lr001dev
+**Upvotes**: 1
+**Comments**: 0
 
 So, I'm wondering how one would enforce certain permissions on branches built by Amplify? I'd like to control who can push to our develop branch... currently, after successfully setting up my team on our resources using this tutorial https://docs.amplify.aws/cli/usage/iam-roles-mfa, anyone with access can push or change any branch currently deployed. Does amplify have any feature to help restrict some behavior?
 
@@ -40631,9 +40631,9 @@ So, I'm wondering how one would enforce certain permissions on branches built by
 
 ---------------
 
-Author: @dylan-westbury
-Upvotes: 1
-Comments: 0
+**Author**: @dylan-westbury
+**Upvotes**: 1
+**Comments**: 0
 
 Is there a way to find out which environment an Elastic Search domain belongs to? 
 
@@ -40649,9 +40649,9 @@ Cheers
 
 ---------------
 
-Author: @PeteDuncanson
-Upvotes: 1
-Comments: 0
+**Author**: @PeteDuncanson
+**Upvotes**: 1
+**Comments**: 0
 
 I've been busy playing around with a prototype app I'm making and all has been going well. But then it occurred to me that fun though this is to follow the tutorials I need it to take into account privacy and the beast that is GDPR.
 
@@ -40672,9 +40672,9 @@ Pete
 
 ---------------
 
-Author: @cnbrkkaya
-Upvotes: 1
-Comments: 0
+**Author**: @cnbrkkaya
+**Upvotes**: 1
+**Comments**: 0
 
 I have two different front end (react) projects. One of them for blog readers and one of them for editors.For both application i want to use same DynamoDB tables(and use graphql api). But i want to different user pools for each project. How can i implement this?
 
@@ -40692,9 +40692,9 @@ Thanks,
 
 ---------------
 
-Author: @marianolc
-Upvotes: 1
-Comments: 0
+**Author**: @marianolc
+**Upvotes**: 1
+**Comments**: 0
 
 Hi! I trying to develop a multi-tenant app. 
 
@@ -40714,9 +40714,9 @@ Thanks!
 
 ---------------
 
-Author: @psaks
-Upvotes: 2
-Comments: 0
+**Author**: @psaks
+**Upvotes**: 2
+**Comments**: 0
 
 Hi all,
 
@@ -40733,9 +40733,9 @@ Would you ever want a user to be signed in if the contact (e.g., email) is not v
 
 ---------------
 
-Author: @elchicofrommo
-Upvotes: 1
-Comments: 0
+**Author**: @elchicofrommo
+**Upvotes**: 1
+**Comments**: 0
 
 I know I saw this somewhere but I can't find it again. I have a model with a pk/sk. Calling createXXX with the same pk/sk overrides the original (particularly with createdAt/updatedAt) but I'd like it to fail or noop. I thought I could use the conditional input that is generated, but condition type never includes the pk/sk. Is the only solution really to write a custom resolver with the condition checks? Seems like this would be a common use case so I'd be surprised if that were the case.
 
@@ -40747,9 +40747,9 @@ I know I saw this somewhere but I can't find it again. I have a model with a pk/
 
 ---------------
 
-Author: @elchicofrommo
-Upvotes: 1
-Comments: 1
+**Author**: @elchicofrommo
+**Upvotes**: 1
+**Comments**: 1
 
 I'm writing some integration tests with amplify that I can run  after standing up an environment that validate expected APIs, Auth  and some Appsync endpoints. Problem is, when I use my same export to Amplify.configure as I use for the running the app I get empty objects for currentCredentials (I have unauth ident pools set up) and calling signUp or sign in fails. I have to assume it's because I'm running in Jest. I've tried to  use jest.requireActual but that doesn't work either. Any thoughts?
 ## Comment
@@ -40768,9 +40768,9 @@ I ended up opening a ticket, ive seen a few others comment that this was a probl
 
 ---------------
 
-Author: @Ajwah
-Upvotes: 1
-Comments: 0
+**Author**: @Ajwah
+**Upvotes**: 1
+**Comments**: 0
 
 I have setup `amplify add auth` for Google Oauth. I am able to get it working with `Auth.federatedSigning` components but such components are bereft of any styling. As such, I want to leverage `<AmplifyAuthenticator />` instead. However, when I do:
 ```
@@ -40868,9 +40868,9 @@ Lastly, I have not setup anything related to `AWS Signin` for OAuth purposes. So
 
 ---------------
 
-Author: @martysweet
-Upvotes: 1
-Comments: 0
+**Author**: @martysweet
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 
@@ -40955,9 +40955,9 @@ Marty
 
 ---------------
 
-Author: @sacrampton
-Upvotes: 1
-Comments: 0
+**Author**: @sacrampton
+**Upvotes**: 1
+**Comments**: 0
 
 I am using Cognito User Pools on my GraphQL API and I want to run queries from the command line.
 
@@ -40977,9 +40977,9 @@ How can I use a Cognito identity to authorize a query instead of an api-key from
 
 ---------------
 
-Author: @hirocsingh
-Upvotes: 1
-Comments: 0
+**Author**: @hirocsingh
+**Upvotes**: 1
+**Comments**: 0
 
 I ran into this error while trying to get secret code.
 
@@ -41009,9 +41009,9 @@ useEffect(() => {
 
 ---------------
 
-Author: @dvliman
-Upvotes: 1
-Comments: 0
+**Author**: @dvliman
+**Upvotes**: 1
+**Comments**: 0
 
 I am working on a react-native app. The code looks like this:
 ```
@@ -41050,9 +41050,9 @@ So I was wondering if there is a plan to include the login image in the UI compo
 
 ---------------
 
-Author: @anastasialanz
-Upvotes: 1
-Comments: 2
+**Author**: @anastasialanz
+**Upvotes**: 1
+**Comments**: 2
 
 I'm looking to remove the `box-shadow` on the `.section` class within the `<amplify-sign-in>` shadow root. Is there a way to override this or style the container for the login form?
 
@@ -41080,9 +41080,9 @@ Author: @sammartinez
 
 ---------------
 
-Author: @xuan9230
-Upvotes: 1
-Comments: 0
+**Author**: @xuan9230
+**Upvotes**: 1
+**Comments**: 0
 
 I'm building a React + aws AppSync graphql web app with amplify. Have been enjoying this fantastic tool, but couldn't get the `codegen` to work as I expected - it doesn't generate base types for TypeScript frontend.
 
@@ -41149,9 +41149,9 @@ Thanks for any help!
 
 ---------------
 
-Author: @joshis2020
-Upvotes: 1
-Comments: 0
+**Author**: @joshis2020
+**Upvotes**: 1
+**Comments**: 0
 
 I have seen that Amplify automatically calls the Auth.currentCredentials() and refreshes the token for us when making calls to AWS services that amplify supports. But for services like R53, we need to call the Auth.currentCredentials() manually and make the respective aws api calls. My question is, if the credentials expire after 1 hr then how do we detect this and handle this situation?
 
@@ -41163,9 +41163,9 @@ I have seen that Amplify automatically calls the Auth.currentCredentials() and r
 
 ---------------
 
-Author: @RameshRM
-Upvotes: 1
-Comments: 0
+**Author**: @RameshRM
+**Upvotes**: 1
+**Comments**: 0
 
 I am able to send `sms mfa code` on `User Login`, I want to understand how to confirm the User after the User Enters the `MFA Code` , I dont see `cognito identity js` docs related to this. 
 
@@ -41178,9 +41178,9 @@ I am able to send `sms mfa code` on `User Login`, I want to understand how to co
 
 ---------------
 
-Author: @CarlosBalladares
-Upvotes: 1
-Comments: 0
+**Author**: @CarlosBalladares
+**Upvotes**: 1
+**Comments**: 0
 
 Not sure what I'm doing wrong. Has anyone got this message?
 
@@ -41196,9 +41196,9 @@ type Form @model @auth(rules: [{ allow: all }], operations: [create]) {
 
 ---------------
 
-Author: @asumaran
-Upvotes: 1
-Comments: 1
+**Author**: @asumaran
+**Upvotes**: 1
+**Comments**: 1
 
 I'm migrating my app from `"aws-amplify": "1.1.29"` to `"aws-amplify": "^3.0.23"` and I got the following error.
 
@@ -41284,9 +41284,9 @@ Turns out File upload didn't work at all using `"aws-amplify": "^3.0.23"`. Had t
 
 ---------------
 
-Author: @jefelewis
-Upvotes: 1
-Comments: 0
+**Author**: @jefelewis
+**Upvotes**: 1
+**Comments**: 0
 
 Was anyone able to get an auth channel/subscription to keep track of the `currentAuthenticatedUser`? Below is how I am trying to do it, but my AWS auth channel is not working. I'm coming from Firebase, so below is an example of a working saga to keep track of the user.
 
@@ -41385,9 +41385,9 @@ export default function* rootSaga() {
 
 ---------------
 
-Author: @LucasAndrad
-Upvotes: 1
-Comments: 0
+**Author**: @LucasAndrad
+**Upvotes**: 1
+**Comments**: 0
 
 I would like to now how to delete many items using Amplify AppSync Graphql API
 
@@ -41403,9 +41403,9 @@ I know that dynamoDB has the [batchWrite](https://docs.aws.amazon.com/amazondyna
 
 ---------------
 
-Author: @dfang
-Upvotes: 1
-Comments: 0
+**Author**: @dfang
+**Upvotes**: 1
+**Comments**: 0
 
 eg. for this model
 
@@ -41434,9 +41434,9 @@ i got this error:
 
 ---------------
 
-Author: @The0racle
-Upvotes: 1
-Comments: 0
+**Author**: @The0racle
+**Upvotes**: 1
+**Comments**: 0
 
 Docs require `AndroidManifest.xml` to include:
 
@@ -41479,9 +41479,9 @@ How can we do something similar with amplify (`amplifyPushService.isAmplifyPush`
 
 ---------------
 
-Author: @rpivo
-Upvotes: 1
-Comments: 2
+**Author**: @rpivo
+**Upvotes**: 1
+**Comments**: 2
 
 I've been working with this SDK for the past couple of weeks and liking it so far. I've been reading up on JWT tokens and I know I should be verifying them. Does this SDK automatically verify them? If not, would I have to get the tokens into Lambda to be verified? How would I go about doing that?
 ## Comment
@@ -41509,9 +41509,9 @@ Related [issue #5477](https://github.com/aws-amplify/amplify-js/issues/5477#issu
 
 ---------------
 
-Author: @pranav1812
-Upvotes: 1
-Comments: 1
+**Author**: @pranav1812
+**Upvotes**: 1
+**Comments**: 1
 
 Hi, I am new to AWS. I was playing around with a handson tutorial on how to host react app with aws amplify.
 First I hosted a static hello world app (the one that is built by Create React App). Then I configured amplify console and initialized the app. then added basic authentication. It worked well on local machine but when I pushed the latest commits to github, it showed an error that build failed to complete successfully. I'm unable to figure out anything from the console message.
@@ -41542,9 +41542,9 @@ I was following this tutorial
 
 ---------------
 
-Author: @avlonder
-Upvotes: 1
-Comments: 1
+**Author**: @avlonder
+**Upvotes**: 1
+**Comments**: 1
 
 Hi everyone,
 
@@ -41566,9 +41566,9 @@ Hi, unfortunately I cannot help, however have a similar use case. Did you happen
 
 ---------------
 
-Author: @giorgiocarniel
-Upvotes: 1
-Comments: 0
+**Author**: @giorgiocarniel
+**Upvotes**: 1
+**Comments**: 0
 
 [Amplify 4.22.0]
 
@@ -41774,9 +41774,9 @@ translateText-template.json:
 
 ---------------
 
-Author: @hashitha
-Upvotes: 1
-Comments: 0
+**Author**: @hashitha
+**Upvotes**: 1
+**Comments**: 0
 
 I am trying to use Auth module in the browser directly `<script type="module" src="index.js"></script>`
 but I am getting the following error.
@@ -41796,9 +41796,9 @@ I can get amplify working if I use webpack but I want to keep it simple and deve
 
 ---------------
 
-Author: @Ivelraj1997
-Upvotes: 1
-Comments: 1
+**Author**: @Ivelraj1997
+**Upvotes**: 1
+**Comments**: 1
 
 How can i add custom css to amplify component in angular latest? because  no proper documentation there.
 
@@ -41830,9 +41830,9 @@ No luck so far 😠 😭
 
 ---------------
 
-Author: @gbwashleybrown
-Upvotes: 1
-Comments: 0
+**Author**: @gbwashleybrown
+**Upvotes**: 1
+**Comments**: 0
 
 There are no doubt bugs in the issues section that have been prematurely closed despite the fact it clearly hasn't been addressed.
 
@@ -41848,9 +41848,9 @@ I'm talking about #1857 to be specific.
 
 ---------------
 
-Author: @cklingspor
-Upvotes: 1
-Comments: 2
+**Author**: @cklingspor
+**Upvotes**: 1
+**Comments**: 2
 
 I'm trying to customize the signOut button but I'm most certainly using it wrong
 According to [this](https://docs.amplify.aws/lib/auth/customui/q/platform/js#customize-withauthenticator-hoc) part of the official documentation, it should be possible to pass a piece of code to the withAuthenticator component.
@@ -41930,9 +41930,9 @@ aws-amplify: 3.0.23
 
 ---------------
 
-Author: @ifmael
-Upvotes: 1
-Comments: 0
+**Author**: @ifmael
+**Upvotes**: 1
+**Comments**: 0
 
 I am not sure if Datastore complies with this feature.
 I'm developing a notification system for different users that can share content between them.  So when the user A shares content with the user B,  I want to the user b receives a notification with the content. 
@@ -41987,9 +41987,9 @@ type Notification
 
 ---------------
 
-Author: @linfiesto
-Upvotes: 1
-Comments: 0
+**Author**: @linfiesto
+**Upvotes**: 1
+**Comments**: 0
 
 When cloning repository during the build process of amplify it says
 
@@ -42010,9 +42010,9 @@ I never had problem with this in my other client's AWS account. I did the standa
 
 ---------------
 
-Author: @raux
-Upvotes: 1
-Comments: 0
+**Author**: @raux
+**Upvotes**: 1
+**Comments**: 0
 
 Do you find GitHub discussions useful as a communication channel? Maybe not? 
 Hello Developers! I am Raula Gaikovina Kula, a Software Engineering researcher
@@ -42037,9 +42037,9 @@ Raula, PhD on behalf of Hideaki, Sebastian, Nicole and Christoph
 
 ---------------
 
-Author: @hbj
-Upvotes: 1
-Comments: 0
+**Author**: @hbj
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 
@@ -42055,9 +42055,9 @@ Thanks.
 
 ---------------
 
-Author: @shubh9795
-Upvotes: 2
-Comments: 0
+**Author**: @shubh9795
+**Upvotes**: 2
+**Comments**: 0
 
 I am working on a application which contains a react web app & a react-native mobile app. I have configured amplify in the react app from scratch and used the same backend in the web app as well.
 
@@ -42080,9 +42080,9 @@ Although I am getting UnrecognizedClientException while making any API calls wit
 
 ---------------
 
-Author: @3atharvkurdukar
-Upvotes: 1
-Comments: 1
+**Author**: @3atharvkurdukar
+**Upvotes**: 1
+**Comments**: 1
 
 I am using AWS Amplify to manage my React application as well as the serverless Express API for the backend. The customer has requested to send SMS to a list of users at specified time everyday. However, the user info is not stored in AWS Cognito for some reasons.
 I have added and API endpoint to get the list of mobile numbers based on some conditions and I want to add a lambda function that calls the API at specified time.
@@ -42103,9 +42103,9 @@ Is it possible and recommended to use 'amplify-js' for the backend?
 
 ---------------
 
-Author: @danrivett
-Upvotes: 1
-Comments: 0
+**Author**: @danrivett
+**Upvotes**: 1
+**Comments**: 0
 
 We already use DataStore for data that is owned by the owner and modified on the client side in a React Native app, we now want to flow data updates from the backend for other data models that are designed to be read only by the client - e.g. data that's more of a notification-type of data.
 
@@ -42133,9 +42133,9 @@ Any thoughts here are most welcome.
 
 ---------------
 
-Author: @dingdongping
-Upvotes: 1
-Comments: 0
+**Author**: @dingdongping
+**Upvotes**: 1
+**Comments**: 0
 
  I only need to use PubSub in my react-native application. Can I just create a cognito account? All accounts in my system share the same cognito account to use PubSub service.
 Or is there any better suggestion for my program to use PubSub instead of creating a cognito account for each account
@@ -42148,9 +42148,9 @@ Or is there any better suggestion for my program to use PubSub instead of creati
 
 ---------------
 
-Author: @syang
-Upvotes: 1
-Comments: 0
+**Author**: @syang
+**Upvotes**: 1
+**Comments**: 0
 
 A lot of Amplify Auth tutorials give the way to integrate Cognito User Pool with Google Oauth2 as IdP like this.
 ![image](https://user-images.githubusercontent.com/188004/89716953-4eca6500-d966-11ea-88e0-c8d31840ae3d.png)
@@ -42169,9 +42169,9 @@ Is there a way for me to use Amplify JS library to achieve this? If so, can I ha
 
 ---------------
 
-Author: @sakhmedbayev
-Upvotes: 1
-Comments: 2
+**Author**: @sakhmedbayev
+**Upvotes**: 1
+**Comments**: 2
 
 We are building a SaaS using AWS Amplify and AWS AppSync. For each new tenant/customer, we create a new Cognito User Pool using cloudformation. We know that it is possible to hook those user pools manually using AppSync's console, however, is it possible to do the same programmatically?
 ## Comment
@@ -42197,9 +42197,9 @@ https://github.com/aws-amplify/amplify-js/issues/6518#issuecomment-670647826 ?
 
 ---------------
 
-Author: @chai86
-Upvotes: 1
-Comments: 2
+**Author**: @chai86
+**Upvotes**: 1
+**Comments**: 2
 
 I want to do something seemingly so simple, but i am a bit lost as to how to do it: I have a table with user information already in it. Here's the Schema:
 
@@ -42262,9 +42262,9 @@ Author: @ericclemmons
 
 ---------------
 
-Author: @ksabr
-Upvotes: 1
-Comments: 2
+**Author**: @ksabr
+**Upvotes**: 1
+**Comments**: 2
 
 Hi all,
 
@@ -42307,9 +42307,9 @@ An update: I updated to Firefox 68.11.0 and it looks fine. Thanks again!
 
 ---------------
 
-Author: @awshanks
-Upvotes: 1
-Comments: 1
+**Author**: @awshanks
+**Upvotes**: 1
+**Comments**: 1
 
 Hi.  I might be missing something but it doesn't seem possible to have a function wrapped in withAuthenticator and also allow props to be passed down.
 
@@ -42420,9 +42420,9 @@ export default withAuthenticator(ProtectedApp);
 
 ---------------
 
-Author: @Jeff17Robbins
-Upvotes: 1
-Comments: 0
+**Author**: @Jeff17Robbins
+**Upvotes**: 1
+**Comments**: 0
 
 I am trying to use Optimistic Concurrency with my GraphQL API.  Everything seems properly setup.  DynamoDb shows updating `_version` numbers.  If I run one instance of my app, all is well.  
 
@@ -42438,9 +42438,9 @@ Is there some way to get Datastore to hold-off fulfilling until the `.Save()` su
 
 ---------------
 
-Author: @mauerbac
-Upvotes: 1
-Comments: 8
+**Author**: @mauerbac
+**Upvotes**: 1
+**Comments**: 8
 
 Starting a thread to take notes from our office hours
 ## Comment
@@ -42546,9 +42546,9 @@ Thanks everyone for joining! Let us know if you have improvement suggestions in 
 
 ---------------
 
-Author: @wraila
-Upvotes: 1
-Comments: 1
+**Author**: @wraila
+**Upvotes**: 1
+**Comments**: 1
 
 I cannot find any documentation of which versions of aws-amplify and its related packages, e.g. aws-amplify-angular, aws-amplify/ui*, work with which versions of angular. Very frustrating. 
 
@@ -42579,9 +42579,9 @@ Apologizes for the late response here. For our support of Angular, we currently 
 
 ---------------
 
-Author: @sandeep621
-Upvotes: 1
-Comments: 1
+**Author**: @sandeep621
+**Upvotes**: 1
+**Comments**: 1
 
 Hi Team,
 
@@ -42608,9 +42608,9 @@ We do have the ability to listen to Auth Events via our [Hub Events Utility](htt
 
 ---------------
 
-Author: @carlhaynes
-Upvotes: 1
-Comments: 2
+**Author**: @carlhaynes
+**Upvotes**: 1
+**Comments**: 2
 
 I have the new auth ui working so I can sign up, login etc but for my signup I need to have a checkbox checked before registering (It is an alcohol related site that needs confirmation on age)
 
@@ -42712,9 +42712,9 @@ I have tried to fix with this PR: https://github.com/aws-amplify/amplify-js/pull
 
 ---------------
 
-Author: @hirenumradia
-Upvotes: 1
-Comments: 1
+**Author**: @hirenumradia
+**Upvotes**: 1
+**Comments**: 1
 
 I have been trying to remove the drop shadow of the authentication react component, but cant get it to select the right element.
 
@@ -42745,9 +42745,9 @@ cc @jordanranz for comment
 
 ---------------
 
-Author: @jdwil
-Upvotes: 1
-Comments: 1
+**Author**: @jdwil
+**Upvotes**: 1
+**Comments**: 1
 
 I have a Pre-Token Generation lambda trigger that adds groups to user's id/access tokens based on a custom database. After an hour, amplify will refresh my access token, but the groups ("cognito:groups") overridden in the lambda trigger are gone. Does anyone know why the tokens, after a refresh, are not identical to the originals?
 ## Comment
@@ -42766,9 +42766,9 @@ This wasn't an amplify thing. My lambda callback wasn't executing for the "Token
 
 ---------------
 
-Author: @batmanwannabe
-Upvotes: 1
-Comments: 0
+**Author**: @batmanwannabe
+**Upvotes**: 1
+**Comments**: 0
 
 We have a old app that uses amazon-cognito-identity-js for authentication, I need to add SSO login to it, I don't want to update to Amplify just for this. Is there any way amazon-cognito-identity-js can achieve this? 
 
@@ -42782,9 +42782,9 @@ I searched online but could not find anything,
 
 ---------------
 
-Author: @atyshka
-Upvotes: 1
-Comments: 2
+**Author**: @atyshka
+**Upvotes**: 1
+**Comments**: 2
 
 **Is your feature request related to a problem? Please describe.**
 When integrating sensitive IoT data into my web app, I don't want any user of the app to be able to access it, I would like to restrict access using cognito groups. How can I achieve this? I have current tried adding an all-wildcard policy on the group, but this isn't working. Attempting to subscribe leads to an error code 8: socket closed error. I know something is incorrect with the IAM policies, but I'm unsure.
@@ -42846,9 +42846,9 @@ I ended up solving the issue. It wasn't initially clear that IAM policies and Io
 
 ---------------
 
-Author: @trylas
-Upvotes: 1
-Comments: 0
+**Author**: @trylas
+**Upvotes**: 1
+**Comments**: 0
 
 I would like to ask why error codes are missing and methods like signUp respond errors as per below. Instead of 400 code 'InvalidParameterException'.
 ```
@@ -42874,9 +42874,9 @@ https://github.com/aws-amplify/amplify-js/blob/3642e6af455ee1848c1cc743a7a503e96
 
 ---------------
 
-Author: @3atharvkurdukar
-Upvotes: 1
-Comments: 0
+**Author**: @3atharvkurdukar
+**Upvotes**: 1
+**Comments**: 0
 
 I have added SMS service using AWS Amplify CLI with command `amplify add notification`. But, I am unable to find any documentation regarding how to implement it. Please help. I want to manually send SMS to a list of mobile numbers, which are not stored in Cognito User Pool.
 
@@ -42888,9 +42888,9 @@ I have added SMS service using AWS Amplify CLI with command `amplify add notific
 
 ---------------
 
-Author: @justingrant
-Upvotes: 1
-Comments: 0
+**Author**: @justingrant
+**Upvotes**: 1
+**Comments**: 0
 
 My web app offers both Facebook and Google login providers using a Cognito Identity Pool. (I'm not using Cognito User Pools.) My login flow looks like this: 
 1) User clicks a login button in my app
@@ -42924,9 +42924,9 @@ Instead, I'd like to enable users to log in with either social provider. For thi
 
 ---------------
 
-Author: @filburt-turle
-Upvotes: 1
-Comments: 0
+**Author**: @filburt-turle
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 
@@ -42950,9 +42950,9 @@ Thanks
 
 ---------------
 
-Author: @andsee
-Upvotes: 1
-Comments: 0
+**Author**: @andsee
+**Upvotes**: 1
+**Comments**: 0
 
 Our app starts users as guests for a low friction start. They may play for as long as they wish against the IdentityId from the Federated Identity Pool and data is saved and uploaded to S3 against their IdentityId.
 
@@ -43014,9 +43014,9 @@ I’ve tried storing the existing IdentityId before calling SignIn (during a reg
 
 ---------------
 
-Author: @malmil
-Upvotes: 1
-Comments: 0
+**Author**: @malmil
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 
@@ -43117,9 +43117,9 @@ Anyone that knows how to fix this?
 
 ---------------
 
-Author: @GetJoot
-Upvotes: 1
-Comments: 0
+**Author**: @GetJoot
+**Upvotes**: 1
+**Comments**: 0
 
 Related to issues discussed in another thread, I want to explain a situation in our web app that is causing a 403 when using Amplify to upload a file to S3 for an authenticated user that belongs to a Cognito group that has a policy attached to it granting all access to the specific S3 bucket and folders.
 
@@ -43143,9 +43143,9 @@ Thank you.
 
 ---------------
 
-Author: @emmafass
-Upvotes: 1
-Comments: 1
+**Author**: @emmafass
+**Upvotes**: 1
+**Comments**: 1
 
 I have a table already set up in prod that is:
 
@@ -43210,9 +43210,9 @@ You may want to take a look at https://github.com/aws-amplify/amplify-cli/issues
 
 ---------------
 
-Author: @Somtozech
-Upvotes: 1
-Comments: 1
+**Author**: @Somtozech
+**Upvotes**: 1
+**Comments**: 1
 
 I am writing for a custom resolver for my Mutations. The custom resolver does a batch write for my POST schema.  The customer resolver requires me to specify the table name for dynamo DB. 
 The issue is that am using a multi-environment setup that has a dev and master. The current environment gets appended to the name of the table eg for dev the table name becomes Post-dev while for the master it becomes Post-master.
@@ -43266,9 +43266,9 @@ Sample code
 
 ---------------
 
-Author: @iceback
-Upvotes: 1
-Comments: 0
+**Author**: @iceback
+**Upvotes**: 1
+**Comments**: 0
 
 I'm having a hard time getting from id/access/refresh tokens supplied by cognito to authenticating for serverless app.  Cannot construct Auth.CognitoUserSession(), Auth.currentAuthenticatedUser() blows up.  I seem to be finding only examples which use Identity Pools
 
@@ -43280,9 +43280,9 @@ I'm having a hard time getting from id/access/refresh tokens supplied by cognito
 
 ---------------
 
-Author: @4rocky4
-Upvotes: 1
-Comments: 0
+**Author**: @4rocky4
+**Upvotes**: 1
+**Comments**: 0
 
 Hello,
 How can I activate a scroll on AmplifySignUp or AmplifySignIn ?
@@ -43300,9 +43300,9 @@ Thanks for your help.
 
 ---------------
 
-Author: @ajitgoel
-Upvotes: 1
-Comments: 0
+**Author**: @ajitgoel
+**Upvotes**: 1
+**Comments**: 0
 
 I have made changes to my application's schema.graphql file and when i run the amplify push command, the system says "no changes detected". What could I be missing?
 
@@ -43314,9 +43314,9 @@ I have made changes to my application's schema.graphql file and when i run the a
 
 ---------------
 
-Author: @gtb104
-Upvotes: 1
-Comments: 0
+**Author**: @gtb104
+**Upvotes**: 1
+**Comments**: 0
 
 I'm rolling my own login UI so that we can do a little extra, and also get the styling to look exactly like UX would like. I've come across two issues so far that have me stumped
 
@@ -43332,9 +43332,9 @@ I'm rolling my own login UI so that we can do a little extra, and also get the s
 
 ---------------
 
-Author: @ajitgoel
-Upvotes: 1
-Comments: 1
+**Author**: @ajitgoel
+**Upvotes**: 1
+**Comments**: 1
 
 I have a working application that I am unable to publish as the profile that I used to create the application is no longer valid(I had checked the secret key into github by mistake). In this scenario what is the correct way to reinitialize the application so I can publish it to AWS? i have also deleted the application artifacts in the cloud, when I was trying to fix the issue. 
 ## Comment
@@ -43353,9 +43353,9 @@ I was able to get this working by getting the latest source code from git, runni
 
 ---------------
 
-Author: @danielblignaut
-Upvotes: 1
-Comments: 0
+**Author**: @danielblignaut
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, 
 
@@ -43374,9 +43374,9 @@ Daniel
 
 ---------------
 
-Author: @andrewdavidcostello
-Upvotes: 1
-Comments: 1
+**Author**: @andrewdavidcostello
+**Upvotes**: 1
+**Comments**: 1
 
 Title could be a bit misleading so apologies. The phone_number field is being used as the username and it needs to be allowed to be updated from an account page. A manual process is being used to manage the auth state.
 
@@ -43411,9 +43411,9 @@ Based on finding some comments elsewhere it seems like this requires a Pre Authe
 
 ---------------
 
-Author: @dyson-yamashita
-Upvotes: 1
-Comments: 1
+**Author**: @dyson-yamashita
+**Upvotes**: 1
+**Comments**: 1
 
 Dear AWS Amplify team,
 
@@ -43463,9 +43463,9 @@ Thank you!
 
 ---------------
 
-Author: @kldeb
-Upvotes: 1
-Comments: 0
+**Author**: @kldeb
+**Upvotes**: 1
+**Comments**: 0
 
 I have two front end applications using the same amplify backend. I'm using storage to manage images. 
 
@@ -43489,9 +43489,9 @@ Then in the other app I'm trying to use Storage.get but it complains that there 
 
 ---------------
 
-Author: @karrettgelley
-Upvotes: 1
-Comments: 0
+**Author**: @karrettgelley
+**Upvotes**: 1
+**Comments**: 0
 
 I have encountered a race condition in my app and I'm wondering if anyone in the community has come up with a way to solve similar issues. In my app I have events for which users can sign up. Each event has a capacity, or a maximum number of people who can sign up for it. A race condition occurs when multiple users sign up at the same time because they may encroach the capacity. In other words, I need an all-or-nothing transaction. I stumbled upon some documentation regarding [transactions with dynamodb](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/transaction-example.html#transaction-example-Additional), but I'm wondering if anyone has tried this in the community. So, how have y'all dealt with race conditions in your apps, and if you've implemented transactions, how did you do it?
 
@@ -43505,9 +43505,9 @@ I can share more details on my schema if need be
 
 ---------------
 
-Author: @mnatanbrito
-Upvotes: 1
-Comments: 0
+**Author**: @mnatanbrito
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, folks!
 I've been struggling with this for some time now, so I could use some help.
@@ -43645,9 +43645,9 @@ Any ideas of why this is happening? 😰
 
 ---------------
 
-Author: @ionutmiftode
-Upvotes: 1
-Comments: 1
+**Author**: @ionutmiftode
+**Upvotes**: 1
+**Comments**: 1
 
 Hello,
 
@@ -43675,9 +43675,9 @@ it seems it was a basic `dynamoDB.query()` to API_VEHICOOL_COOLERTABLE_NAME
 
 ---------------
 
-Author: @Rafcin
-Upvotes: 1
-Comments: 2
+**Author**: @Rafcin
+**Upvotes**: 1
+**Comments**: 2
 
 The issue is I have created a schema that utilizes cognito groups and IAM. I wanted to use IAM for general read access and cognito to allow specific users to perform action such as creating posts etc.
  
@@ -43725,9 +43725,9 @@ HI @Rafcin - I'm going to move this to our discussion form as it seems you need 
 
 ---------------
 
-Author: @nihp
-Upvotes: 1
-Comments: 1
+**Author**: @nihp
+**Upvotes**: 1
+**Comments**: 1
 
 I have disabled a user in cognito. But the user is already in the app. Here he not received any error and also it will allow him to use the app.
 
@@ -43749,9 +43749,9 @@ Hi @nihp - this sounds more like a question rather than a bug report. Can you pr
 
 ---------------
 
-Author: @ruodingt
-Upvotes: 1
-Comments: 0
+**Author**: @ruodingt
+**Upvotes**: 1
+**Comments**: 0
 
 # Use Case
 We are using appsync with auth method CognitoUserPool.
@@ -43794,9 +43794,9 @@ But I didn't expect that they lead to different behaviours. In fact, we are expe
 
 ---------------
 
-Author: @maciulskis
-Upvotes: 2
-Comments: 0
+**Author**: @maciulskis
+**Upvotes**: 2
+**Comments**: 0
 
 Hello. I'm trying implement an offline-first react native application using DataStore. Say we have auth setup through Cognito user pool and this basic schema:
 ```
@@ -43823,9 +43823,9 @@ Amplify CLI version 4.21.3
 
 ---------------
 
-Author: @stayingcool
-Upvotes: 1
-Comments: 0
+**Author**: @stayingcool
+**Upvotes**: 1
+**Comments**: 0
 
 Hello All,
 
@@ -43839,9 +43839,9 @@ How can we get the total count of a type using appsync serverless (using aurora)
 
 ---------------
 
-Author: @Zebara58
-Upvotes: 1
-Comments: 1
+**Author**: @Zebara58
+**Upvotes**: 1
+**Comments**: 1
 
 I'm using yarn to setup the dependencies. I got the react amplify website to launch properly on local and I got the amplify authorization to work properly on localhost. I'm currently using the free tier. I am just trying to test deploying the app with Amplify now. I have the following code in the build settings in Amplify:
 `version: 1`
@@ -43887,9 +43887,9 @@ Author: @sammartinez
 
 ---------------
 
-Author: @kimuhjin
-Upvotes: 1
-Comments: 1
+**Author**: @kimuhjin
+**Upvotes**: 1
+**Comments**: 1
 
 I Tried this code:
 
@@ -43928,9 +43928,9 @@ It sounds like you should try the "query" api instead of "scan". See [this](http
 
 ---------------
 
-Author: @davidgengenbach
-Upvotes: 1
-Comments: 0
+**Author**: @davidgengenbach
+**Upvotes**: 1
+**Comments**: 0
 
 Goal:
 1) Login user on custom UI via Amplify Auth (with MFA)
@@ -43954,9 +43954,9 @@ Related: https://aws.amazon.com/blogs/mobile/understanding-amazon-cognito-user-p
 
 ---------------
 
-Author: @marianolc
-Upvotes: 1
-Comments: 0
+**Author**: @marianolc
+**Upvotes**: 1
+**Comments**: 0
 
 For example, using a Table that containts all the orders created for that User, something like this:
 
@@ -44011,9 +44011,9 @@ Thanks!
 
 ---------------
 
-Author: @syang
-Upvotes: 8
-Comments: 0
+**Author**: @syang
+**Upvotes**: 8
+**Comments**: 0
 
 I am building an application using Amplify Storage, so that a signed-in user can upload his photos to S3 (in his own `protected` subfolder) and any users can view his photos.
 
@@ -44037,9 +44037,9 @@ Thank for sharing your thoughts.
 
 ---------------
 
-Author: @mbarinov
-Upvotes: 1
-Comments: 0
+**Author**: @mbarinov
+**Upvotes**: 1
+**Comments**: 0
 
 Hi lads, the second day I can not understand how to obtain an access key for OIDC provider (twitch). Auth is working great, CognitoUser entity is available on the client-side. Maybe anybody faced such a problem before. Peace ✌️
 
@@ -44051,9 +44051,9 @@ Hi lads, the second day I can not understand how to obtain an access key for OID
 
 ---------------
 
-Author: @maximelebastard
-Upvotes: 1
-Comments: 0
+**Author**: @maximelebastard
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, in Typescript is there any reason why the graphql types are not generated in API.ts ? That would be super useful to detect regressions.
 
@@ -44083,9 +44083,9 @@ type Todo = {
 
 ---------------
 
-Author: @brandonvilla21
-Upvotes: 1
-Comments: 0
+**Author**: @brandonvilla21
+**Upvotes**: 1
+**Comments**: 0
 
 I'm creating my user groups from `amplify auth update` command. But now I want to add the description property for each group in order to be displayed in the AWS Cognito Dashboard:
 
@@ -44104,9 +44104,9 @@ How can I add and persist the description property then?
 
 ---------------
 
-Author: @sreimer15
-Upvotes: 1
-Comments: 0
+**Author**: @sreimer15
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, 
 
@@ -44127,9 +44127,9 @@ Thank you for any help you can be!
 
 ---------------
 
-Author: @PedroBern
-Upvotes: 1
-Comments: 0
+**Author**: @PedroBern
+**Upvotes**: 1
+**Comments**: 0
 
 Is it expected to not raising an error when creating a duplicate record when the hash key field is not id? Note that the second attempt to create the `Todo2` did not create a new record, but also did not return an error. See the following code.
 
@@ -44198,9 +44198,9 @@ mutation createTodo2 {
 
 ---------------
 
-Author: @kannieWeesNie
-Upvotes: 1
-Comments: 0
+**Author**: @kannieWeesNie
+**Upvotes**: 1
+**Comments**: 0
 
 hi
 am using storage in a Vue app. i created a lambda trigger (triggered when upload file to S3) and then updated the lambda function in the backend. if i upload file, it works. 
@@ -44224,9 +44224,9 @@ thanks
 
 ---------------
 
-Author: @siddharthsharma94
-Upvotes: 1
-Comments: 0
+**Author**: @siddharthsharma94
+**Upvotes**: 1
+**Comments**: 0
 
 Hey! So I was wondering what would be the recommended approach to building an AWS Amplify React project with Auth in multiple environments.
 
@@ -44240,9 +44240,9 @@ Let's say I want to have a Dev and Prod Env which is based on the Git env. Let's
 
 ---------------
 
-Author: @naripok
-Upvotes: 1
-Comments: 0
+**Author**: @naripok
+**Upvotes**: 1
+**Comments**: 0
 
 Is there a way to bypass local storage and translate DataStore saves directly into GraphQL mutations whenever there is no support  for IndexedDB, like in Tor browser (or firefox private mode)?
 Do I need to do the support detection and implement alternative calls on graphQL by hand?
@@ -44255,9 +44255,9 @@ Do I need to do the support detection and implement alternative calls on graphQL
 
 ---------------
 
-Author: @sakhmedbayev
-Upvotes: 1
-Comments: 0
+**Author**: @sakhmedbayev
+**Upvotes**: 1
+**Comments**: 0
 
 I have a graphql schema as follow:
 
@@ -44294,9 +44294,9 @@ Is this possible to query `Chapter` using `DataStore.query`?
 
 ---------------
 
-Author: @yudao
-Upvotes: 1
-Comments: 0
+**Author**: @yudao
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 
@@ -44320,9 +44320,9 @@ Yu.
 
 ---------------
 
-Author: @Dylan-Carriere
-Upvotes: 1
-Comments: 0
+**Author**: @Dylan-Carriere
+**Upvotes**: 1
+**Comments**: 0
 
 Hello, I am having an issue about my API.get function.
 It always retrun <apiname> does not exist while the api name is specified in may aws-exports.js file.
@@ -44369,9 +44369,9 @@ I hope you guys can help me !
 
 ---------------
 
-Author: @MatteoInfi
-Upvotes: 1
-Comments: 0
+**Author**: @MatteoInfi
+**Upvotes**: 1
+**Comments**: 0
 
 Is there an hook for PostSignup? I need to get the userId, but in the pre-signup is not possible.
 
@@ -44385,9 +44385,9 @@ Thanks
 
 ---------------
 
-Author: @ayaankhan98
-Upvotes: 0
-Comments: 0
+**Author**: @ayaankhan98
+**Upvotes**: 0
+**Comments**: 0
 
 i was implementing the forgot password feature using angular9 and aws-amplify. After successful sending of verification code on user's email i have a route where the user enters this verification code along with the username and new password, in this route i am using 
 ```Auth.forgotPasswordSubmit(username, code, newPassword)``` 
@@ -44406,9 +44406,9 @@ but if i change the verification field code as input type of text everything wor
 
 ---------------
 
-Author: @JohnAtFenestra
-Upvotes: 1
-Comments: 0
+**Author**: @JohnAtFenestra
+**Upvotes**: 1
+**Comments**: 0
 
 I am writing a set of end-to-end Jest tests to develop our authentication code. I have been fighting basic signIn for two days. Here is the latest problem scenario.
 
@@ -44545,9 +44545,9 @@ I have confirmed using HostedUI that the user can log in with the new password. 
 
 ---------------
 
-Author: @leosoaivan
-Upvotes: 3
-Comments: 0
+**Author**: @leosoaivan
+**Upvotes**: 3
+**Comments**: 0
 
 I have a use case where I would like to globally sign-out a user from all devices/clients if a user changes their password through the "forgot password" flow. Presumably, this wouldn't be an issue if a user were to "change password", as I could assume a user is already authenticated and thus call `Auth.signOut({ global: true })`.
 
@@ -44567,9 +44567,9 @@ I am wondering if anyone else has come across this issue, or have a work-around.
 
 ---------------
 
-Author: @abdsahin
-Upvotes: 1
-Comments: 0
+**Author**: @abdsahin
+**Upvotes**: 1
+**Comments**: 0
 
 Hi All,
 
@@ -44591,9 +44591,9 @@ Thanks
 
 ---------------
 
-Author: @mtakac
-Upvotes: 1
-Comments: 1
+**Author**: @mtakac
+**Upvotes**: 1
+**Comments**: 1
 
 I'd like to check if the resource I uploaded to S3 using `Storage.put` was changed before downloading it. I am trying to use the HEAD request before actually downloading the resource to see if there's a new version since it was last downloaded.
 
@@ -44616,9 +44616,9 @@ but at a higher level this ("I'd like to check if the resource I uploaded to S3 
 
 ---------------
 
-Author: @kimfucious
-Upvotes: 1
-Comments: 0
+**Author**: @kimfucious
+**Upvotes**: 1
+**Comments**: 0
 
 I've been trying to figure out why certain GraphQL mutations aren't working in an app I've got involved in.
 
@@ -44650,9 +44650,9 @@ Thanks in advance for any advice here.
 
 ---------------
 
-Author: @rudijs
-Upvotes: 1
-Comments: 0
+**Author**: @rudijs
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 
@@ -44687,9 +44687,9 @@ Thanks.
 
 ---------------
 
-Author: @kimfucious
-Upvotes: 1
-Comments: 1
+**Author**: @kimfucious
+**Upvotes**: 1
+**Comments**: 1
 
 Hi there,
 
@@ -44769,9 +44769,9 @@ The confusing bit for me here was the `""`, as I was trying everything but that.
 
 ---------------
 
-Author: @apoorvmote
-Upvotes: 1
-Comments: 1
+**Author**: @apoorvmote
+**Upvotes**: 1
+**Comments**: 1
 
 The actual product (or insert any type here) id will be `UUID` but I also want to create additional ID that must be auto generated and must be serial. 
 
@@ -44794,9 +44794,9 @@ just catching up on this. did you end up figuring it out?
 
 ---------------
 
-Author: @dan-didjatv
-Upvotes: 1
-Comments: 2
+**Author**: @dan-didjatv
+**Upvotes**: 1
+**Comments**: 2
 
 Any reason why this requires me to install the entire amplify stack in my dev environment when aws-amplify-angular doesn't require it production mode. This adds IDE overhead as it tries help me by indexing and caching modules I don't use for search and auto-complete and means I'm adding an unnecessary difference to how the app runs locally when I can easily debug it vs. when built for deployment. Neither issue is earth-shattering but given amplify has been designed to be modular, it seems like could easily be handled in a better way (and it's already listed as a peer dependency with a different version?)
 
@@ -44885,9 +44885,9 @@ class SomeService {
 
 ---------------
 
-Author: @mruzekw
-Upvotes: 1
-Comments: 2
+**Author**: @mruzekw
+**Upvotes**: 1
+**Comments**: 2
 
 Hi there,
 
@@ -44932,9 +44932,9 @@ Hope that helps!
 
 ---------------
 
-Author: @rahulje9
-Upvotes: 1
-Comments: 1
+**Author**: @rahulje9
+**Upvotes**: 1
+**Comments**: 1
 
 Hi,
  I'm using user pool. I have completed signup with email now trying to implement social login.
@@ -44979,9 +44979,9 @@ just catching up on this. did you end up figuring it out? you said you are using
 
 ---------------
 
-Author: @MontoyaAndres
-Upvotes: 1
-Comments: 1
+**Author**: @MontoyaAndres
+**Upvotes**: 1
+**Comments**: 1
 
 I have this model that was created without using @auth before and with the field `userId` created. Also, this model has data...
 
@@ -45008,9 +45008,9 @@ just catching up on this. interesting! did you end up figuring it out? can you p
 
 ---------------
 
-Author: @mikemeyer30
-Upvotes: 1
-Comments: 1
+**Author**: @mikemeyer30
+**Upvotes**: 1
+**Comments**: 1
 
 I am currently trying to write tests for a component that uses amplify authentication.
 I created a mock for Amplify and it works for tests for my other components, but any tests written for components that are wrapped in <AuthContext.Consumer> fail with this error: 
@@ -45041,9 +45041,9 @@ yeah youre using amplify in Node. can you show how you `require` it? thats going
 
 ---------------
 
-Author: @rooleek
-Upvotes: 1
-Comments: 2
+**Author**: @rooleek
+**Upvotes**: 1
+**Comments**: 2
 
 Hi guys,
 
@@ -45074,9 +45074,9 @@ Author: @sw-yx
 
 ---------------
 
-Author: @Neuroforge
-Upvotes: 2
-Comments: 1
+**Author**: @Neuroforge
+**Upvotes**: 2
+**Comments**: 1
 
 Hello,
 
@@ -45135,9 +45135,9 @@ just catching up on this. interesting! did you end up figuring it out? the await
 
 ---------------
 
-Author: @magjack
-Upvotes: 1
-Comments: 1
+**Author**: @magjack
+**Upvotes**: 1
+**Comments**: 1
 
 I was wondering on the possibility of being about to use a graphql subscription where all events are subscribed to by a service worker, which can then generate a notification. (https://aws-amplify.github.io/docs/js/service-workers). Is it possible to link the two ? 
 ## Comment
@@ -45156,9 +45156,9 @@ you can use Hub to send messages to your SWs https://docs.amplify.aws/lib/utilit
 
 ---------------
 
-Author: @ravyg
-Upvotes: 1
-Comments: 1
+**Author**: @ravyg
+**Upvotes**: 1
+**Comments**: 1
 
 We have a react based portal using amplify.js, which host multiple apps owned by various teams. We are looking for a solution to provide them with a way where they can see their own metrics. The idea is to use amplify analytics to send records to different AWS accounts pinpoints based on the app teams.     
 ## Comment
@@ -45177,9 +45177,9 @@ just catching up on this. interesting! did you end up figuring it out?
 
 ---------------
 
-Author: @abdulelah1
-Upvotes: 1
-Comments: 1
+**Author**: @abdulelah1
+**Upvotes**: 1
+**Comments**: 1
 
 This is my code here 
 
@@ -45266,9 +45266,9 @@ this needs more detail i'm afraid. if the code runs in an aws lambda, it is work
 
 ---------------
 
-Author: @iaarnio
-Upvotes: 2
-Comments: 0
+**Author**: @iaarnio
+**Upvotes**: 2
+**Comments**: 0
 
 I have a project that uses AWS Amplify with GraphQL API. For hosting I have added custom domain for the project. All this is working fine.
 
@@ -45286,9 +45286,9 @@ Is there any way to support both GraphQL and REST APIs in the same custom domain
 
 ---------------
 
-Author: @lenarmazitov
-Upvotes: 1
-Comments: 0
+**Author**: @lenarmazitov
+**Upvotes**: 1
+**Comments**: 0
 
 Hello guys, I have a question.
 How DataStore works with remote storage with huge amount of data?
@@ -45303,9 +45303,9 @@ Assume we write messenger application and have millions of users, is it reasonab
 
 ---------------
 
-Author: @Johnniexson
-Upvotes: 1
-Comments: 1
+**Author**: @Johnniexson
+**Upvotes**: 1
+**Comments**: 1
 
 Hello each time i run API.graphql(graphqlOperation(mutations.deleteTodo, id)), the data is not actually deleted it just set the _deleted field to true with ttl field, and whenever i do API.graphql(graphqlOperation(queries.listTodo)), it returns all todos including deleted ones. is there anyway i can delete the data completly from the DynamoDB table? or am i missing something??? Thanks. 🙏🙏
 ## Comment
@@ -45324,9 +45324,9 @@ mhhh, strange ... it is not the default behavior. I would recommend to remove th
 
 ---------------
 
-Author: @ifmael
-Upvotes: 1
-Comments: 1
+**Author**: @ifmael
+**Upvotes**: 1
+**Comments**: 1
 
 
 I've created a schema 
@@ -45390,9 +45390,9 @@ could find any good source that explains the auth topic within the schema.
 
 ---------------
 
-Author: @mkaschke
-Upvotes: 1
-Comments: 0
+**Author**: @mkaschke
+**Upvotes**: 1
+**Comments**: 0
 
 Hello everyone,
 
@@ -45418,9 +45418,9 @@ PS. It seems pretty easy but I couldn't find a proper solution.
 
 ---------------
 
-Author: @BarbaraPruz
-Upvotes: 2
-Comments: 0
+**Author**: @BarbaraPruz
+**Upvotes**: 2
+**Comments**: 0
 
 Quick version of question: Should I be able to set up subscriptions with
 `{allow: owner, ownerField: "listGroup", identityClaim:"custom:groupname"}`
@@ -45471,9 +45471,9 @@ Thanks
 
 ---------------
 
-Author: @mithunkalan
-Upvotes: 1
-Comments: 0
+**Author**: @mithunkalan
+**Upvotes**: 1
+**Comments**: 0
 
 I have a large user base with really basic smart phones. Think Galaxy S1 with browser stock android 2.3.3 ginger bread.
 ReactJS doesnt render for them. So i'm trying SSR to cut down the JS in the page. Next.js and Gatsby doesnt render either. Razzle is way too complicated and somewhat still in prototype. 
@@ -45496,9 +45496,9 @@ I've looked at the Credentials.set & that will only work if im doing federation.
 
 ---------------
 
-Author: @mogarick
-Upvotes: 1
-Comments: 0
+**Author**: @mogarick
+**Upvotes**: 1
+**Comments**: 0
 
 I’m using the following  versions for a React Native app (The amplify related libs omitted for brevity): 
 * “@aws-amplify/api”: “^3.1.9”
@@ -46088,9 +46088,9 @@ Thank you in advance.
 
 ---------------
 
-Author: @Blkc
-Upvotes: 1
-Comments: 1
+**Author**: @Blkc
+**Upvotes**: 1
+**Comments**: 1
 
 According to [doc](https://docs.amplify.aws/ui/auth/authenticator/q/framework/react-native#using-withauthenticator-hoc), to change the colors I would need to use AmplifyTheme
 
@@ -46178,9 +46178,9 @@ With that said, this is something we are looking to improve in the future.
 
 ---------------
 
-Author: @kheriox-technologies
-Upvotes: 2
-Comments: 0
+**Author**: @kheriox-technologies
+**Upvotes**: 2
+**Comments**: 0
 
 We have an application which uses our custom auth service. It uses Cognito & Azure. We are not using Amplify Auth for some customisation reasons. We do get authenticated and get the tokens from Cognito.
 
@@ -46207,9 +46207,9 @@ How do I pass in my jwtToken to Amplify config to be used by `Datastore.save()` 
 
 ---------------
 
-Author: @masbaehr
-Upvotes: 1
-Comments: 1
+**Author**: @masbaehr
+**Upvotes**: 1
+**Comments**: 1
 
 As it clearly states here: https://github.com/aws/aws-sdk-js-v3 it is in beta
 Should we really use v3 in production or is v2 amplify still recommended?
@@ -46230,9 +46230,9 @@ Hello, for Amplify use cases using AWS SDK v3, they are supported for production
 
 ---------------
 
-Author: @mk0y
-Upvotes: 1
-Comments: 1
+**Author**: @mk0y
+**Upvotes**: 1
+**Comments**: 1
 
 Hi, I already asked this question on SO: https://stackoverflow.com/questions/61599944/aws-amplify-confirm-signup-with-email-verification
 
@@ -46260,9 +46260,9 @@ I need help on getting my Facebook back in active please
 
 ---------------
 
-Author: @kerzmaximilian
-Upvotes: 1
-Comments: 1
+**Author**: @kerzmaximilian
+**Upvotes**: 1
+**Comments**: 1
 
 Dear AWS Amplify team, 
 
@@ -46302,9 +46302,9 @@ Serge
 
 ---------------
 
-Author: @karrettgelley
-Upvotes: 1
-Comments: 1
+**Author**: @karrettgelley
+**Upvotes**: 1
+**Comments**: 1
 
 ** Which Category is your question related to? **
 Auth
@@ -46330,9 +46330,9 @@ Author: @ashika01
 
 ---------------
 
-Author: @ajitgoel
-Upvotes: 1
-Comments: 0
+**Author**: @ajitgoel
+**Upvotes**: 1
+**Comments**: 0
 
 Hello all, 
 I have an existing AWS API gateway(payments api, payments path) which points to a .Net lambda function.
@@ -46348,9 +46348,9 @@ I have fiddled with `amplify update api `and `amplify add function` commands but
 
 ---------------
 
-Author: @Muttaki-Khan
-Upvotes: 1
-Comments: 0
+**Author**: @Muttaki-Khan
+**Upvotes**: 1
+**Comments**: 0
 
 I am using amplify i18n library for internationalization
  import { I18n } from '@aws-amplify/core';
@@ -46374,9 +46374,9 @@ how to call this I18n function
 
 ---------------
 
-Author: @mdunbavan
-Upvotes: 1
-Comments: 0
+**Author**: @mdunbavan
+**Upvotes**: 1
+**Comments**: 0
 
 Hi, I am working on a Vue JS app with Amplify.
 
@@ -46399,9 +46399,9 @@ Mark
 
 ---------------
 
-Author: @weisisheng
-Upvotes: 1
-Comments: 0
+**Author**: @weisisheng
+**Upvotes**: 1
+**Comments**: 0
 
 Not sure where to post this but suggested here.  After updating the amplify-sdk, cli, and amplify-js (I think) a few days ago, I am no longer able to reach some endpoints (us-west-2 and ap-southeast-1) nor the aws docs site.  Having used a VPN for years since in mainland China and AWS universe (serverless for 12 months or so while learning the framework), I have never seen this problem.  Googling doesn't help.  If I switch to google outline or lantern, I can reach them even though I have to fiddle with extra proxy settings at the command line.  Thanks in advance.
 
@@ -46413,9 +46413,9 @@ Not sure where to post this but suggested here.  After updating the amplify-sdk,
 
 ---------------
 
-Author: @randalb1991
-Upvotes: 1
-Comments: 1
+**Author**: @randalb1991
+**Upvotes**: 1
+**Comments**: 1
 
 Hi guys, 
 
@@ -46496,9 +46496,9 @@ According AWS Amplify documentation region is a not mandatory parameter in aws-e
 
 ---------------
 
-Author: @mrgoos
-Upvotes: 1
-Comments: 2
+**Author**: @mrgoos
+**Upvotes**: 1
+**Comments**: 2
 
 Hi,
 It seems like there isn't a clear doc in the new amplify website about how to use SAML (auth0 specifically) as identity provider.
@@ -46562,9 +46562,9 @@ I just use cognito by itself -- I'm less sure about auth0, sorry.  I would guess
 
 ---------------
 
-Author: @grundmanise
-Upvotes: 1
-Comments: 0
+**Author**: @grundmanise
+**Upvotes**: 1
+**Comments**: 0
 
 I was studying how the Cache module works, more specifically how it calculates byte size.
 
@@ -46617,9 +46617,9 @@ Am I missing something?
 
 ---------------
 
-Author: @lenarmazitov
-Upvotes: 2
-Comments: 0
+**Author**: @lenarmazitov
+**Upvotes**: 2
+**Comments**: 0
 
 Hello guys.
 I have a question.
@@ -46635,9 +46635,9 @@ And clear expired data from local storage along with sync process?
 
 ---------------
 
-Author: @LucasAndrad
-Upvotes: 1
-Comments: 1
+**Author**: @LucasAndrad
+**Upvotes**: 1
+**Comments**: 1
 
 What's the difference between`aws-amplify-react` and `@aws-amplify/ui-react` ?
 
@@ -46661,9 +46661,9 @@ https://stackoverflow.com/questions/62142118/whats-the-difference-between-aws-am
 
 ---------------
 
-Author: @rajeshchoudhari147
-Upvotes: 1
-Comments: 2
+**Author**: @rajeshchoudhari147
+**Upvotes**: 1
+**Comments**: 2
 
 I'm creating a react native expo application with AWS. I got this error once I added storage to the amplify using amplify add storage.  
 ## Comment
@@ -46689,9 +46689,9 @@ hi @rmit-s3705430-rajesh-choudhari - this is better suited as an Issue rather th
 
 ---------------
 
-Author: @VTSingle
-Upvotes: 1
-Comments: 0
+**Author**: @VTSingle
+**Upvotes**: 1
+**Comments**: 0
 
 Hi everyone. 
 When I try to use **Auth.federatedSignIn({provider: 'SignInWithApple'})** I am getting success, but I'm lose app name in modal window. 
@@ -46709,9 +46709,9 @@ Could you help me, how I can to get app name ?
 
 ---------------
 
-Author: @ranjeev75
-Upvotes: 1
-Comments: 2
+**Author**: @ranjeev75
+**Upvotes**: 1
+**Comments**: 2
 
 I'm using these libraries to store and display images for other users:
 
@@ -46773,9 +46773,9 @@ Author: @ashika01
 
 ---------------
 
-Author: @DavidTawil
-Upvotes: 1
-Comments: 0
+**Author**: @DavidTawil
+**Upvotes**: 1
+**Comments**: 0
 
 I'm trying to fully customize the look of the Amplify Authenticator pages to look like my company's theme.
 So far I've managed to customize the SignIn, ConfirmSignIn, ForgotPassword & RequireNewPassword.
@@ -46897,9 +46897,9 @@ Thanks in advance!
 
 ---------------
 
-Author: @pjohar
-Upvotes: 1
-Comments: 2
+**Author**: @pjohar
+**Upvotes**: 1
+**Comments**: 2
 
 We created an app using Amplify with React Native. 
 For adding API, we chose to add it from AppSync console - because we wanted to provision GraphQL queries for an existing DynamoDB table. https://docs.aws.amazon.com/appsync/latest/devguide/import-dynamodb.html
@@ -46949,9 +46949,9 @@ Side Note: you could use `amplify pull` to pull in changes from backend. https:/
 
 ---------------
 
-Author: @ARChatco
-Upvotes: 1
-Comments: 1
+**Author**: @ARChatco
+**Upvotes**: 1
+**Comments**: 1
 
 tried many of theme and not working prperly the theme modification
 ## Comment
@@ -46970,9 +46970,9 @@ This is something we are looking to improve in the future. However, does the [ex
 
 ---------------
 
-Author: @bbernays
-Upvotes: 1
-Comments: 0
+**Author**: @bbernays
+**Upvotes**: 1
+**Comments**: 0
 
 In 3.x.x Amplify removed support for `AWS.credentials` and `AWS.config`. In the [README.md](https://github.com/aws-amplify/amplify-js#amplify3xx-has-breaking-changes-please-see-the-breaking-changes-below) it says that a plan for handling this will be introduced post GA. 
 
@@ -46988,9 +46988,9 @@ We are being forced to use Amplify 2.x.x in a new project as we have an external
 
 ---------------
 
-Author: @jfharden
-Upvotes: 1
-Comments: 4
+**Author**: @jfharden
+**Upvotes**: 1
+**Comments**: 4
 
 I've been setting up a react app to auth using the cognito hosted ui with a custom domain against a simple user pool (no other auth providers, just the user pool).
 
@@ -47210,9 +47210,9 @@ Good to know it's been fixed
 
 ---------------
 
-Author: @yvescoinpass
-Upvotes: 1
-Comments: 0
+**Author**: @yvescoinpass
+**Upvotes**: 1
+**Comments**: 0
 
 I am implementing a blogging platform which user has to upload images for each content. I am wondering if I can during the upload I can get the permanent URL of the image as a response from AWS Amplify Storage.get function?
 
@@ -47234,9 +47234,9 @@ I wanted the URL because I will be saving it on the database. I don't want to ca
 
 ---------------
 
-Author: @berzavlu
-Upvotes: 1
-Comments: 0
+**Author**: @berzavlu
+**Upvotes**: 1
+**Comments**: 0
 
 hello, in the new feature to cancel request https://github.com/aws-amplify/amplify-js/pull/5753
 i have a question/feature, exist te posibility to cancel all request in the network?
@@ -47250,9 +47250,9 @@ i know now uses axios.cancel but axios have the option to assign same cancel tok
 
 ---------------
 
-Author: @kannieWeesNie
-Upvotes: 1
-Comments: 0
+**Author**: @kannieWeesNie
+**Upvotes**: 1
+**Comments**: 0
 
 when using the CLI for example, to add or update AUTH a number of options are displayed in the terminal to which we need to respond, mostly with Y or N or enter, etc.
 
@@ -47268,9 +47268,9 @@ thanks
 
 ---------------
 
-Author: @kannieWeesNie
-Upvotes: 1
-Comments: 0
+**Author**: @kannieWeesNie
+**Upvotes**: 1
+**Comments**: 0
 
 using amplify REST api, how to delete item?
 
@@ -47298,9 +47298,9 @@ thanks
 
 ---------------
 
-Author: @dogsonacid
-Upvotes: 1
-Comments: 1
+**Author**: @dogsonacid
+**Upvotes**: 1
+**Comments**: 1
 
 any idea what the issue is here?
 ## Comment
@@ -47319,9 +47319,9 @@ it's intermittent , sometimes query works sometimes it fails. AWS issues?
 
 ---------------
 
-Author: @kjetilge
-Upvotes: 1
-Comments: 1
+**Author**: @kjetilge
+**Upvotes**: 1
+**Comments**: 1
 
 So i tried this in a slot:
 ```
@@ -47369,9 +47369,9 @@ The code above is wrong: It's like this:
 
 ---------------
 
-Author: @ataravati
-Upvotes: 1
-Comments: 0
+**Author**: @ataravati
+**Upvotes**: 1
+**Comments**: 0
 
 I'm using AWS Amplify with email as username and I use phone number for MFA. But, I also need to make sure that phone number is always unique. Each user should sign up with a unique phone number. How can I enforce that?
 
@@ -47383,9 +47383,9 @@ I'm using AWS Amplify with email as username and I use phone number for MFA. But
 
 ---------------
 
-Author: @nubpro
-Upvotes: 1
-Comments: 0
+**Author**: @nubpro
+**Upvotes**: 1
+**Comments**: 0
 
 Question 1:
 As per title, do I have to setup a subscription to observe every single tables that we're using?
@@ -47406,9 +47406,9 @@ We load all orders with `DataStore.query`. When a user press on the order, we wi
 
 ---------------
 
-Author: @mdoesburg
-Upvotes: 2
-Comments: 0
+**Author**: @mdoesburg
+**Upvotes**: 2
+**Comments**: 0
 
 I am working on a React Native app using DataStore. Whenever the data gets updated in the cloud, an external service needs to be notified of the updated data.
 
@@ -47434,9 +47434,9 @@ I guess I am really just wondering what the best way is to achieve the above thi
 
 ---------------
 
-Author: @ffxsam
-Upvotes: 1
-Comments: 0
+**Author**: @ffxsam
+**Upvotes**: 1
+**Comments**: 0
 
 I've raised this topic quite a while ago, but a lot has changed with Amplify (and now there's DataStore!), so I wanted to revisit this. I've been using AppSync with Aurora Serverless (Postgres), which admittedly feels a bit like shoe-horning something to work properly. AppSync definitely seems to be built with DynamoDB as a 1st class citizen.
 
@@ -47465,9 +47465,9 @@ I'd appreciate any advice!
 
 ---------------
 
-Author: @fboudra
-Upvotes: 1
-Comments: 1
+**Author**: @fboudra
+**Upvotes**: 1
+**Comments**: 1
 
 Using **Vue** framework, the migration doc is limited:
 https://docs.amplify.aws/ui/auth/authenticator/q/framework/vue#migration
@@ -47495,9 +47495,9 @@ With the new @aws-amplify/ui-vue components, the migration section of the docume
 
 ---------------
 
-Author: @samavedulark
-Upvotes: 1
-Comments: 0
+**Author**: @samavedulark
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 
@@ -47520,9 +47520,9 @@ Rav
 
 ---------------
 
-Author: @nihp
-Upvotes: 1
-Comments: 0
+**Author**: @nihp
+**Upvotes**: 1
+**Comments**: 0
 
 I need to enable MFA for a user while Auth.signUp(). Here some users can able to get code while  registering and some are not able to register because they failed to receive code. 
 
@@ -47540,9 +47540,9 @@ Can anyone is there to clarify this? If I set this as optional does it send MFA 
 
 ---------------
 
-Author: @nihp
-Upvotes: 1
-Comments: 0
+**Author**: @nihp
+**Upvotes**: 1
+**Comments**: 0
 
 How can I enable SMS MFA for the user who is registering for the first time.
 
@@ -47558,9 +47558,9 @@ How can I trigger this if the MFA is not enabled while Auth.signUp in aws-amplif
 
 ---------------
 
-Author: @nihp
-Upvotes: 1
-Comments: 0
+**Author**: @nihp
+**Upvotes**: 1
+**Comments**: 0
 
 How can I know if the user received code while doing Auth.signUp in aws-amplify-react-native.
 
@@ -47585,9 +47585,9 @@ Any inputs on this will be appreciated
 
 ---------------
 
-Author: @bmilesp
-Upvotes: 1
-Comments: 1
+**Author**: @bmilesp
+**Upvotes**: 1
+**Comments**: 1
 
 Hello, I'm trying to instantiate the I18n object but it doesn't seem to recognize the I18n functions when I do so:
 
@@ -47641,9 +47641,9 @@ You're likely wanting to use `I18n.get('Sign In')`:
 
 ---------------
 
-Author: @tombrouwer
-Upvotes: 1
-Comments: 0
+**Author**: @tombrouwer
+**Upvotes**: 1
+**Comments**: 0
 
 I am trying to do my first GraphQL request to a custom mutation. But I get a 401 UnauthorizedException, i tried a lot, searched a lot, but didn't solve it yet. Is there a way to get more info about the failed request (why is my token not valid?).
 
@@ -47743,9 +47743,9 @@ type Mutation {
 
 ---------------
 
-Author: @veproza
-Upvotes: 1
-Comments: 17
+**Author**: @veproza
+**Upvotes**: 1
+**Comments**: 17
 
 **Describe the bug**
 When Auth module is not imported anywhere in project, an AuthError is logged into console, confusing newcomers
@@ -48093,9 +48093,9 @@ Seems we're getting the same error on our end. I'm setup with a working project.
 
 ---------------
 
-Author: @Johnniexson
-Upvotes: 1
-Comments: 1
+**Author**: @Johnniexson
+**Upvotes**: 1
+**Comments**: 1
 
 Hello guys, i have this model: 
 
@@ -48141,9 +48141,9 @@ Default limit is 10 items. You can pass in a higher limit and paginate through b
 
 ---------------
 
-Author: @Johnniexson
-Upvotes: 1
-Comments: 0
+**Author**: @Johnniexson
+**Upvotes**: 1
+**Comments**: 0
 
 Hello guys, how come on `amplify codegen` for angular projects the generated statements in the generated graphql folder are mutations.graphql, queries.graphql, schema.json, subscriptions.graphql.
 
@@ -48171,9 +48171,9 @@ const subscription = API.graphql(graphqlOperation(subscriptions.OnCreateTodo, va
 
 ---------------
 
-Author: @asparamancer
-Upvotes: 1
-Comments: 0
+**Author**: @asparamancer
+**Upvotes**: 1
+**Comments**: 0
 
 How can I change defaultCountryCode in AmplifySignUp?
 
@@ -48200,9 +48200,9 @@ for other formFields items but can't see how to do it for defaultCountryCode
 
 ---------------
 
-Author: @shahid285
-Upvotes: 1
-Comments: 1
+**Author**: @shahid285
+**Upvotes**: 1
+**Comments**: 1
 
 Hi All, I am new to AWS ans also AWSAPPSync. I am trying to fetch records from DynamoDB using GSI, post seeing multiple post here suggesting GSI as the way to achieve consistency in results.
 I did create a GSI index for my table, and then proceed to write the query in request mapping template. post writing the query, i am getting 'MappingTemplate' Error as below
@@ -48247,9 +48247,9 @@ Shahid Nawaz
 
 ---------------
 
-Author: @sonphnt
-Upvotes: 2
-Comments: 0
+**Author**: @sonphnt
+**Upvotes**: 2
+**Comments**: 0
 
 Hi,
 
@@ -48267,9 +48267,9 @@ I can not find any settings in PinPoint with "Allow domain" only for my site to 
 
 ---------------
 
-Author: @emmi
-Upvotes: 1
-Comments: 0
+**Author**: @emmi
+**Upvotes**: 1
+**Comments**: 0
 
 Related to @amplify-js/ui-components amplify-toast
 
@@ -48285,9 +48285,9 @@ Is there any ways to do this with the current version or should I look into maki
 
 ---------------
 
-Author: @sakhmedbayev
-Upvotes: 1
-Comments: 0
+**Author**: @sakhmedbayev
+**Upvotes**: 1
+**Comments**: 0
 
 Has anyone successfully made DataStore work with Gatsby.js? What does it take? Do you have an example?
 
@@ -48299,9 +48299,9 @@ Has anyone successfully made DataStore work with Gatsby.js? What does it take? D
 
 ---------------
 
-Author: @TimNZ
-Upvotes: 1
-Comments: 1
+**Author**: @TimNZ
+**Upvotes**: 1
+**Comments**: 1
 
 EIGHT - 8 - Cognito API calls triggered by Auth.signIn(username,password) on fresh load of app, with Device tracking enabled.
 
@@ -48375,9 +48375,9 @@ Author: @elorzafe
 
 ---------------
 
-Author: @amerida63
-Upvotes: 1
-Comments: 1
+**Author**: @amerida63
+**Upvotes**: 1
+**Comments**: 1
 
 Anything new with the login functionality with apple at the User Pool level, I'm trying to implement it with Swift, (Mobile only). I have configured the entire environment but it does not work.
 
@@ -48458,9 +48458,9 @@ Is this your issue? https://github.com/aws-amplify/amplify-js/issues/5723
 
 ---------------
 
-Author: @Danielduel
-Upvotes: 1
-Comments: 1
+**Author**: @Danielduel
+**Upvotes**: 1
+**Comments**: 1
 
 Have you some thoughts about providing typescript and/or deno lambdas straight from cli?
 Like adding additional step to `amplify function add` (and updating it)
@@ -48483,9 +48483,9 @@ I am moving this discussion into amplify-cli repo.
 
 ---------------
 
-Author: @nubpro
-Upvotes: 1
-Comments: 1
+**Author**: @nubpro
+**Upvotes**: 1
+**Comments**: 1
 
 I'm kinda of flustered using Datastore at this point, there's certain stuff that I don't understand especially the syntax **query**.
 
@@ -48542,9 +48542,9 @@ BTW, this is an issue we are aware of and we are working on it, you'll be able t
 
 ---------------
 
-Author: @yonnyviz
-Upvotes: 1
-Comments: 0
+**Author**: @yonnyviz
+**Upvotes**: 1
+**Comments**: 0
 
 👋  Hi Guys
 
@@ -48560,9 +48560,9 @@ Would like to know your thoughts on what is the best approach to implement ampli
 
 ---------------
 
-Author: @OElesin
-Upvotes: 1
-Comments: 0
+**Author**: @OElesin
+**Upvotes**: 1
+**Comments**: 0
 
 How do I invoke a SageMaker endpoint using AmplifyJS? Is there any documentation about this?
 
@@ -48574,9 +48574,9 @@ How do I invoke a SageMaker endpoint using AmplifyJS? Is there any documentation
 
 ---------------
 
-Author: @myfairshare
-Upvotes: 1
-Comments: 0
+**Author**: @myfairshare
+**Upvotes**: 1
+**Comments**: 0
 
 Lets say I'm developing an app like Uber where I have 2 types of user, I want **drivers** to register and I want **customers** to register.  
 
@@ -48594,9 +48594,9 @@ I'm a little bit unsure of this step so any thoughts welcome, thank you!
 
 ---------------
 
-Author: @zerox92
-Upvotes: 1
-Comments: 0
+**Author**: @zerox92
+**Upvotes**: 1
+**Comments**: 0
 
 Hello,
 
@@ -48657,9 +48657,9 @@ type Job @model {
 
 ---------------
 
-Author: @michaelmerrill
-Upvotes: 1
-Comments: 1
+**Author**: @michaelmerrill
+**Upvotes**: 1
+**Comments**: 1
 
 I wanted to check in about the SSR work happening on this library. I know @ericclemmons has been making a lot of progress lately and I just wanted to say thank you for all your hard work!
 
@@ -48725,9 +48725,9 @@ We haven't settled on the API usage yet, but we'll be documenting it in https://
 
 ---------------
 
-Author: @tcodes0
-Upvotes: 1
-Comments: 0
+**Author**: @tcodes0
+**Upvotes**: 1
+**Comments**: 0
 
 I'm stuck in an authentication problem to hit my graphql API using AppSync. API is set to default authorization of cognito userpools. Basically I want to support third party login (facebook/apple) which return me a JWT. Sending this JWT as `Authorization` header doesn't work and results in a 401, every single time I tried. Tried digging docs and setting API to OpenId Connect default authentication, nothing works.
 
@@ -48770,9 +48770,9 @@ AWS.config.credentials.get(function(){
 
 ---------------
 
-Author: @muriloSanto
-Upvotes: 1
-Comments: 0
+**Author**: @muriloSanto
+**Upvotes**: 1
+**Comments**: 0
 
 Have anyone tried using AWS Lambda Proxy with RDS to reuse connections?
 
@@ -48788,9 +48788,9 @@ Already tried launching RDS instaces from multiple versions, instance types, eng
 
 ---------------
 
-Author: @ajitgoel
-Upvotes: 1
-Comments: 1
+**Author**: @ajitgoel
+**Upvotes**: 1
+**Comments**: 1
 
 I have the following working  code that return all the information related to user profile. How can I change the code to return only including  id, userId, vocabularies(since the Vocabulary screen only requires Vocabulary related information)? 
 
@@ -48844,9 +48844,9 @@ I was able to fix this issue by duplicating the query, rename exported const nam
 
 ---------------
 
-Author: @BryceAMcDaniel
-Upvotes: 1
-Comments: 1
+**Author**: @BryceAMcDaniel
+**Upvotes**: 1
+**Comments**: 1
 
 Recently read that DynamoDB suggests a Single Table schema. Should this be implemented with Amplify? Does Amplify do anything under the hood to improve my multi table schema?
 
@@ -48867,9 +48867,9 @@ This has been discussed a bit, you can [find the discussion here](https://github
 
 ---------------
 
-Author: @fireflysemantics
-Upvotes: 1
-Comments: 4
+**Author**: @fireflysemantics
+**Upvotes**: 1
+**Comments**: 4
 
 When typing `amplify update auth` it used to ask if I wanted to update the redirect URIs.
 
@@ -48948,9 +48948,9 @@ I think there's a bug here.  If I complete update auth then I get all the option
 
 ---------------
 
-Author: @Johnniexson
-Upvotes: 1
-Comments: 1
+**Author**: @Johnniexson
+**Upvotes**: 1
+**Comments**: 1
 
 Hello guys, i'm having some issues with datastore query as all my fields with `@connection` directives are missing when data is been queried. 
 
@@ -49078,9 +49078,9 @@ const userInstitution = (await DataStore.query<Institution>(Institution)).find((
 
 ---------------
 
-Author: @lukeramsden
-Upvotes: 1
-Comments: 2
+**Author**: @lukeramsden
+**Upvotes**: 1
+**Comments**: 2
 
 I'm using the GraphQL API and Cognito User Pools, and I'd like to have a "UserProfile" model to store all user-related data that does not fit in to the standard OIDC claims (things like S3 objects and complex one-to-many relationships), so obviously I start with this:
 
@@ -49136,9 +49136,9 @@ Also interesting to note is that with the above model, a create and an update se
 
 ---------------
 
-Author: @tomeraz
-Upvotes: 1
-Comments: 2
+**Author**: @tomeraz
+**Upvotes**: 1
+**Comments**: 2
 
 Is there a way to know the signup email or userpool userId from an cognito identity id?
 Or perhaps getting cognito identity id from a userpool userId ?
@@ -49172,9 +49172,9 @@ Auth.currentUserInfo().then(info => {
 
 ---------------
 
-Author: @camilobern
-Upvotes: 1
-Comments: 1
+**Author**: @camilobern
+**Upvotes**: 1
+**Comments**: 1
 
 Hi,
 
@@ -49212,9 +49212,9 @@ So now a user would need to hit cancel on the verify code page (or hit refresh) 
 
 ---------------
 
-Author: @kannieWeesNie
-Upvotes: 1
-Comments: 0
+**Author**: @kannieWeesNie
+**Upvotes**: 1
+**Comments**: 0
 
 i want a cognito authorized user to be able to publish and subscribe to AWS IoT using Amplify PubSub but am having difficulty doing so.
 
@@ -49290,9 +49290,9 @@ thanks
 
 ---------------
 
-Author: @azizur
-Upvotes: 1
-Comments: 0
+**Author**: @azizur
+**Upvotes**: 1
+**Comments**: 0
 
 I am trying to find some docs on how to configuring AWS Amplify for modularized imports.
 
@@ -49348,9 +49348,9 @@ Interested to hear your thoughts @mbahar @wlee221 @dabit3 since you thought abou
 
 ---------------
 
-Author: @ajitgoel
-Upvotes: 1
-Comments: 1
+**Author**: @ajitgoel
+**Upvotes**: 1
+**Comments**: 1
 
 ** Which Category is your question related to? **
 Auth and credentials
@@ -49397,9 +49397,9 @@ Have you made sure that when you're submitting the second time, that `this.oldPa
 
 ---------------
 
-Author: @victoryurkin
-Upvotes: 1
-Comments: 0
+**Author**: @victoryurkin
+**Upvotes**: 1
+**Comments**: 0
 
 Let say I have the following schema.graphql:
 
@@ -49431,9 +49431,9 @@ Pretty common case, I assume, but didn't find much information... Thanks in adva
 
 ---------------
 
-Author: @kimfucious
-Upvotes: 1
-Comments: 1
+**Author**: @kimfucious
+**Upvotes**: 1
+**Comments**: 1
 
 The below describes the functionality of a toy React app, created with Amplify:
 - API (graphQL/AppSync)
@@ -49643,9 +49643,9 @@ export const useSubscription = () => {
 
 ---------------
 
-Author: @mrichman
-Upvotes: 1
-Comments: 1
+**Author**: @mrichman
+**Upvotes**: 1
+**Comments**: 1
 
 I’m trying to understand why, with a Cognito-authenticated ID, `Storage.put` is uploading to `/private/<identityid>/foo.txt`. I guess I’m expecting it to go to `/private/<cognito:sub>/foo.txt`.
 
@@ -49678,9 +49678,9 @@ Fine grained IAM policies (which is what S3 uses) are only supported for Identit
 
 ---------------
 
-Author: @dittmarconsulting
-Upvotes: 1
-Comments: 1
+**Author**: @dittmarconsulting
+**Upvotes**: 1
+**Comments**: 1
 
 I've been trying out all ways to get the **Amplify/PubSub** working without any luck. It seems all the documentation are rather outdated.
 
@@ -49837,9 +49837,9 @@ I finally figured it out. [Here the solution](https://stackoverflow.com/question
 
 ---------------
 
-Author: @avlonder
-Upvotes: 1
-Comments: 0
+**Author**: @avlonder
+**Upvotes**: 1
+**Comments**: 0
 
 Hello everyone,
 I'm working on a social app where users can send group and event invitations to each other. I use Cognito user pools, DynamoDB tables and AppSync queries/mutations. But I'm somewhat confused whether I should use AppSync subscriptions, a dynamoDB data stream that triggers a Lambda function that emits Pinpoint push notifications, or even a combination of both to send the invitations... What do you think is the best approach for my use case?
@@ -49852,9 +49852,9 @@ I'm working on a social app where users can send group and event invitations to 
 
 ---------------
 
-Author: @mlafo
-Upvotes: 1
-Comments: 0
+**Author**: @mlafo
+**Upvotes**: 1
+**Comments**: 0
 
 I try to use Predictions with bytes type source but I can't provide the good type.
 
@@ -49893,9 +49893,9 @@ Does anyone know how to do that, or is there a bug ?
 
 ---------------
 
-Author: @devth
-Upvotes: 1
-Comments: 0
+**Author**: @devth
+**Upvotes**: 1
+**Comments**: 0
 
 I originally setup auth via `amplify auth add` and went through the process to configure "Login with Amazon" and Google. These both worked, and both showed up. 
 
@@ -49937,9 +49937,9 @@ How do I get FB to show up on the hosted UI? 🤔
 
 ---------------
 
-Author: @Hideman85
-Upvotes: 1
-Comments: 2
+**Author**: @Hideman85
+**Upvotes**: 1
+**Comments**: 2
 
 I try to find any doc to configure awscloudformation provider with no success.
 
@@ -49977,9 +49977,9 @@ Thank you.
 
 ---------------
 
-Author: @kkrzyzek
-Upvotes: 1
-Comments: 0
+**Author**: @kkrzyzek
+**Upvotes**: 1
+**Comments**: 0
 
 Hi all,
 
@@ -50023,9 +50023,9 @@ Why am I not getting the encoded audioStream file content in response from Lex a
 
 ---------------
 
-Author: @Nutriadmin
-Upvotes: 1
-Comments: 1
+**Author**: @Nutriadmin
+**Upvotes**: 1
+**Comments**: 1
 
 When I run a mutation like:
 
@@ -50067,9 +50067,9 @@ I think the solution would be to write a custom resolver. The resolver would do 
 
 ---------------
 
-Author: @nihp
-Upvotes: 1
-Comments: 1
+**Author**: @nihp
+**Upvotes**: 1
+**Comments**: 1
 
 I have customized my UI screens and using Auth.SignUp for signIn. Here I need to navigate inside the screen.
 
@@ -50107,9 +50107,9 @@ https://github.com/alowa-apps/baseApp/blob/master/App.js
 
 ---------------
 
-Author: @ernestostifano
-Upvotes: 1
-Comments: 0
+**Author**: @ernestostifano
+**Upvotes**: 1
+**Comments**: 0
 
 Hi! I can’t find any reference in docs about how to access user requests/responses (like with CloudFront lambda@edge triggers).
 
@@ -50125,9 +50125,9 @@ Is there some way to do that? Can I use a custom CloudFront distribution and the
 
 ---------------
 
-Author: @jts-mjanda
-Upvotes: 1
-Comments: 3
+**Author**: @jts-mjanda
+**Upvotes**: 1
+**Comments**: 3
 
 I've recently begun a new react native project. Following standard documentation:
 
@@ -50245,9 +50245,9 @@ Issue #976 does not really address this issue
 
 ---------------
 
-Author: @karrettgelley
-Upvotes: 1
-Comments: 0
+**Author**: @karrettgelley
+**Upvotes**: 1
+**Comments**: 0
 
 Is there any good documentation on a realistic workflow using multiple frontends in multiple environments? I have a react app with all of the amplify files in one repo, and I'm starting a new react native app in another repo. I understand how to pull the exports file and do codegen in the react native repo, but I don't understand how I can have different branches hooked up to different environments at the same time.
 For instance, I want my project structure to look like this:
@@ -50271,9 +50271,9 @@ I won't talk about the react repo now, because I have multi-env down to this end
 
 ---------------
 
-Author: @sri7vasu
-Upvotes: 1
-Comments: 1
+**Author**: @sri7vasu
+**Upvotes**: 1
+**Comments**: 1
 
 Im using SignUp form like this using React (Typescript) and AmplifyAuthenticator like this below:
 
@@ -50323,9 +50323,9 @@ Author: @ashika01
 
 ---------------
 
-Author: @24jr
-Upvotes: 1
-Comments: 5
+**Author**: @24jr
+**Upvotes**: 1
+**Comments**: 5
 
 If I add `@key( fields: ["id", "username"])` the getUser requires both id and username rather than require id and have username be used like eq or gt like it used to. Like this
 
@@ -50395,9 +50395,9 @@ Okay I was initially thinking sort key was strictly for listing data and still r
 
 ---------------
 
-Author: @tabrza
-Upvotes: 1
-Comments: 2
+**Author**: @tabrza
+**Upvotes**: 1
+**Comments**: 2
 
 **Describe the bug**
 I am unable to style the chatbot component to the point of targeting to the granular point of input styling and response styling.
@@ -50673,9 +50673,9 @@ Potential solutions:
 
 ---------------
 
-Author: @ctlai95
-Upvotes: 1
-Comments: 1
+**Author**: @ctlai95
+**Upvotes**: 1
+**Comments**: 1
 
 I have a component that uploads files using `Storage.put()` on submit. I can see its progress in the `progressCallback` parameter. I also have a state hook that keeps track of the ongoing uploads.
 
@@ -50714,9 +50714,9 @@ Can you provide either a sample application or `App` code to provide context on 
 
 ---------------
 
-Author: @karrettgelley
-Upvotes: 1
-Comments: 1
+**Author**: @karrettgelley
+**Upvotes**: 1
+**Comments**: 1
 
 In my React app there are times when it would be nice to be able to send error logs to the cloud for mining later on. Does anyone know how to send errors to an aws service (cloudwatch?) instead of just logging it to the console?
 ## Comment
@@ -50740,9 +50740,9 @@ Though this is not directly supported out of the box for the Logger, you may be 
 
 ---------------
 
-Author: @ambriglia
-Upvotes: 2
-Comments: 1
+**Author**: @ambriglia
+**Upvotes**: 2
+**Comments**: 1
 
 I am trying to write one query, as opposed to many, to get some information I need utilizing graphql. Here is an example query I am working with... 
 
@@ -50812,9 +50812,9 @@ Option 1 works.
 
 ---------------
 
-Author: @cdm430
-Upvotes: 2
-Comments: 0
+**Author**: @cdm430
+**Upvotes**: 2
+**Comments**: 0
 
 I assume that `Auth.currentUserCredentials` returns tokens that correspond to the authenticated role? 
 
@@ -50832,9 +50832,9 @@ Thanks!
 
 ---------------
 
-Author: @hiroyukinuri
-Upvotes: 1
-Comments: 1
+**Author**: @hiroyukinuri
+**Upvotes**: 1
+**Comments**: 1
 
 I was wondering if there's a way or plans to integrate multi-tab login/logout like Firebase Auth?
 ## Comment
@@ -50853,9 +50853,9 @@ you can do it yourself in a few lines of code using BroadcastChannel, or you can
 
 ---------------
 
-Author: @Tamanko
-Upvotes: 1
-Comments: 2
+**Author**: @Tamanko
+**Upvotes**: 1
+**Comments**: 2
 
 I have an app that I have no issue signing into but after it signs in successfully, running the Auth.currentAuthenticatedUser() returns null.
 
@@ -50909,9 +50909,9 @@ Recently upgraded all versions of aforementioned modules but am still getting th
 
 ---------------
 
-Author: @keponk
-Upvotes: 1
-Comments: 1
+**Author**: @keponk
+**Upvotes**: 1
+**Comments**: 1
 
 I've renamed the source repo my aplify project was connected to. I can't seem to find a way to update this on the project.
 
@@ -50934,9 +50934,9 @@ Also we needed to recreate the amplify envs but this may have had more to do wit
 
 ---------------
 
-Author: @syang
-Upvotes: 1
-Comments: 0
+**Author**: @syang
+**Upvotes**: 1
+**Comments**: 0
 
 I am using Amplify's manual setup https://aws-amplify.github.io/docs/js/authentication#manual-setup:
 
@@ -50969,9 +50969,9 @@ I think the question is boiled down to which one will be the ultimate truth for 
 
 ---------------
 
-Author: @nuthankumarhr
-Upvotes: 1
-Comments: 0
+**Author**: @nuthankumarhr
+**Upvotes**: 1
+**Comments**: 0
 
 
 ![WhatsApp Image 2020-04-25 at 10 24 56 PM](https://user-images.githubusercontent.com/64323880/80285678-2d8d9200-8744-11ea-92b6-4e7134a03a90.jpeg)
@@ -50987,9 +50987,9 @@ is there any solution to this problem???
 
 ---------------
 
-Author: @rahulje9
-Upvotes: 1
-Comments: 0
+**Author**: @rahulje9
+**Upvotes**: 1
+**Comments**: 0
 
 Hi,
 
@@ -51003,9 +51003,9 @@ I have created a React Native IOT application which uses pubsub to publish the c
 
 ---------------
 
-Author: @rberger
-Upvotes: 1
-Comments: 1
+**Author**: @rberger
+**Upvotes**: 1
+**Comments**: 1
 
 With my package.json having something like:
 ```
@@ -51106,9 +51106,9 @@ I was able to fix the issue of http2 require leaking out by adding `:js-options 
 
 ---------------
 
-Author: @vaclav-slavik
-Upvotes: 1
-Comments: 0
+**Author**: @vaclav-slavik
+**Upvotes**: 1
+**Comments**: 0
 
 I'm struggling to find a way to customize `Authenticator` components to use desired font for form inputs and buttons.
 
@@ -51132,9 +51132,9 @@ Thanks for you time and effort and for Amplify initiative
 
 ---------------
 
-Author: @danrivett
-Upvotes: 2
-Comments: 0
+**Author**: @danrivett
+**Upvotes**: 2
+**Comments**: 0
 
 I'm trying to understand two things:
 
@@ -51164,9 +51164,9 @@ But of course it applies to many other service calls.
 
 ---------------
 
-Author: @albertbenitez
-Upvotes: 1
-Comments: 2
+**Author**: @albertbenitez
+**Upvotes**: 1
+**Comments**: 2
 
 I've been playing with the **amplify-authenticator** and **amplify-sign-in** components but the Properties like: 
 - federated
@@ -51206,9 +51206,9 @@ https://github.com/aws-amplify/amplify-js/tree/master/packages/amplify-ui-compon
 
 ---------------
 
-Author: @Jun711
-Upvotes: 1
-Comments: 1
+**Author**: @Jun711
+**Upvotes**: 1
+**Comments**: 1
 
 I am using aws-amplify 1.1.24. 
 I just checked today. It is now aws-amplify@3.0.8 and it was aws-amplify@2.3.0 23 days ago and it was aws-amplify@1.3.3 on Jan 10
@@ -51231,9 +51231,9 @@ Author: @mauerbac
 
 ---------------
 
-Author: @justinneff
-Upvotes: 1
-Comments: 0
+**Author**: @justinneff
+**Upvotes**: 1
+**Comments**: 0
 
 In the recent PR #4205, it indicates that it should refresh the credentials 50 minute after they were issued. However, I'm having difficulties actually getting this to happen. My AWSAppSyncClient is configured to set the auth header following the [Cognito User Pool example in the docs](https://docs.amplify.aws/lib/graphqlapi/authz/q/platform/js#cognito-user-pools).
 
@@ -51249,9 +51249,9 @@ Am I missing something here?
 
 ---------------
 
-Author: @Groot90
-Upvotes: 1
-Comments: 3
+**Author**: @Groot90
+**Upvotes**: 1
+**Comments**: 3
 
 ** Which Category is your question related to? **
 Auth
@@ -51322,9 +51322,9 @@ I'd suggest implementing the solution explained by @hotgazpacho here: https://gi
 
 ---------------
 
-Author: @
-Upvotes: 1
-Comments: 0
+**Author**: @
+**Upvotes**: 1
+**Comments**: 0
 
 Here is my lambda function for get request
 
@@ -51402,9 +51402,9 @@ with the above code I get 304 (a empty array)
 
 ---------------
 
-Author: @kennand
-Upvotes: 1
-Comments: 0
+**Author**: @kennand
+**Upvotes**: 1
+**Comments**: 0
 
 Hi - when using Amplify JS, how does the "Do you want to remember your user's devices?" in Cognito dashboard function? Should I leave it off? It seems like my localstorage persists either way...
 
@@ -51416,9 +51416,9 @@ Hi - when using Amplify JS, how does the "Do you want to remember your user's de
 
 ---------------
 
-Author: @thesmeexperts
-Upvotes: 1
-Comments: 0
+**Author**: @thesmeexperts
+**Upvotes**: 1
+**Comments**: 0
 
 Hello,
 
@@ -51450,9 +51450,9 @@ Many thanks
 
 ---------------
 
-Author: @Johnniexson
-Upvotes: 1
-Comments: 1
+**Author**: @Johnniexson
+**Upvotes**: 1
+**Comments**: 1
 
 Hello, In one of my amplify projects, i'm using cognito user pool for authentication and it seems the user must be authenticated to access any of the AWS service such as reading from the DynamoDB table. But on my landing page, i need to retrieve some public data from the database before authenticating the user, also i have a protected route that can only be accessed based on the data provided by an unauthenticated user, i use this data to query the DynamoDB table to grant access to the route. But AWS deny access (see screenshot below)
 ![amplify error](https://user-images.githubusercontent.com/33484116/79339400-bcb6d080-7f20-11ea-8b1c-ae9b98efca00.jpg)
@@ -51477,9 +51477,9 @@ https://docs.amplify.aws/lib/graphqlapi/query-data?platform=js#custom-authorizat
 
 ---------------
 
-Author: @karrettgelley
-Upvotes: 1
-Comments: 1
+**Author**: @karrettgelley
+**Upvotes**: 1
+**Comments**: 1
 
 How do I configure the Storage module if I'm using modular imports? I keep getting this weird error 'No Credentials' whenever I tried to call Storage.put(). My issue seems to be related to a few old issues (#3744, #5354), but I can't get my app to work with any of the solutions. It seems like the new modular imports require me to configure Storage in some particular way, but I can't find any documentation on it. 
 
@@ -51516,9 +51516,9 @@ I solved this by uninstalling the storage module and reinstalling.
 
 ---------------
 
-Author: @VicFrolov
-Upvotes: 1
-Comments: 1
+**Author**: @VicFrolov
+**Upvotes**: 1
+**Comments**: 1
 
 Let's say you have a Product and a Brand. Product has an array of photos, and brand has both a "cover" photo, and then also another array of photos:
 ```
@@ -51563,9 +51563,9 @@ Hi @VicFrolov - this seems like a great GraphQL general question. I'll convert t
 
 ---------------
 
-Author: @JohnAtFenestra
-Upvotes: 1
-Comments: 2
+**Author**: @JohnAtFenestra
+**Upvotes**: 1
+**Comments**: 2
 
 I am opening this question after a discussion with AWS Premium Support.
 
@@ -51700,9 +51700,9 @@ For the historical record, I've opened a new support case with AWS Premium Suppo
 
 ---------------
 
-Author: @chai86
-Upvotes: 1
-Comments: 0
+**Author**: @chai86
+**Upvotes**: 1
+**Comments**: 0
 
 @iartemiev I'm using AWS Amplify on my react native app, DynamoDB through GraphQL
 
@@ -51789,9 +51789,9 @@ Then call in my app:
 
 ---------------
 
-Author: @saevarb
-Upvotes: 1
-Comments: 0
+**Author**: @saevarb
+**Upvotes**: 1
+**Comments**: 0
 
 I have a model which serves as a M-M model with two connections. `Foo`, `Bar` and the M-M model `FooBar` which is roughly
 
@@ -51815,9 +51815,9 @@ I have noticed that when I call `DataStore.save`, the returned object does conta
 
 ---------------
 
-Author: @bregan
-Upvotes: 1
-Comments: 2
+**Author**: @bregan
+**Upvotes**: 1
+**Comments**: 2
 
 Summary:
 Does DataStore have to be run in an actual browser?  I am trying to run it under jest in a create-react-app project and it is not working. Just in the tests.  The app itself is working fine.  Also using the API.graphql also works fine in the tests.
@@ -51962,9 +51962,9 @@ thank you for your quick response.
 
 ---------------
 
-Author: @Tom-RulesCube
-Upvotes: 1
-Comments: 1
+**Author**: @Tom-RulesCube
+**Upvotes**: 1
+**Comments**: 1
 
 Attempting to use Datastore from Node.js command line app which results in "Error: Node is not supported" 
 
@@ -51985,9 +51985,9 @@ We're aware of this issue and are actively looking into it. Please track the pro
 
 ---------------
 
-Author: @karrettgelley
-Upvotes: 2
-Comments: 0
+**Author**: @karrettgelley
+**Upvotes**: 2
+**Comments**: 0
 
 I have been using multiple environments with amplify for a while now and there's one thing that bugs me. I'll illustrate this point with an example:
 Suppose you have a master and dev environment with amplify and a dev and master branch on git. The environments have both been initialized properly and do not have any resources associated with them. Now suppose I want to add an Auth resource on the dev branch/env with `amplify add auth, amplify push`. I test it out locally and then I want to merge these changes to master. So I `git checkout master, git merge dev, amplify env checkout master, amplify push`. Great, now the master environment has an auth resource. However, now my master branch on git has new changes! More specifically, the team-provider-info.json file has added a few lines indicating that the master environment has an auth resource now. If I simply amend these changes to the merge `git commit --amend`, my master branch will be updated properly, but now my dev branch is 1 commit behind master. I can fix this (probably by merging master into dev `git checkout dev, git merge master, git push`), but my git history is very odd now. And what if someone else pushed to dev before I can make this hotfix? This is a situation I face every time I want to add Storage, API, Auth, etc. to my app. It's wastes build minutes, introduces synchronization errors, and it's very annoying. Has anyone else noticed this, and if so, how did you fix it?
@@ -52002,9 +52002,9 @@ tldr How do you iteratively add aws resources without messing up team-provider-i
 
 ---------------
 
-Author: @sammartinez
-Upvotes: 1
-Comments: 1
+**Author**: @sammartinez
+**Upvotes**: 1
+**Comments**: 1
 
 I was curious what others are using for samples of Amplify JS.
 ## Comment
@@ -52023,9 +52023,9 @@ Hey @sammartinez - we have resources on our [community site](https://amplify.aws
 
 ---------------
 
-Author: @karrettgelley
-Upvotes: 1
-Comments: 1
+**Author**: @karrettgelley
+**Upvotes**: 1
+**Comments**: 1
 
 Does anyone know how to set up social federation with my own custom domain? I followed @dabit3 's great tutorial about [amplify authentication](https://dev.to/dabit3/the-complete-guide-to-user-authentication-with-the-amplify-framework-2inh), but it doesn't mention how to hook up a custom domain. In my master env, when I run amplify status I get an oauth endpoint like http://XXX.master.auth.us-west.cognito.com. That endpoint is then supposed to be entered into the google/facebook app. But how do I tell amplify and the google/facebook apps to use my custom domain instead? By the way, my custom domain is registered in Route 53 and set up in the amplify console.
 ## Comment
@@ -52044,9 +52044,9 @@ Nevermind, I figured it out: Register a domain with aws and then create a hosted
 
 ---------------
 
-Author: @apoorvmote
-Upvotes: 1
-Comments: 0
+**Author**: @apoorvmote
+**Upvotes**: 1
+**Comments**: 0
 
 ** Which Category is your question related to? **
 Lambda Function
